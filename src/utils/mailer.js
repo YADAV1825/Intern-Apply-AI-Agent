@@ -29,8 +29,8 @@ Key highlights from my background:
 • Amazon ML Summer School 2026: Selected among top 3,000 candidates from 134,000+ applicants nationwide.
 • Full-Stack Intern at StudentVerse (Dubai): Building scalable web/mobile features and containerized backend services deployed on Azure with Docker.
 • AI Research Intern at Molsys: Deployed and fine-tuned open-source LLMs (Qwen) on 2x NVIDIA H200 GPUs with vLLM, llama.cpp, and agentic workflows.
-• Open Source Contributor: Contributed to Google DeepMind Gemma (PR #624) and Meta LLaMA (PR #476).
-• Autonomous Agent & Systems: Built RAGE-BORN (autonomous developer agent with 25+ tools) and GiniVibe (scalable platform with Kafka, Redis, Docker).
+• Full-Stack Production Systems (GiniVibe): Architected an end-to-end web & mobile social discovery platform with Next.js, React Native, Node.js, PostgreSQL, Redis, Kafka, WebSockets/WebRTC, and Docker, featuring a hybrid monolith/microservice backend and intent-driven matching algorithms.
+• Autonomous AI Agents (RAGE-BORN): Built an autonomous developer agent with planner-execution feedback loops, terminal execution, browser automation, filesystem access, and 25+ integrated CLI tools.
 • Competitive Programming: LeetCode Knight (Rating 2013, 600+ problems solved), CodeChef 4-Star (1818).
 
 My institute permits a full-time 6-month internship, and I am keen to commit full-time with the objective of delivering immediate high-impact engineering work and converting to a full-time FTE role.
