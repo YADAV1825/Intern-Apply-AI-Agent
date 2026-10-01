@@ -1,0 +1,75 @@
+=== PAGE 1 ===
+Rohit Yadav
++91 8849994303 | yrohit1825@gmail.com | linkedin.com/in/rohit-yadav-25535b256 | github.com/YADAV1825 |
+rohit-portfolio-yadav1825.vercel.app
+Education
+National Institute of Technology, Jalandhar
+Jalandhar, India
+Bachelor of Technology in Information Technology
+Aug 2023 – Aug 2027
+Experience
+Full Stack Intern — StudentVerse (Dubai)
+Aug 2026 – Present
+Product Engineering Intern — Remote
+– Building responsive web/mobile screens and integrating APIs for student discovery.
+– Deploying containerized services with Docker and managing scalable infrastructure on Microsoft Azure.
+AI Research Intern — Molsys Pvt. Ltd.
+Jun 2026 – Jul 2026
+AI/ML Research Internship (Paid Contract Work) — Remote
+– Built and fine-tuned LLM pipelines for SFT, distillation, and fast inference and Engineered agentic AI workflows.
+– Deployed Qwen on 2x NVIDIA H200 GPUs using llama.cpp, Unsloth Studio, and vLLM.
+Amazon ML Summer School 2026 — Selected Cohort Participant
+Jun 2026 – Jul 2026
+Amazon — Machine Learning Training Program
+– Selected among 3,000 students from 134,000+ applicants across India and completed training in Generative AI and LLMs
+Open Source Contributor
+Mar 2026 – Present
+Meta LLaMA & Google DeepMind Gemma
+– Fixed tokenizer normalization and strict JAX typing issues in Google DeepMind Gemma PR #624.
+– Fixed a broken CLI import causing runtime download failures in Meta LLaMA PR #476.
+Full-Stack Web Developer Intern
+Jun 2025 – Jul 2025
+Skylark Express Delhi Pvt Ltd
+On-site, Gurugram
+– Built an internal logistics dashboard from scratch for package tracking and operations and redesigned frontend views.
+Projects
+AutonomousX: Built 25 LLMs From Scratch (0.1B–1.4B) on Google TPUs
+https://huggingface.co/autonomousX
+– Built 25 open-source LLMs from 124M to 1.4B parameters under the Google TRC grant.
+– Implemented JAX/Flax distributed training with pmap across TPU v4/v6e, testing 6 architectures, optimizers, positional
+encodings, and datasets over 500B+ tokens. Open-sourced model weights, checkpoints, training metrics, and Colab inference.
+GiniVibe: Full-stack End-to-End Scalable Social Discovery Platform
+https://github.com/YADAV1825/Ginivibe-project
+– Built web/mobile social platform with multimedia feeds, encrypted chat, events, group audio/video and AI personas.
+– Designed hybrid monolith/microservice backend.
+– Built an intent-driven AI matcher for natural-language user discovery and ranking.
+PathoPreter: Large-Scale Genomic Data Pipeline & DNA Foundation Model
+https://huggingface.co/autonomousX/PathoPreter-DNA-Pathogen-ClinvargnomAD −ranker
+– Built a 32-core pipeline processing 7.7M raw genomic records into 1.25M leakage-free, GPU-ready variants, reducing preprocessing
+time from 150+ hours to under 20 hours.
+– Fine-tuned a 500M-parameter Nucleotide Transformer on the curated variants to predict disease-causing rare genetic mutations.
+– Achieved 0.9186 ROC-AUC and identified 75%+ harmful mutations while evaluating only 10% of variants; 80x smaller than EVO2.
+RAGE-BORN: Agentic CLI Harness & Browser-Aware Agent
+https://github.com/YADAV1825/RAGE-BORN
+– Built an autonomous developer agent operating across terminal and browser through natural language.
+– Orchestrated 25+ CLI tools, filesystem operations, and multi-model LLM APIs with planner-execution feedback.
+– Automated browser navigation, forms, research, and Google Workspace synchronization.
+Technical Skills
+Programming: TypeScript, JavaScript, Python, C++, SQL
+Development: React, Next.js, React Native, Node.js, Express.js, Tailwind CSS, WebSockets, WebRTC
+AI & ML: PyTorch, JAX, Hugging Face, LLM Pretraining & Fine-tuning, GPU Clusters (A100/H100)
+Cloud: AWS, GCP, Azure, Docker, CI/CD, Linux, Git
+Databases: PostgreSQL, MongoDB, Prisma ORM
+Achievements
+Awarded Google TRC grant for 320 TPU access (SPOT + STANDARD VMs).
+IOQM (PRMO): Qualified for Indian Olympiad Qualifier in Mathematics
+[Certificate]
+KVPY SA: AIR 2590
+[Certificate]
+LeetCode: Knight (2013), 600+ problems solved across all platforms
+[Profile]
+CodeChef: 4-Star (1818)
+[Profile]
+Codeforces: Specialist (1417)
+[Profile]
+

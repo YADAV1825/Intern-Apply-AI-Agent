@@ -1,0 +1,1844 @@
+Unnamed: 0,SNo,Name,Email,Title,Company,net_worth
+,1.0,Akanksha Puri,akanksha.puri@sourcefuse.com,Associate Director HR,SourceFuse Technologies,$93.9M (ARR)
+,2.0,Akanksha Sogani,akanksha.sogani@perennialsys.com,Head HR,Perennial Systems,$1.2M (ARR)
+,3.0,Akhil Jogiparthi,akhil@ibhubs.co,Vice President - Talent Accelerator,iB Hubs,$5M (funding)
+,4.0,Akhila Chandan,akhila@estuate.com,Associate Vice President Human Resources,"Estuate,",$75.9M (ARR)
+,5.0,Akram Mohammad,akram.mohammad@colruytgroup.com,Deputy Head Head HR,Colruyt India,$5.2B (valuation)
+,6.0,Akriti,akriti@elsner.in,HR-Head,Elsner Technologies,$1.8M (ARR)
+,7.0,Akshata Bhandare,akshata.bhandare@windmill.ch,"HR & Location Head, India",Windmill,$15M (ARR)
+,8.0,Albino Mascarenhas,albino@pixis.ai,Head - Human Resources Global,Pyxis One,$209M (funding)
+,9.0,Allwyn Richard,allwyn.r@qbrainx.com,Head of Human Resources,QBrainX Inc,$29.5M (ARR)
+,10.0,Alok Baghel,alok.singh@recro.io,Head Of Talent Management,Recro,$4.5M (ARR)
+,11.0,Alok Kumar,alok.kumar@vfislk.com,"Operations Leader and Head Transitions, L&D",VFI SLK,$600M (valuation)
+,12.0,Alwyn Barretto,alwyn.barretto@infrasofttech.com,Head Recruitments,Infrasoft Technologies,$45M (ARR)
+,13.0,Aman Khan,aman.khan@areteanstech.com,Vice President Human Resources,Areteans,$47M (ARR)
+,14.0,Amandeep Kaur,amandeep.k@antiersolutions.com,Sr. HR Executive (Technical Recruitment Head),Antier Solutions,$3M (funding)
+,15.0,Amar Sinha,amar.sinha@nitorinfotech.com,Director Talent Acquisition (People Function),Nitor Infotech,$30M (ARR)
+,16.0,Ambrish Kanungo,ambrish.kanungo@beyondkey.com,Head of HR,Beyond Key,$10M (ARR)
+,17.0,Amiit Avaasthi,amiit.avaasthi@altudo.co,Chief People Officer,Altudo,$75M (ARR)
+,18.0,Amit,amit.malhotra@wundermanthompson.com,Chief People Officer,Wunderman Thompson MSC,$10.5B (valuation)
+,19.0,Amit Kataria,amit@hanu.com,Chief Human Resources Officer,Hanu Software,$72.5M (ARR)
+,20.0,Amit Prayagi,amit.prayagi@claimgenius.com,Head Of Recruitment & HR Operation,Claim Genius,$10.6M (funding)
+,21.0,Amit Ranjan,amit.ranjan@scikey.ai,Associate Director- Talent Solutions,SCIKEY,$5M (funding)
+,22.0,Amit Sahoo,amit.sahoo@areteanstech.com,Vice President and Global Head - Human Resources,Areteans,$47M (ARR)
+,23.0,Amita Shital,ashital@svam.com,Head of HR,SVAM International,$35M (ARR)
+,24.0,Amitesh Verma,amitesh.verma@cheersin.com,"Associate Director, Talent Acquisition",Cheers Interactive,$100M (ARR)
+,25.0,Amitha K,amitha.k@secure-24.com,Director- HR,Secure-24,$169.5M (ARR)
+,26.0,Amlan Nag,amlan.nag@mjunction.in,General Manager & Head HR,mjunction services,$42M (ARR)
+,27.0,Amresh Mehra,amreshm@zendrive.com,VP - People & Culture,Zendrive,$60M (funding)
+,28.0,Amrita,akishore@dimagi.com,"Director of People Operations, India",Dimagi,$51.6M (ARR)
+,29.0,Amrita Cheema,amrita.cheema@loconav.com,Head HR - Global SaaS,LocoNav,$47M (funding)
+,30.0,Amrita Singh,amrita.singh@cogentinfo.com,Director - Recruitment & Delivery (US Staffing),COGENT Infotech,$65M (ARR)
+,31.0,Amrita Singh,amrita.singh@itbd.net,Head HR (India),IT BY DESIGN,$25M (ARR)
+,32.0,Amrita Tripathi,amrita@sdnaglobal.com,"VP - India, ME and APAC HR",Stanley David and Associates,$50M (ARR)
+,33.0,Amritesh Shukla,amritesh.shukla@mygate.com,Head Of Human Resources,MyGate,$250M (valuation)
+,34.0,Amruta Urkude,amruta@greatplaceitservices.com,HR Head (Generalist),Great Place IT Services,$3M (ARR)
+,35.0,Amulya,amulya.ms@utthunga.com,Director HR,Utthunga,$35M (ARR)
+,36.0,Anand Christopher,anand.christopher@grassrootsbpo.com,Vice President Human Resources,Grassroots,$4M (ARR)
+,37.0,Anand E,anand.e@increff.com,Chief Human Resources Officer,Increff,$73M (valuation)
+,38.0,Anand K,ak@8kmiles.com,Vice President Human Resources,SecureKloud Technologies,$20M (valuation)
+,39.0,Anand Khot,anandk@pharmarack.com,Chief Human Resources Officer,Pharmarack,$10.5M (funding)
+,40.0,Anand Rajendran,anand.r@whatarage.com,Director - HR,ADK Rage,$15M (ARR)
+,41.0,Anand Sasidharan,anand@hubilo.com,Head of Talent Acquisition,Hubilo,$153M (funding)
+,42.0,Anand Sl,anand@auzmor.com,HR Director / Operations Head (India),Auzmor,$7.4M (ARR)
+,43.0,Anand Soni,anand@capsitech.com,Talent Acquisition Head,Capsitech,$4.5M (ARR)
+,44.0,Anand Thiagarajan,athiagarajan@inniveinc.com,Vice President - Human Resources,Innive Inc,$10M (ARR)
+,45.0,Anandhi Srinivasan,anandhi.s@dsmsoft.com,Associate Vice President - Human Resources,DSM SOFT,$8M (ARR)
+,46.0,Ananthram Iyer,ananthram.iyer@customercentria.com,Vice President HR,Customer Centria,$3M (ARR)
+,47.0,Anchal Rastogi,anrastogi@enhanceit.com,AVP Recruitments,Enhance IT,$27.4M (ARR)
+,48.0,Anchan Arasinaguppe,aarasina@teksystems.com,Associate Director Talent Acquisition,TEKsystems Global Services in India,$7B+ (ARR)
+,49.0,Angel Mathew,angel.mathew@delphix.com,Human Resources Director,Delphix,$120M (funding)
+,50.0,Anil Chandra,anil.chandra@thoughtspot.com,"Senior Director, Talent Acquisition",ThoughtSpot,$4.2B (valuation)
+,51.0,Anil K,anil.k@corestack.io,Human Resources Director,CoreStack,$350M (valuation)
+,52.0,Anil Moturi,anil.moturi@solugenix.com,Director Talent Acquisition,Solugenix,$17M (ARR)
+,53.0,Anil Pereira,anil.pereira@visiblealpha.com,Senior Director Human Resources,Visible Alpha,$68M (funding)
+,54.0,Anil Ramachandran,anil.kumar@flytxt.com,Head - Global HR,Flytxt,$37.3M (ARR)
+,55.0,Anil Tomar,anil.tomar@fdsindia.co.in,HR Head,Fourth Dimension Solutions,$2.2M (ARR)
+,56.0,Animesh Kumar,animesh.kumar@novopay.in,"Head HR, Novopay",Novopay,$4.5M (ARR)
+,57.0,Anindita Ranjan,anindita.ranjan@3ds.com,Director HR,Dassault Systems,$31.7B (valuation)
+,58.0,Anirban Chakravorty,anirban.chakravorty@nttdata.com,Senior Director & Regional Head - Human Resources,NTT DATA,$42.2B (ARR)
+,59.0,Anirban Ghosh,aghosh@trimaxamericas.com,Head - Human Resources Management,Data Glove,$90.5M (valuation)
+,60.0,Anirudhan Vasudevan,anirudhan.vasudevan@replicon.com,Senior Director Human Resources,Replicon,$20M (funding)
+,61.0,Anish Ahmed,anish.ahmed@vaave.com,Head-13x Talent,Vaave,$766K (funding)
+,62.0,Anish Raj,anish.raj@sentieo.com,Human Resources Director,Sentieo,$68.5M (funding)
+,63.0,Anita Mourya,anita.mourya@capricot.com,PS to Chairman / Director - HR,Capricot Technologies,$30M (ARR)
+,64.0,Anita Noronha,anoronha@shorewise.com,Global Head Human Resources,ShoreWise Consulting,$2.5M (ARR)
+,65.0,Anita Sidhwani,asidhwani@cleo.com,Head HR,Cleo,$500M (valuation)
+,66.0,Anita Yadav,anita@appventurez.com,Global HR Head,Appventurez,$4.5M (ARR)
+,67.0,Anitha Davis,anitha.davis@incture.com,Associate Director - Talent Acquisition,Incture,$25M (ARR)
+,68.0,Anitha Prabhakar,anitha.prabhakar@pramati.com,HR Director,Pramati Technologies,$10M (ARR)
+,69.0,Anjali,anjali@knackforge.com,Vice President Human Resources & Operations,KnackForge,$3.5M (ARR)
+,70.0,Anjali Ghadge,anjalig@mangoapps.com,VP - HR & Operations I We're Hiring!,MangoApps,$19.6M (ARR)
+,71.0,Anjali Patil,anjali.patil@workindia.in,HR Director,WorkIndia,$91M (valuation)
+,72.0,Anjali Sharma,anjali.sharma@fulcrumdigital.com,"Director, Global head of L&D",Fulcrum Digital Inc,$100M (ARR)
+,73.0,Anjan Bose,anjan.bose@hpl.co.in,CIO & Head of HR,HPL,$240M (valuation)
+,74.0,Anjani Salian,anjani.salian@in.nbssap.com,Head - Talent Acquisition & Talent Management,Net Business Solutions,$3M (ARR)
+,75.0,Anju Tyagi,anju.tyagi@bpoconvergence.com,Head of HR,BPO Convergence,$9M (ARR)
+,76.0,Ankit Shah,ankit@compumatrice.com,Head of HR & Operations,CompuMatrice,$2M (ARR)
+,77.0,Ankit Sharma,ankit.sharma@a1technology.com,Head Of Recruitment & HR,A-1 Technology,$36.8M (ARR)
+,78.0,Ankit Tomar,ankit.tomar@rategain.com,Associate Director HR Transformation,RateGain,$1.2B (valuation)
+,79.0,Ankita,ankita@zenwork.com,Vice President HR & Operations,Zenwork,$163M (funding)
+,80.0,Ankita Rajrishi,ankita.rajrishi@condecosoftware.com,Head of Shared Services - Talent Acquisition,Condeco,$528M (funding)
+,81.0,Ankita Sinha,ankita.sinha@mtxb2b.com,Chief People Officer,MTX Group,$50M (ARR)
+,82.0,Ankur Beri,ankur.beri@niit-tech.com,Group Head Human Resources,NIIT Technologies,$9.4B (valuation)
+,83.0,Anna Andrews,annaa@smartek21.com,Head-Human Resources (India),SmarTek21,$75.7M (ARR)
+,84.0,Anna Mathunny,anna@transactglobal.com,Head Of Human Resources,Transact Global,$4M (ARR)
+,85.0,Annapurna A,annapurna.a@fime.com,Head of HR & Admn,FIME,$50M (ARR)
+,86.0,Annie Manoj,annie.manoj@grasko.com,Director - Human Resources,Grasko Solutions,$8.5M (ARR)
+,87.0,Anoob Abraham,anoob.abraham@arcadia.com,Associate Director - Talent Acquisition,Arcadia,$1.5B (valuation)
+,88.0,Anshika Khaitan,anshika.khaitan@getvymo.com,Director-People & Culture,Vymo,$45M (funding)
+,89.0,Anshu Anand,anshu.anand@absolutdata.com,Head Of Human Resources,Absolutdata Analytics,$40M (ARR)
+,90.0,Ansuman Sahu,ansumans@mindfiresolutions.com,Head of HR / Staffing,Mindfire Solutions,$7M (ARR)
+,91.0,Anto Faria,anto.faria@urbanladder.com,Head L&D Operation and Fulfillment,Urban Ladder,$115M (funding)
+,92.0,Anuj Agarwal,anuj@deskera.com,"VP, Corporate Operations & HR",Deskera,$250M (valuation)
+,93.0,Anuja Sivaram,anuja@codenation.co.in,CHRO & COO,Trilogy Innovations,$4M (ARR)
+,94.0,Anupam Jauhari,anupam.j@gsl.in,Group CHRO,Ginesys,$10M (funding)
+,95.0,Anupam Srivastava,anupam.srivastava@reltio.com,Head Of Human Resources,Reltio,$1.7B (valuation)
+,96.0,Anupama Dasgupta,anupamadg@erevmax.com,SVP Human Resources,eRevMax,$15M (ARR)
+,97.0,Anupriya Gandhi,anupriya.gandhi@juliacomputing.com,Global Director People Ops,Julia Computing,$127M (funding)
+,98.0,Anurag Rana,anurag.rana@sirionlabs.com,Head of Human Resources,SirionLabs,$1B (valuation)
+,99.0,Anurag Shrivastava,anurags@talisma.com,Director - HR,Talisma,$66.4M (funding)
+,100.0,Anurag Verma,anurag@uniphore.com,Vice President Human Resources,Uniphore,$2.5B (valuation)
+,101.0,Anusha Jayachandran,anusha@srswebsolutions.com,Head - Human Resources Operations,SRS Web Solutions,$8M (funding)
+,102.0,Anusha Kishore,anusha.kishore@loco.gg,Assistant Vice President Human Resources,Loco,$200M (valuation)
+,103.0,Aparna Gunjikar,aparna.gunjikar@softnautics.com,Head Of Human Resources,Softnautics,$4M (ARR)
+,104.0,Aparna Srikanth,aparna.srikanth@appsian.com,"Head, Human Resources - India",Pathlock,$20M (funding)
+,105.0,Aradhana Gupta,aradhana@safexpay.com,Chief People Officer,SafexPay,$100M (valuation)
+,106.0,Arathi,arathi.gs@vyomlabs.com,AVP HR,Vyom Labs,$25M (ARR)
+,107.0,Arathi Prabhu,arathi.prabhu@altruistahealth.com,Director - Talent Acquisition,Altruista Health,$40M (ARR)
+,108.0,Arathi Rajeswari,arathi@suntecgroup.com,"AVP, Head of Talent Advancement and Excellence",SunTec Business Solutions,$96.3M (ARR)
+,109.0,Aravind Chandrasekar,aravind.chandrasekar@tigerspike.com,"Associate Director, Talent Acquisition",Concentrix Tigerspike,$9.6B (valuation)
+,110.0,Aravind Warrier,aravind.warrier@rapidvaluesolutions.com,Human Resources Director,RapidValue,$10M (ARR)
+,111.0,Archana Anand,archana@aufait.in,Head of Talent Acquisition,Aufait Technologies,$27M (ARR)
+,112.0,Archana Kp,archana.kp@kilowott.com,Vice President Human Resources,Kilowott,$24.9M (ARR)
+,113.0,Archana Kunde,archana@quinbay.com,Human Resources Director,Quinbay,$69M (ARR)
+,114.0,Archana Manne,archana.manne@locuz.com,Vice President Human Resources,Locuz,$42M (ARR)
+,115.0,Archana Sarda,archana.sarda@microlise.com,Head Of Human Resources,Microlise,$70M (valuation)
+,116.0,Archana Shinde,archana.shinde@cognologix.com,Head Human Resources Department,Cognologix Technologies,$23.3M (ARR)
+,117.0,Arif Memon,arif.memon@abzooba.com,Associate Vice President Talent Acquisition,Abzooba,$1.2M (ARR)
+,118.0,Arindam Kar,arindam.kar@yodlee.com,Head-Talent Acquisition,Envestnet,$3.49B (valuation)
+,119.0,Arjita Chawla,arjita.chawla@quytech.com,Head Of Human Resources,Quytech,$5M (ARR)
+,120.0,Arjun Chatterjee,arjun.chatterjee@sunlife.com,Director & Head of Talent Acquisition,Sun Life,$29B (valuation)
+,121.0,Arpana Jaiswal,arpanaj@umbrellainfocare.com,Head Human Resources,Umbrella Infocare,$8.2M (ARR)
+,122.0,Arpita Sarkar,arpita.sarkar@webskitters.com,Director Talent Acquisition,WEBSKITTERS TECHNOLOGY SOLUTIONS,$6.2M (ARR)
+,123.0,Artoon Solutions,qa@artoonsolutions.com,Chief Human Resources Officer,Artoon Solutions,$2.2M (ARR)
+,124.0,Aru Uppal,aru.uppal@datdyn.com,Global Head Human Resources,Data Dynamics,$12.8M (ARR)
+,125.0,Arun Kumar,arun.kumar@bobtechsolutions.com,HEAD - Human Resources & Operations,BOB Tech Solutions,$2M (ARR)
+,126.0,Arun Kumar,arun.kumar@shipsy.io,Mentor/ Chief People Officer,Shipsy,$32M (funding)
+,127.0,Arun Kumar,arun.kumar@wavicledata.com,Director - Human Resources,Wavicle Data Solutions,$105M (ARR)
+,128.0,Arun Murugappa,arun@theatem.com,Delivery Head - Talent Acquisition,ATEM Software Solutions,$1.5M (ARR)
+,129.0,Arun Ravi,arun.ravi@ipsoft.com,Digital Workforce Management - Head,Amelia,$80M (valuation)
+,130.0,Arun Singh,arun.singh@puresoftware.com,Senior Director Talent Acquisition,PureSoftware,$94.5M (valuation)
+,131.0,Arun Vigneswaran,arun@xto10x.com,Head of People Excellence & HR head for xto10x,xto10x,$25M (funding)
+,132.0,Arunima Bhushan,arunima.bhushan@orcapodservices.com,AVP-HR,Orcapod,$8M (ARR)
+,133.0,Arushi Goel,arushi.goel@betterplace.co.in,Director HRBP,BetterPlace,$250M (valuation)
+,134.0,Arushi Sawhney,arushi.sawhney@e2eresearch.com,Head Of Human Resources,Altezzasys Systems,$5M (ARR)
+,135.0,Arvind Sadasivan,arvind.sadasivan@ekaplus.com,Director Global Human Resources,Eka Software Solutions,$450M (valuation)
+,136.0,Asenath Sharon,sharon@srinsofttech.com,Associate Vice President - HR,SrinSoft Technologies,$23M (ARR)
+,137.0,Asha Rao,asha.j@unilogcorp.com,Associate Director - Human Resources,Unilog,$10M (ARR)
+,138.0,Ashish Karnik,ashish.karnik@pavilion.io,Head Performance Engineering,Pavilion,$15M (ARR)
+,139.0,Ashish Naidu,ashish.naidu@mindgate.in,Assistant Vice President - Talent Acquisition,Mindgate Solutions,$200M (valuation)
+,140.0,Ashok Manjunath,ashok@spenmo.com,Head of Talent Acquisition,Spenmo,$500M (valuation)
+,141.0,Ashok Putsala,ashok.putsala@senecaglobal.com,Associate Vice President - Talent Acquisition,SenecaGlobal,$15M (ARR)
+,142.0,Ashok Seshadri,ashok.seshadri@objectfrontier.com,Head - Global Talent Management,ObjectFrontier Software,$62M (ARR)
+,143.0,Ashok Tripathy,ashok.tripathy@bpoconvergence.com,PRINCIPAL CONSULTANT & GROUP HEAD HR,BPO Convergence,$9M (ARR)
+,144.0,Ashraf Kazi,ashraf.kazi@simplifyhealthcare.com,Associate Director Talent Acquisition,Simplify Healthcare,$98.5M (ARR)
+,145.0,Ashraf Mulla,ashraf.mulla@qseap.com,AVP- Talent Acquisition & Strategy,qSEAp Infotech,$3M (ARR)
+,146.0,Ashton Lawrie,ashton.lawrie@iitms.co.in,General Manager - HR (Head of Department),MasterSoft ERP Solutions,$8M (ARR)
+,147.0,Ashutosh Sinha,ashutosh@tuya.com,Head - Human Resource,Tuyasmart India,$1.02B (valuation)
+,148.0,Ashwani Bhargava,ashwanib@decisionminds.com,Director Recruitment,Decision Minds,$29M (ARR)
+,149.0,Ashwani Kumar,ashwani@successive.tech,Vice President - People & Culture,Successive Technologies,$23M (ARR)
+,150.0,Ashwin Singh,ashwin@suki.ai,Head of Talent Acquisition,Suki,$500M (valuation)
+,151.0,Ashwini Ashok,ashwini.ashok@eton-solutions.com,Head of Human Resources,Eton Solutions LP,$108M (funding)
+,152.0,Ashwini J,ashwini.janardhanan@kaleyra.com,"Head - People & Culture, APAC",Kaleyra,$100M (valuation)
+,153.0,Aswanth Goka,agoka@workfusion.com,Vice President Human Resources,WorkFusion,$1B (valuation)
+,154.0,Aswin Prashannth,aswin@psrtek.com,Head Talent Acquisition of India Operation,PSRTEK,$3.5M (ARR)
+,155.0,Atin Karmokar,atin.karmokar@pentagon.co.in,AVP - Head Human Resources & Admin,Pentagon System and Services,$12M (ARR)
+,156.0,Atul Kanknala,atul.kanknala@craveinfotech.com,Head HR- Talent Acquisition and Strategy,Crave InfoTech,$15M (ARR)
+,157.0,Atul Pal,atul.pal@innefu.com,Head Of Human Resources - Client Operations,Innefu Labs,$30M (funding)
+,158.0,Avinash Poojari,avinash@sedintechnologies.com,AVP - Talent Acquisition,Sedin Technologies,$20M (ARR)
+,159.0,Ayush Daryani,ayush.daryani@niftel.com,Head Of Recruitment,Niftel Communications,$2M (ARR)
+,160.0,Ayush Sinha,ayush.sinha@sugarboxnetworks.com,Vice President Human Resources,SugarBox Networks,$70M (funding)
+,161.0,Babitha Nambiar,babitha.nambiar@opusconsulting.com,VP - Head Human Resources,Opus Consulting Solutions,$30M (ARR)
+,162.0,Babu Thoppil,babu_thoppil@mahindrasatyam.com,VP - HR,Mahindra Satyam BPO,$4.5B (valuation)
+,163.0,Balaji Er,balaji@isourceindia.com,Head Of Recruitment,iSource ITES,$1.5M (ARR)
+,164.0,Balaji Thiyagarajan,balaji.thiyagarajan@thirdware.com,Associate Director HR,Thirdware Solution INC,$120M (ARR)
+,165.0,Balakrishna Shetty,balakrishna.shetty@genisys-group.com,Vice President - Human Resource,Genisys Group,$35M (ARR)
+,166.0,Balaraju Guddinti,balaraju.g@nslhub.com,Head of Talent Acquisition,Brane Enterprises,$25M (ARR)
+,167.0,Balesh S,balesh@adarshsolutions.com,Head HR & Operations,Adarsh Solutions,$2M (ARR)
+,168.0,Balneet Birah,balneet.birah@netsolutions.com,Chief Human Resources Officer,Net Solutions,$10M (ARR)
+,169.0,Bandana Kaul,bandana@airditsoftware.com,Director-Human Resources,Airdit Software Services,$1.2M (ARR)
+,170.0,Bandla Shyamprasad,bandla.shyamprasad@terralogic.com,Director - HR & Operations,Terralogic,$15M (ARR)
+,171.0,Banmeet Kour,banmeet.kour@itbd.net,Head of Talent Acquisition India/PH/US,IT BY DESIGN,$25M (ARR)
+,172.0,Barkha Agrawal,bagrawal@cpg-inc.com,Director-Talent Acquisition,Computer Power Group,$20M (ARR)
+,173.0,Barkha Dave,barkha@trellissoft.ai,Head of HR & Operations Compliance,"Trellissoft,",$2.5M (ARR)
+,174.0,Barkha Sharma,barkha@wobot.ai,CHRO,Wobot.ai,$5.4M (funding)
+,175.0,Basava,basava@kamivision.com,Head Of Human Resources,Kami Vision,$10M (funding)
+,176.0,Batool Ali,batool.ali@electriphi.ai,Head Of Human Resources,Ford Pro Charging,$60B (valuation)
+,177.0,Bedisha Karmakar,bedisha@reward360.co,Senior Director People Operations,Reward360 Global Services.,$15M (ARR)
+,178.0,Benoy Koshy,benoy.koshy@sisainfosec.com,Head of Talent Acquisition,SISA,$20M (ARR)
+,179.0,Bensely Zachariah,bensely.zachariah@fulcrumdigital.com,Global Head of Human Resources,Fulcrum Digital Inc,$100M (ARR)
+,180.0,Bensley Zachariah,bensley.zachariah@fulcrumdigital.com,Global Head of Human Resources,Fulcrum Digital Inc,$100M (ARR)
+,181.0,Benson Mendez,benson.mendez@microobjects.net,VP - Human Resources,MicroObjects,$1.5M (ARR)
+,182.0,Bhakti Dharod,bhakti.dharod@idfy.com,Head of HR,IDfy,$256.4M (valuation)
+,183.0,Bharat Bhartia,bharat.bhartia@workindia.in,Head of Talent Acquisition and HR,WorkIndia,$91M (valuation)
+,184.0,Bharat Rao,bharat@ka-nex.com,Director - Talent Acquisition,CK Solutions,$2M (ARR)
+,185.0,Bharathi Ravipati,bravipati@appstekcorp.com,Sr. Director HR- Eastern Region,AppsTek,$12M (ARR)
+,186.0,Bhargavi Challa,bhargavic@aissel.com,Head of Human Resources,Aissel Technologies,$3M (ARR)
+,187.0,Bharti Negi,bharti.negi@edifecs.com,"Sr. Director, Recruitment, Talent Acquisition",Edifecs,$1.4B (valuation)
+,188.0,Bhavana Jain,bhavana@netcore.co.in,Chief Human Resources Officer,Netcore Cloud,$136.5M (ARR)
+,189.0,Bhavik Kaklotar,bkaklotar@diabsolut.com,Head Global Talent Acquisition,Diabsolut Inc,$18M (ARR)
+,190.0,Bhavik Shah,bhavik@games2win.com,Human Resources Head,Games2win India,$13M (funding)
+,191.0,Bhavika Sheth,bhavika.sheth@itcgindia.com,HR Head at ITCG,ITCG Solutions,$2.5M (ARR)
+,192.0,Bhavin Sanghavi,bhavin@mydukaan.io,Head - Talent Acquisition,Dukaan,$71M (valuation)
+,193.0,Bhavya Shetty,bhavya@supplywisdom.com,Director Talent Management,Supply Wisdom,$25.2M (funding)
+,194.0,Bhawna Suri,bhawna@weexcel.in,Head HR & Operations,HR,-
+,195.0,Bhupesh Wasmatkar,bhupesh.wasmatkar@verse.in,Head - Talent Acquisition,VerSe Innovation,$5B (valuation)
+,196.0,Biju Varghese,biju.v@inapp.com,Director | HR | InApp,InApp,$51.7M (ARR)
+,197.0,Bikram Dash,bikram.dash@tatwa.info,Vice President HR L&D,TATWA Technologies,$9.4M (ARR)
+,198.0,Bindu Krishnan,bindu.krishnan@ospyn.com,Director-Human Resources and Administration,Ospyn Technologies,$3.9M (ARR)
+,199.0,Binoy Varghese,binoy.varghese@rgigroup.com,Group Head (Human Resources),RGI Group,$500M (ARR)
+,200.0,Biplob Das,biplob.das@izmoltd.com,Head Of Human Resources,izmo,$160M (valuation)
+,201.0,Birendra Rout,birendra.rout@weavertec.com,Head-HR,Weaverbird Engineering & Technology,$2M (ARR)
+,202.0,Bishnu Rai,bishnu.rai@iglobalservices.net,Head Of Human Resources,iGlobal KPO Services,$1.5M (ARR)
+,203.0,Bosky Wadhwa,bosky.w@totalitglobal.com,Associate Director - Talent Acquisition,Total IT Global,$25M (ARR)
+,204.0,Brij Kishore,brij@claritusconsulting.com,Vice President Recruitment Operations,Claritus Management Consulting,$8M (ARR)
+,205.0,Britto Ambrose,britto@xoxoday.com,Vice President of People & Culture,Xoxoday,$101M (funding)
+,206.0,Bushra Mehdi,bushra.mehdi@axeno.co,AVP - Human Resources,Axeno,$3.5M (ARR)
+,207.0,Byju Valappil,byju@rdalabs.com,Senior Director - HR,RDAlabs,$3.5M (ARR)
+,208.0,Capt Kansal,capt.kansal@writerinformation.com,Head Safety Security,Writer Information,$120M (ARR)
+,209.0,Celina Joseph,celina.joseph@extentia.com,Vice President - Human Resources,Extentia Information Technology,$30M (ARR)
+,210.0,Chainsingh Rathore,chainsingh.rathore@thegatewaycorp.com,AVP Talent Acquisition & Operations,Gateway Group of Companies,$203M (ARR)
+,211.0,Chaitali Bhattacharya,cbhattacharya@inventive-it.com,Senior Director of Human Resources,Inventive IT,$5M (ARR)
+,212.0,Chaitali Ray,cray@netwoven.com,Director HR,Netwoven,$25.4M (ARR)
+,213.0,Chaitanya Arikati,chaitanya.arikati@abjayon.com,Senior Recruitment Manager (Head - TA),Abjayon,$63.8M (ARR)
+,214.0,Chaitanya Kanthi,chaitanya.kanthi@smartims.com,Senior Director - Human Resources,Smart IMS,$94.6M (ARR)
+,215.0,Chaitanya Peeta,chaitanya.peeta@polygon.technology,Vice President Human Resources,Polygon,$451M (funding)
+,216.0,Chamola Hal,chamola.hal@hal-dz.com,Human Resources Director,HAL,$37B (valuation)
+,217.0,Chanchal Chandiok,chanchal.chandiok@northgateps.com,HR Director,NEC Software Solutions,$323M (ARR)
+,218.0,Chandan Gambhir,chandan@noida.interrasystems.com,Director - Human Resources,Interra Systems,$22M (ARR)
+,219.0,Chandan Thakur,chandan.kashyap@mysenseinc.com,Chief Talent Officer,Mysense Technologies,$1.5M (ARR)
+,220.0,Chandini Davies,chandinid@saglobal.com,Head Of Human Resources,sa.global,$50M (funding)
+,221.0,Chandini Mokthar,chandini@moolya.com,VP-People & Culture,Moolya,$7.6M (ARR)
+,222.0,Chandni Chopra,chandnic@lambdatest.com,Director - Human Resources,LambdaTest,$400M (valuation)
+,223.0,Chandni Yadav,chandniyadav@ucreate.co.in,Global Head of Talent Acquisition,Founder and Lightning,$240M (valuation)
+,224.0,Chandra Prakash,chandra.prakash@innoverdigital.com,Head of Talent Acquisition,Innover Digital,$107M (ARR)
+,225.0,Chandra Ratra,chandra.ratra@navigaglobal.com,Director Talent Acquisition,Naviga India,$81.6M (ARR)
+,226.0,Chandrakanth K,chandra@srivensys.com,Head of Recruiting Operations,Sriven Systems,$12M (ARR)
+,227.0,Chandrasekhar Gv,cgv@eclinicalsol.com,Vice President Human Resources,eClinical Solutions,$58.1M (ARR)
+,228.0,Chandrashekar R,chandrashekarr@softura.com,Head of Human Resources,Softura,$9.5M (ARR)
+,229.0,Chandresh Kumar,chandresh.kumar@jagrannewmedia.com,Chief Manager & Head ( Performance Advertising),Jagran New Media,$12M (ARR)
+,230.0,Charan Singh,charan@srinipharma.com,HEAD /HR,SRINI PHARMACEUTICALS,$20M (ARR)
+,231.0,Charles Timothy,charles.t@palni.com,Director HR,Palni Inc,$29.9M (ARR)
+,232.0,Charmaine Pinto,charmaine@streamoid.com,Head of Human Resources,Streamoid,$1M (funding)
+,233.0,Cheryl Anjelo,cheryl.anjelo@colortokens.com,Director - HR,ColorTokens,$31.1M (ARR)
+,234.0,Chetan Verma,cverma@fcsltd.com,Head Recruitment,FCS Software Solutions,$28M (valuation)
+,235.0,Chetna Gogia,chetna@gokwik.co,Chief Human Resources Officer,GoKwik,$481M (valuation)
+,236.0,Chhavi Bhatnagar,chhavi.bhatnagar@acnovate.com,Chief People Officer,Acnovate Corporation,$11.5M (ARR)
+,237.0,Chinmoy Roy,chinmoy.roy@catalyst-us.com,Head Human Resources,Catalyst Business Solutions,$27.9M (ARR)
+,238.0,Chintan Bhatt,b.chintan@introlligent.com,Recruitment Head-US Operations,Introlligent,$8M (ARR)
+,239.0,Chirag Patel,chirag.patel1@rangtech.com,Talent Acquisition Manager & Head-hunter,Rang Technologies Inc,$59M (ARR)
+,240.0,Chirag Shah,chirag.shah@iflair.com,Director (HR & Admin),iFlair Web Technologies,$24.4M (ARR)
+,241.0,Chiranjeevi Pannem,chiranjeevip@byteridge.com,Chief People Officer,Byteridge,$4.5M (ARR)
+,242.0,Chitra Markale,chitram@zconsolutions.com,Head Of Human Resources,zCon Solutions,$21.2M (ARR)
+,243.0,Chitra Ravi,chitra.ravi@ample.co.in,Head of HR,Ample Technologies,$195M (ARR)
+,244.0,Cireesha Mailavarapu,cireesha.m@etisbew.com,Vice President - Global HR & Alliances,ETG Digital,$10M (ARR)
+,245.0,Crp Saurabh,saurabh@caastle.com,Head of Total Rewards and People Operations,CaaStle,$300M (funding)
+,246.0,Cynthia Rodrigues,cynthia@netcore.co.in,Group Vice President -HR,Netcore Cloud,$136.5M (ARR)
+,247.0,Damayanti Ghosh,damayanti.ghosh@getvymo.com,Head of Talent Acquisition,Vymo,$45M (funding)
+,248.0,Daniel Shaw,daniel.shaw@kpipartners.com,Director of HR & Talent Acquisition,KPI Partners,$86.1M (ARR)
+,249.0,Dathree Javvadi,dathree.javvadi@vncservices.in,Cheif Human Resources Officer CHRO,VNC Digital Services,$8.6M (ARR)
+,250.0,Debashish Bhattacharya,debashishb@interrait.com,Head of HR,Interra Information Technologies,$63.1M (ARR)
+,251.0,Debdutta Bhowmick,debdutta.bhowmick@atidiv.com,Human Resources Director,Atidiv,$7M (ARR)
+,252.0,Debojit Das,debojit.das@betterplace.co.in,Associate Director - Staffing,BetterPlace,$250M (valuation)
+,253.0,Deborah Passanha,dpassanha@everydayhealth.com,Director of Operations / HR Head,Everyday Health Group,$38.5M (ARR)
+,254.0,Deep Ambike,deep@thinkbridge.in,Associate Director - Global Talent,thinkbridge,$65.6M (ARR)
+,255.0,Deep Patel,deep.patel@ics-global.in,Vice President Talent Acquisition,INTECH,$601M (ARR)
+,256.0,Deepa Baburaj,bdeepa@zeomega.com,Associate Director - HR at ZeOmega,ZeOmega,$147M (ARR)
+,257.0,Deepa Dand,deepa@prdxn.com,Director of Accounts/Administration (HR Support),Axioned,$5M (ARR)
+,258.0,Deepa Makhija,deepa.makhija@gupshup.io,Associate Director HR,Gupshup,$278M (valuation)
+,259.0,Deepa Mukherjee,deepa.mukherjee@esri.in,Chief People Officer & Vice President,Esri India,$35M (ARR)
+,260.0,Deepa Palaniswamy,deepa.palaniswamy@ducenit.com,Center Head India / Operations and Global HR,Ducen,$63M (ARR)
+,261.0,Deepa Sripathi,deepa.sripathi@konicaminolta.com,Head Human Resources,Konica Minolta Business Solutions India,$120M (ARR)
+,262.0,Deepak Babu,deepak.babu@appviewx.com,Director Talent Acquisition,AppViewX,$52M (funding)
+,263.0,Deepak Chavan,deepak.chavan@visiblealpha.com,Manager - Head Talent Acquisition India,Visible Alpha,$68M (funding)
+,264.0,Deepak Deshpande,deepak.deshpande@netmagicsolutions.com,Vice President - Human Resources,NTT DATA,$42.2B (ARR)
+,265.0,Deepak Gelda,deepak@uchicago.edu,Head Of Human Resources,IT Services,-
+,266.0,Deepak Khanna,dkhanna@ishir.com,Chief Talent Officer,ISHIR,$46.6M (ARR)
+,267.0,Deepak Melwani,deepak.melwani@galaxyweblinks.co.in,Head of Talent Acquisition and Employer Branding,Galaxy Weblinks Inc,$9M (ARR)
+,268.0,Deepak Pawar,deepak.pawar@accutech.co.in,Head Of Human Resources,Accutech Power Solutions,$8.5M (ARR)
+,269.0,Deepak Ramakrishnan,deepak.ramakrishnan@csquare.in,Head Of Human Resources,C-Square Info Solutions,$4.5M (ARR)
+,270.0,Deepak Singh,deepak@dixitindia.com,Head of HR,Dixit Infotech Services,$33M (ARR)
+,271.0,Deepali,deepali@proximity.tech,Director - People Operations,Proximity Works,$10M (ARR)
+,272.0,Deepali Verdi,deepali.verdi@genzeon.com,Associate Director Human Resources,Genzeon,$88.3M (ARR)
+,273.0,Deepashree V,deepashree.v@skience.com,HR Head - India,Skience,$18M (ARR)
+,274.0,Deepika Pandita,deepika@appinessworld.com,Head Of Human Resources,Appiness Interactive,$3.5M (ARR)
+,275.0,Deepika Singh,deepika@webkul.com,Vice President Human Resources,Webkul,$59.1M (ARR)
+,276.0,Deepthi Kesireddy,deepthi.kesireddy@smartims.com,Head of Human Resources,Smart IMS,$94.6M (ARR)
+,277.0,Deepthi Vorem,deepthi.v@etggs.com,Director - Human Resources,ETG Digital,$10M (ARR)
+,278.0,Deepti Ashar,deepti@mindcraft.in,"Vice President, Head of Consulting Services & HR",MindCraft Software,$9M (ARR)
+,279.0,Deepti Bathija,deepti.bathija@orcapodservices.com,AVP - (Contract Staffing - BFSI & Service Clients),Orcapod,$8M (ARR)
+,280.0,Deepti Lewis,dlewis@conviva.com,HR Director,Conviva,$300M (valuation)
+,281.0,Deepti Mendiratta,deepti.m@trell.in,Associate Director HR,Trell,$120M (valuation)
+,282.0,Deepti N,deepti.n@accelq.com,Director-HR,ACCELQ,$25M (ARR)
+,283.0,Deepti Sahni,deepti.sahni@mobiloitte.com,Director - Human Resources,Mobiloitte,$4.5M (ARR)
+,284.0,Deepti Tewari,dgtewari@quark.com,Global Human Resources Director,Quark Software,$68.8M (ARR)
+,285.0,Deepti Waghmare,deeptiw@pre-scient.com,"Director - Legal, HR & Admin",Prescient Technologies,$7.2M (ARR)
+,286.0,Deo Kumar,deo.kumar@akalinfosys.com,Recruitment and Deployment Head,Akal Information Systems,$25M (ARR)
+,287.0,Devang Hindocha,devang@strategicerp.com,Head of HR,StrategicERP Business Automation Solutions,$4.5M (ARR)
+,288.0,Devansh Narang,devansh.narang@loco.gg,Head of Content & Talent,Loco,$200M (valuation)
+,289.0,Devanshi Shah,devanshi@brainerhub.com,Head of HR & Talent Acquisition,BrainerHub Solutions,$2.5M (ARR)
+,290.0,Devershi Desai,devershi.desai@ssminfotech.com,Head -Human Resource,SSM InfoTech Solutions,$7.5M (ARR)
+,291.0,Devi Reddy,dreddy@dvginteractive.com,Head - Talent Acquisition,DVG,$5M (ARR)
+,292.0,Devika Chauhan,devika@shopx.in,Director Human Resource,ShopX,$102M (valuation)
+,293.0,Dharmendra Rawat,dharmendra.rawat@lumiq.ai,Head Of Recruitment,Lumiq,$51.8M (valuation)
+,294.0,Dharmendra Singh,dharmendra@akshay.com,GM - Head of Staffing,Akshay Software Technologies,$8M (ARR)
+,295.0,Dharmik Gohel,dharmik@atlan.com,Director - Talent Acquisition,Atlan,$750M (valuation)
+,296.0,Dhinesh Shankar,dshankar@dataintensity.com,AVP - HR & Admin,Data Intensity,$45M (ARR)
+,297.0,Dhirendra Kamboj,dkamboj@newtglobalcorp.com,Director-Talent Acquisition,Newt Global Consulting,$68.5M (ARR)
+,298.0,Dhirendra Panda,dhirendra.panda@ivalue.co.in,Head HR,iValue InfoSolutions,$290M (ARR)
+,299.0,Dhritiparna Dhar,dhritiparnad@zendrive.com,Director Talent Acquisition,Zendrive,$60M (funding)
+,300.0,Diksha Rohokale,diksha@apptware.com,Chief People Officer,Apptware,$24.4M (ARR)
+,301.0,Diksha Sisodia,diksha.sisodia@eternussolutions.com,Associate Director Human Resources,Eternus,$78.9M (ARR)
+,302.0,Dileep Choyappally,dileep.choyappally@nestgroup.net,Vice President & Head of Human Resources,NeST Digital,$17.5M (ARR)
+,303.0,Dilip Borah,borah.dilip@senrysa.com,Chief People Officer,Senrysa Technologies,$11.6M (ARR)
+,304.0,Dilip Satpute,dilip.s@theimperative.in,Chief Human Resources Officer,Imperative Business Ventures,$4.7M (ARR)
+,305.0,Dimpal Patel,dimpal.patel@tacttree.com,Head- Human Resources and Talent Acquisition,TactTree LLP,$1.5M (ARR)
+,306.0,Dinanath Gokhale,dgokhale@crgroup.co.in,Director - HR,CRG Solutions,$10.8M (ARR)
+,307.0,Dinesh Hemdev,dinesh.hemdev@logixal.com,Head of Talent Acquisition,Logixal Inc,$4.5M (ARR)
+,308.0,Dinesh Rai,dinesh.rai@hirexa.com,Head Of Human Resources,Hirexa Solutions,$31.8M (ARR)
+,309.0,Dinesh Yuvaraj,dinesh.yuvaraj@ivymobility.com,Director - Human Resources,Ivy Mobility,$15M (funding)
+,310.0,Dipali Chavan,dipalichavan@credenceanalytics.com,Head HR,Credence Analytics,$2.5M (ARR)
+,311.0,Dipesh Jain,dipesh@pesto.tech,Head - Talent Acquisition,Pesto Tech,$2M (funding)
+,312.0,Dipika Sharma,dipikasharma@slx.co.in,Head of HR at Securelynkx Networks,Securelynkx Networks,$2.5M (ARR)
+,313.0,Dipthi Rajagopal,dipthir@dckap.com,Head - Human Resources,DCKAP,$35.2M (ARR)
+,314.0,Dipti Goel,dipti@insider.in,Head Of Human Resources,Paytm Insider,$35M (ARR)
+,315.0,Dipti Kothari,dipti.kothari@satincorp.com,Recruitment Delivery Head,SA Technologies,$98.4M (ARR)
+,316.0,Disha Bali,disha.bali@remitonline.info,Head HR,Fable Fintech,$29.1M (valuation)
+,317.0,Dishank Raj,dishank.raj@aeriestechnology.com,Head/Director Talent Acquisition - India,Aeries Technology Group,-
+,318.0,Divya A,da@virsec.com,Head HR,Virsec Systems,-
+,319.0,Divya Beneesh,divya.beneesh@zaggle.in,Associate Director - Employee Benefits,Zaggle Prepaid Ocean Services,-
+,320.0,Divya Bhardwaj,divya.b@greyorange.com,Associate Director Global HR Operations,GreyOrange,-
+,321.0,Divya Chandrasekhara,divya.chandrasekhara@infoworks.io,HR Director - India at Infoworks.Io,Infoworks.io,-
+,322.0,Divya Dang,divya.dang@cloudanalogy.com,Sr. HR Head,Cloud Analogy,-
+,323.0,Divya Devapathni,ddevapathni@gemini-us.com,HR Head Operations,Gemini Consulting & Services,-
+,324.0,Divya Gunashekar,divya@thescalers.com,Director of HR,The Scalers,-
+,325.0,Divya Jaggi,divyajaggi@promactinfo.com,Chief People Officer,Promact Infotech,-
+,326.0,Divya Jethi,divya.jethi@cloudanalogy.com,Sr. HR Head,Cloud Analogy,-
+,327.0,Divya Keshav,divya.k@diamondpick.com,Head of Human Resources Operations,Diamondpick,-
+,328.0,Divya Nadikattu,divya@taashee.com,Head of HR,Taashee Linux Services,-
+,329.0,Divya Nitin,divya@diamondpick.com,Head Of Human Resources,Diamondpick,-
+,330.0,Divya P,divyap@cegonsoft.com,HR Head,Cegonsoft,-
+,331.0,Divya Pant,divya.p@ceipal.com,AVP - HR,CEIPAL Corp.,-
+,332.0,Divya Prasad,divya.prasad@impelsys.com,Associate Director - Talent Development,Impelsys,-
+,333.0,Divya Puthireddi,divya.puthireddi@tanla.com,AVP HR,Tanla Platforms,-
+,334.0,Donna Ellies,donna.ellies@br.iq,"Sr. Director, People Operations - India",Briq,-
+,335.0,Drishti Mistry,drishti@artoonsolutions.com,Head Of Recruitment,Artoon Solutions,$2.2M (ARR)
+,336.0,Durga Akula,durga.akula@cotelligent.com,Associate Director - HR,Cotelligent,-
+,337.0,Durga Androthu,durgaprasada@proarch.com,Head of Human Resources,Enhops,-
+,338.0,Edwin,edwin.vimal@sysvine.com,Director HR,Sysvine Technologies,-
+,339.0,Ekta Chowdhry,ekta.chowdhry@shipsy.io,Head of Talent Acquisition,Shipsy,$32M (funding)
+,340.0,Ekta Kohli,ekta.kohli@simulationiq.com,VP - HR & Operations,Education Management Solutions,-
+,341.0,Elizabeth Johnson,elizabeth.j@appnomic.com,Director-Human Resources,Appnomic,-
+,342.0,Emilio Rodrigues,emilio@etouch.net,Director - HR,eTouch Systems,-
+,343.0,Eram Qudsia,eram.qudsia@mygate.in,Head of Human Resources,MyGate,$250M (valuation)
+,344.0,Esha Mayekar,esha.mayekar@autoplant.in,Head Of Human Resources,Autoplant System India,-
+,345.0,Eswari Velayutham,eswari.v@tringapps.com,Director - Human Resources,Tringapps,-
+,346.0,Ety Garg,ety@buzzclan.com,Associate Director-Talent Acquisition,BuzzClan,-
+,347.0,Eustine Thomas,eustine.thomas@ars-traffic.com,Head of HR,ARS Traffic & Transport Technology,-
+,348.0,Eyunni Kumar,eyunni.kumar@bdxworld.com,Vice President Global Head HR & Admin,BDx Data Centers,-
+,349.0,Fabiana Sobers,fabiana.sobers@cashapona.com,Vice President Human Resources,Cashapona Technologies,-
+,350.0,Facile,vineet.shah@facileserv.com,Head HR,Facile Services,-
+,351.0,Faisal Siddiqui,faisal.siddiqui@uneecops.com,Head Of Human Resources,Uneecops Technologies,-
+,352.0,Faiza Khan,faiza.khan@apolisrises.com,Head HR - India,Apolis,-
+,353.0,Fareeda Begum,fbegum@hitachi-solutions.com,Director - HR,Hitachi Solutions Asia Pacific,-
+,354.0,Farheen Hassan,farheen@rapidflowapps.com,Associate Director - HR,Rapidflow Inc,-
+,355.0,Fazal Karim,fazal.karim@metaoption.com,Staffing Head,MetaOption LLC,-
+,356.0,Firdaus Mehta,firdaus.mehta@heliossolutions.co,Head - People & Culture,Helios Solutions,-
+,357.0,Francis Gonsalves,francis.gonsalves@moengage.com,"Director, HRBP",MoEngage,-
+,358.0,Franklin Frank,franklin@thescalers.com,Head of People & Culture,The Scalers,-
+,359.0,Frida Dias,frida.dias@mpsinteractive.com,Director - HR,MPS Interactive Systems,-
+,360.0,Friend Friend,friend.friend@niit-tech.com,recruitment head,NIIT Technologies,$9.4B (valuation)
+,361.0,Ganapathy D,ganapathy.d@mresult.com,Director HRBP,MResult,-
+,362.0,Ganesh Somisetti,gsomisetti@email.xtglobal.com,Head - People & Culture,"XTGlobal,",-
+,363.0,Gargi Rajan,gargi.rajan@unicommerce.com,Associate Director - Human Resources,Unicommerce eSolutions,-
+,364.0,Garima Pandey,garima.pandey@epsoftinc.com,HR-Director,EPSoft,-
+,365.0,Garima Pandey,garima.pandey@rategain.com,Associate Director - Global Talent Acquisition,RateGain,$1.2B (valuation)
+,366.0,Garima Rathi,garima.rathi@condecosoftware.com,Head of Shared Services - Human Resources,Condeco,$528M (funding)
+,367.0,Garima Sangwan,garima.sangwan@accops.com,Senior Director Human Resources,Accops Systems,-
+,368.0,Garima Sharma,gsharma@nasscom.in,Head - Human Resources,NASSCOM,-
+,369.0,Gaurang Joshi,gyjoshi@workforcelogiq.com,"Director, Human Resource",Workforce Logiq,-
+,370.0,Gaurav Gaur,gauravgaur@ironsystems.com,Head of Workforce Innovation,Iron Systems,-
+,371.0,Gaurav Saxena,gaurav.s@amigainformatics.com,Associate Director-Talent Acquisition/Recruitment,Amiga Informatics,-
+,372.0,Gaurav Upadhyay,gaurav.upadhyay@v2solutions.com,Director - Digital Workforce,V2Solutions,-
+,373.0,Gautam Kar,gautam@firstconnectsolutions.com,Chief People Officer,FirstConnect Solutions,-
+,374.0,Gautam Nautiyal,gautamn@tblocks.com,Head of Talent Acquisition,TechBlocks,-
+,375.0,Gautam Pathak,gautam.pathak@opshub.com,Vice President (Human Resources and Operations),"OpsHub,",-
+,376.0,Gautam Prasad,gautam.prasad@ondemandagility.com,Head - US Staffing,OnDemand Agility Solutions,-
+,377.0,Gautam Tungare,gautam.tungare@6degreesit.com,HR HEAD,6DegreesIT,-
+,378.0,Gautham Premkumar,gautham.p@accubits.com,Head of Campus Recruitment,Accubits Technologies,-
+,379.0,Gayathri Arunkumar,gayathri.arunkumar@tvsnext.io,Associate Vice President Recruitment,TVS Next,-
+,380.0,Gayathri Nagaraj,gayathri.nagaraj@responsivemts.com,Head Of Human Resources,Responsive Media Tech Services,-
+,381.0,Gayatri Moghe,gayatri@aumnitechworks.com,Head- Talent Acquisition,Aumni Techworks,-
+,382.0,Gayatri Nikkula,gayatri.nikkula@inry.com,VP HR and Operations,INRY,-
+,383.0,Gayatri P,gayatrip@gathi.com,Chief People Officer,Gathi Analytics,-
+,384.0,Gayatri Patil,g.patil@kokonetworks.com,Head Of Human Resources,KOKO Networks,-
+,385.0,Gayatri Shanker,gayatri@dyooti.com,"Head, Communications, People & Culture",Dyooti,-
+,386.0,Gazal Singhania,gazal@imarkinfotech.com,Head Of Human Resources,iMark Infotech,-
+,387.0,Geetanjali Toopran,geetanjali.toopran@solix.com,Head-HUman Resources,"Solix Technologies,",-
+,388.0,Giri Babu,giri.babu@neovatic.com,Head of Human Resources,Neovatic Technologies,-
+,389.0,Giridhar D,giridhar.d@e5.ai,Head Of Operations & HR,Element5,-
+,390.0,Giridhar Vemuganti,gvemuganti@tataunistore.com,Head - People Operations,Tata CLiQ,-
+,391.0,Girish,girish.subramanian@symphonyretailai.com,Human Resources Director - India,Symphony RetailAI,-
+,392.0,Girish Kumar,girish.k@infomazeapps.com,Head-Admin/ HR,INFOMAZE,-
+,393.0,Gita Madhuri,gita.madhuri@covalenseglobal.com,Director - HR and Talent Acquisition,Covalense Global,-
+,394.0,Gitanjali Venkatesh,gitanjali.venkatesh@excelenciaconsulting.com,Head of Talent Acquisition,Excelencia,-
+,395.0,Gitanjali Verma,gitanjali.verma@w3villa.com,AVP - Human Resources,W3villa Technologies,-
+,396.0,Gopalakrishna Gubbi,gopalakrishna.gubbi@jsw.in,Head HR & Facilities,JSoft Solutions,-
+,397.0,Goutham B,gouthamb@systelinc.com,AVP - INDIA - HR,Systel,-
+,398.0,Govind Bhandari,govind.bhandari@daloopa.com,Head of Human Resources & Talent Acquisition,Daloopa,-
+,399.0,Govind Raj,govind@eoxvantage.com,Head Of Human Resources,EOX Vantage,-
+,400.0,Govinda Shastry,govinda.shastry@igiusa.com,Head-HR and Administration,Infotech Global,-
+,401.0,Gracy Dsouza,gracy@perfios.com,Associate Director Human Resources,Perfios Software Solutions,-
+,402.0,Gripson Martes,gripson.martes@detecttechnologies.com,Head Of Human Resources,Detect Technologies,-
+,403.0,Gugapriya O,gugapriya@ideassion.com,Head-Talent Transformation,Ideassion Technology Solutions,-
+,404.0,Gulshan S,gulshan@near.com,"Director, Strategic HR",Near,-
+,405.0,Gunjan Mishra,gunjan@rnftechnologies.com,Head Of Human Resources,RNF Technologies,-
+,406.0,Gurpreet Jaggi,gurpreet.jaggi@betsol.com,"Director, HR and Operations",BETSOL,-
+,407.0,Gurpreet Singh,gurpreet.singh@wingify.com,Head - Talent Management,Wingify,-
+,408.0,Gurucharan Singh,guru@one.com,Head of Talent Acquisition,one.com,-
+,409.0,Gyan Dash,gyan@centroxy.com,Head of Talent Acquisition,Centroxy,-
+,410.0,Hanish Tiwari,hanish.tiwari@ant.works,AVP-HR,AntWorks,-
+,411.0,Hank Mishra,hank.mishra@anchanto.com,Global Human Resources Director,Anchanto,-
+,412.0,Happy Vachhani,happy@capermint.com,Head Of Human Resources,Capermint Technologies,-
+,413.0,Hari Krishnan,hari.krishnan@avasotech.com,Global Head Human Resources,AVASO Technology Solutions,-
+,414.0,Hari Paramatmuni,harikishore.p@excelra.com,Head Talent Acquisition and Development,Excelra,-
+,415.0,Hari Prashanth,hari.p@westagilelabs.com,Associate Director -Talent Acquisition,West Agile Labs,-
+,416.0,Harikrishna Bachala,harikrishna.bachala@mitsind.com,Associate Director HR,Monarch Info Tech Services,-
+,417.0,Hariprasad Adthale,hariprasadadthale@askbrake.com,Head HR & Admin,ASK Automotive,-
+,418.0,Haris Ali,haris.a@truglobal.com,Corp. HR Director,TRUGlobal,-
+,419.0,Harishankar Krishnamurthi,hari@zumen.com,Head of Talent Acquisition,Zumen Inc,-
+,420.0,Harishankher Selvaraj,harishankher@codingmart.com,Lead Talent Acquisition (Interview Head),Codingmart Technologies,-
+,421.0,Harista Jakhar,harista.jakhar@impelsys.com,Associate Director - HR,Impelsys,-
+,422.0,Harith Chambravalli,harith.chambravalli@observe.ai,Senior Director/India Head of Talent Strategy,Observe.AI,-
+,423.0,Haritha Etakula,haritha.etakula@jnettechnologies.com,Head of Human Resources,JNET Technologies,-
+,424.0,Harpreet Bali,harpreet.bali@nvish.com,Director HR,NVISH Solutions,-
+,425.0,Harsh Khanna,harshk@elementsgs.com,Director Global Payroll,Atlas,-
+,426.0,Harshada Moharil,harshada.moharil@freshgravity.com,Head HR,Fresh Gravity,-
+,427.0,Harshida Bhamare,harshida@cctech.co.in,Head HR & operations,Centre for Computational Technologies,-
+,428.0,Harshiika Upadhyay,husahu@ciphercloud.com,Director Talent Acquisition,NTT DATA,$42.2B (ARR)
+,429.0,Harshita Rathore,harshita.rathore@moonfroglabs.com,Head of HR,Moonfrog Labs,-
+,430.0,Haseeb Imran,imran.h@apar.com,Head Of Recruitment,Apar Peopleworld Software,-
+,431.0,Heena Bawa,heena@clevertap.com,Director HR,CleverTap,-
+,432.0,Hemant Batra,hemant.batra@supraits.com,Talent Acquisition Manager / Head RMG,SupraES.,-
+,433.0,Hemant Pawar,hemant.pawar@ndsglobal.com,Head HR,NextGen Digital Solutions,-
+,434.0,Hemendra Bist,hemendra.bist@u2opiamobile.com,Vice President - HR & Admin.,U2opia Mobile,-
+,435.0,Hemlata Goel,hemlata.goel@shl.com,Head HR-India at SHL( Former Gartner),Aspiring Minds,-
+,436.0,Hemraj Desai,hemraj@cloudthat.in,Director HR and OD,CloudThat,-
+,437.0,Hetal,hsoni@infosenseglobal.com,Head Of Human Resources,Infosenseglobal Inc,-
+,438.0,Hima Kulshrestha,hima@systango.com,Head - Talent Acquisition,Systango,-
+,439.0,Himagauri Kashalikar,himagauri@metamorphtech.com,Chief People Officer,MetaMorphoSys Technologies,-
+,440.0,Himanshu Bhatnagar,himanshub@appcino.com,Head HR,Appcino Technologies,-
+,441.0,Himanshu Mishra,hmishra@valethi.com,Head Of Human Resources,Valethi Technologies,-
+,442.0,Himanshu Raina,himanshu@ditserv.com,Vice President Human Resources,DEV IT SERV,-
+,443.0,Hina Khan,hina.khan@acuteinformatics.in,Head Recruitment,Acute Informatics,-
+,444.0,Hitendra Singh,hsingh@hitachi-solutions.com,Vice President Human Resources,Hitachi Solutions India,-
+,445.0,Hitesh Nair,hitesh.nair@aqmtechnologies.com,AVP of Performance Engineering,AQM Technologies,-
+,446.0,Honeydeep Sabharwal,honeydeep@pando.ai,Sr Director - HR,PandoCorp,-
+,447.0,Hrd Ltd,hrd@mawaimail.com,Head of Human Resources,Mawai Infotech,-
+,448.0,Hrishikesh Nc,hrishikesh@sterlingsoftware.co.in,Head HR,Sterling Software,-
+,449.0,Huma Sayed,huma@dctinc.com,Head - Human Resources,Digital Convergence Technologies,-
+,450.0,Humera Iffath,humera.iffath@truecaller.com,Human Resources Director- India,Truecaller,-
+,451.0,Huzefa Retiwala,huzefa.retiwala@metro-services.in,Head of Human Resources Operations,METRO SERVICES,-
+,452.0,Ilham Mulla,ilham.mulla@blazeclan.com,Head - Talent Acquisition,Blazeclan Technologies,-
+,453.0,Img Infotech,img@imgglobalinfotech.com,Head Of Human Resources,IMG Global Infotech,-
+,454.0,Imran Nazir,imrannd@skoruz.com,Vice President-(Talent Acquisition/Analytics),Skoruz Technologies,-
+,455.0,Inderjeet Gujral,inderjeet.gujral@apolisrises.com,Director Talent Acquisition,Apolis,-
+,456.0,Indrakumar Thirunavukkarasu,tindrakumar@ntrustinfotech.com,Head-HR (Chennai & US Operations),NTrust Infotech,-
+,457.0,Inventum Recruiter,inventum.recruiter@inventum.net,Head HR,Inventum,-
+,458.0,Irudia Anthony,irudia.anthony@h1insights.com,Associate Vice President - Human Resources,Shore Group Associates,-
+,459.0,Ishani Sharma,ishani.sharma@idctechnologies.com,India Head-HR & Operations,KBC Technologies Group,-
+,460.0,Isle Fernandes,isle@opendestinations.com,Vice President - HR & Admin,Open Destinations,-
+,461.0,Jabeen Pathan,jabeen@hulkapps.com,Chief Human Resources Officer,HulkApps,-
+,462.0,Jacob Joy,jacob.j@wrenchsolutions.com,Head Strategic HR,WRENCH Solutions,-
+,463.0,Jagadabhi Krishna,jagadabhi.krishna@leoforce.com,Director - Talent Acquisition,Leoforce,-
+,464.0,Jagadish V,jagadish.v@realworld-one.com,Head of Talent Management and Culture,realworld one,-
+,465.0,Jaipal Addagatla,jaipal.addagatla@mutualmobile.com,"Associate Director, Talent Acquisition",Mutual Mobile,-
+,466.0,Jairaj Jagtap,jairaj.jagtap@satincorp.com,Delivery Head- Recruitment/ Recruiting Head,SA Technologies,$98.4M (ARR)
+,467.0,Jaisy Augustine,jaisy@freshersworld.com,Head- Recruitment Solutions,Freshersworld.com,-
+,468.0,Janaki Naik,janaki.naik@tatadigital.com,Chief Human Resources Officer,Tata Digital,-
+,469.0,Janani Prakaash,janani.prakaash@quantela.com,Head HR,Quantela,-
+,470.0,Janet Paul,jpaul@securonix.com,Human Resources Director,Securonix,-
+,471.0,Jasinta Francis,jasinta@experience.com,Director - Human Resources,Experience.com,-
+,472.0,Jaslieen Kaur,jaslieen.baghh@blancco.com,Director HR and Operations,Blancco Technology Group,-
+,473.0,Jasmine Framjee,jasmine.f@ptechnosoft.com,Head HR,Perpetuuiti Technosoft PTE,-
+,474.0,Jasmine Vaswani,jasmine.vaswani@worldfashionexchange.com,Chief Human Resources Officer (CHRO),WFX - World Fashion Exchange,-
+,475.0,Jaspreet Mehta,jaspreetsingh@dataglove-us.com,Director-Offshore Staffing Services,Trimax Americas,-
+,476.0,Jaya Laxmi,jaya.laxmi@vincit.fi,hr head,Vincit,-
+,477.0,Jaya Pandey,jaya.pandey@brainvire.com,Head HR,Brainvire Infotech,-
+,478.0,Jayakrishnan M,jay@customerxps.com,Director - Head of HR,CustomerXPs,-
+,479.0,Jayakumar N,njayakumar@a-bits.com,Vice President Human Resources,Apps Business IT Solutions,-
+,480.0,Jayaprakash Yangal,jayaprakash@mirafra.com,Director Talent Acquisition,Mirafra Technologies,-
+,481.0,Jayashree Jayanth,jayashree.jayanth@ushur.com,Human Resources Director,Ushur,-
+,482.0,Jayashri Benjamin,jayashri@amrutsoftware.com,HR and Admin Head,Amrut Software,-
+,483.0,Jayati Pardhy,jayati.p@keka.com,Head of Human Resources,Keka HR,-
+,484.0,Jayendra Solanki,jasolanki@workforcelogiq.com,Director- Talent Acquisition,Workforce Logiq,-
+,485.0,Jegannathan Balasubramanian,jegannathan@isolve.global,AVP - Talent Growth,iSolve Technologies,-
+,486.0,Jeswin Thomas,jeswin.thomas@questionpro.com,"Head, Customer Success Team | WorkForce",QuestionPro,-
+,487.0,Jimeet Jain,jimeet@metamorphtech.com,Health Insurance Practice Head - Asia Pacific,MetaMorphoSys Technologies,-
+,488.0,Jinu Jose,jinu@m2comsys.com,Human Resources Director,M Squared Software and Services,-
+,489.0,Jitendra Das,jitendra.das@workinsync.io,Director HR,WorkInSync,-
+,490.0,Jitendra Wankhede,jitendra.wankhede@anuntatech.com,Head - Talent Acquisition,Anunta Tech,-
+,491.0,Jitesh Asna,jitesh@softnice.com,AVP - US HR Operations,SoftNice,-
+,492.0,Jithesh Vijayan,jithesh.v@zucisystems.com,Director- Workforce Management and Strategy,Zuci Systems,-
+,493.0,Job Pixentia,jpixentia@pixentia.com,Chief People Officer,Pixentia,-
+,494.0,Joe M,joem@itamerica.com,Head Technical Recruiter,IT America Inc,-
+,495.0,Joel Lobo,joel.lobo@rtcamp.com,Human Resources Director,rtCamp,-
+,496.0,Johnson Kasukurthi,johnsonk@netrovert.net,Delivery Head - Recruitment,"Netrovert Software,",-
+,497.0,Joseph Francis,joseph@vdartinc.com,Head Human Resources Development,Dimiour,-
+,498.0,Joshua Henry,joshua.henry@cloudsek.com,Associate Vice President - Talent Acquisition,CloudSEK,-
+,499.0,Joshua T,joshua.t@sailotech.com,Associate Director - HR & Compliance,Sailotech,-
+,500.0,Jothi Prakash,jothi.prakash@bwdesigngroup.com,Head HR,Barry-Wehmiller International,-
+,501.0,Joy Dupati,joy.dupati@sierraatlantic.com,Head- Recruitment,Sierra Atlantic,-
+,502.0,Juhi Sharma,juhi.sharma@lockstep.io,Director - HR & TA (APAC),Lockstep,-
+,503.0,Justin Joseph,justin@near.com,Chief People Officer,Near,-
+,504.0,Jyothendra Reddy,jyothendraar@aditiconsulting.com,Senior Director - Recruitment & Operations,Aditi Consulting,-
+,505.0,Jyothsna Devi,jyothsna.devi@kasmo.co,Delivery Head - Staffing,Kasmo,-
+,506.0,Jyoti Gouri,jyoti.g@commerceiq.ai,Director - HR,CommerceIQ,-
+,507.0,Jyoti Gupta,jgupta@otsi-usa.com,Director - Talent Acquisition,Object Technology Solutions India,-
+,508.0,Jyoti Kajale,jyoti.kajale@ampcus.com,VP Talent Acquisition,Ampcus Inc,-
+,509.0,Jyoti Saini,jyoti.saini@apolisrises.com,Global HR Head,Apolis,-
+,510.0,Jyoti Singh,jyoti.singh@zapcg.com,CHRO | Global HR Head,ZapCom Group Inc,-
+,511.0,Jyotsna Mahajan,jyotsna.mahajan@sugarboxnetworks.com,"Associate Director - Talent Acquisition, India",SugarBox Networks,$70M (funding)
+,512.0,Kajal Gupta,hr@dhaninfo.biz,Hr & Admin Director,DhanInfo,-
+,513.0,Kajal Tuteja,kajal.tuteja@csquare.in,HR Head,C-Square Info Solutions,$4.5M (ARR)
+,514.0,Kalpana Kanhere,kalpana@theimperative.in,Director HR & Admin,Imperative Business Ventures,$4.7M (ARR)
+,515.0,Kalyan Neelagiri,kalyan.neelagiri@soroco.com,Director of Talent Acquisition,Soroco,-
+,516.0,Kalyani Mahajan,kalyani.mahajan@paramatrix.com,Associate Vice President Human Resources,Paramatrix Technologies.,-
+,517.0,Kalyani Mudigonda,kalyani.mudigonda@votarytech.com,Head HR & Talent Management Group,Votary Softech Solutions,-
+,518.0,Kalyani Pendharkar,kalyani.pendharkar@theblueflamelabs.com,Head of Talent Acquisition,Blue Flame Labs,-
+,519.0,Kamaldeep Singh,ksingh@skillgigs.com,Director of Talent Acquisition and Promotion,skillgigs.com,-
+,520.0,Kamla Mulla,kamla.mulla@se2.com,"Global Director, Talent Development",SE2,-
+,521.0,Kanchan Jagtap,kanchan.jagtap@tatatechnologies.com,Head Global HR Shared Services,"Tata Technologies, Pune",-
+,522.0,Kanchan Verma,kanchan.verma@qsstechnosoft.com,Head Of Human Resources,QSS Technosoft,-
+,523.0,Kanhaiya Sharma,kanhaiya@cloudthing.com,Head Of Human Resources,cloudThing,-
+,524.0,Kanika Gupta,kanika@eglogics.com,Human Resources Director,EGlogics Softech,-
+,525.0,Kannan Krishnan,kannan.krishnan@trinamix.com,"Senior Director, Global HR",Trinamix Inc,-
+,526.0,Kannu Taneja,kannu.taneja@areteanstech.com,Associate Director People and Culture (Global),Areteans,$47M (ARR)
+,527.0,Kanta Nandy,kantan@labvantage.com,India Head - Human Resources,LabVantage Solutions,-
+,528.0,Kapeesh Saxena,kapeesh.saxena@genzeon.com,Vice President Talent Acquisition,Genzeon,$88.3M (ARR)
+,529.0,Kapil K,kapil.katira@thegatewaycorp.com,Head of Talent Acquisition,Gateway Group of Companies,$203M (ARR)
+,530.0,Karthick Rengasamy,karthick@ideas2it.com,Head of Talent Acquisition,Ideas2IT Technologies,-
+,531.0,Karthik Chintapatla,karthik.chintapatla@visteon.com,Country Head HR,Visteon Technical And Services Centre,-
+,532.0,Karthik Ingarsal,karthik.i@springworks.in,Vice President - Human Resources,Springworks,-
+,533.0,Karthik R,karthikr@operative.com,"Head of HR, India (Managed Services)",Operative,-
+,534.0,Karthikeyan P,karthikeyan@hiverhq.com,Head of Talent Acquisition,Hiver,-
+,535.0,Karthikeyan Samuel,karthikeyan.samuel@xansa.com,Associate Vice President - Recruitment,Xansa plc,-
+,536.0,Karthikeyan Sivasubramanian,karthikeyan.sivasubramanian@saviynt.com,India Head - Talent Acquisition,Saviynt,-
+,537.0,Kartik,kartik.v@vtechsolution.com,Vice President Human Resources,vTech Solution,-
+,538.0,Kartik Sehgal,kartik.sehgal@omnepresent.com,Head of Talent Acquisition,OmnePresent Technologies,-
+,539.0,Karuna Geddam,karuna.geddam@arcserve.com,Director HR at Arcserve,Arcserve,-
+,540.0,Kausar Khatri,kausar.khatri@lauren.co.in,Vice President Human Resources,Lauren Information Technologies,-
+,541.0,Kavita Gupta,kavita.gupta@anm.com,Head Of Human Resources (India),ANM,-
+,542.0,Kavita N,kavitha.nandagopal@impelsys.com,AVP - HR,Impelsys,-
+,543.0,Kavita Tandon,kavita.tandon@simplifyhealthcare.com,"VP, Global Head of HR",Simplify Healthcare,$98.5M (ARR)
+,544.0,Kavita Y,kavita.y@valiancesolutions.com,AVP-Human Resources,Valiance Solutions,-
+,545.0,Kavita Yadav,kavita.yadav@valiancesolutions.com,AVP-Human Resources,Valiance Solutions,-
+,546.0,Kavitha,kavitha@6thenergy.com,Human Resource Head,Sixth Energy Technologies,-
+,547.0,Kavitha Martin,mkavitha@sourcetrace.com,Vice President HR,SourceTrace,-
+,548.0,Kavitha Umasankar,kavitha.umasankar@wolterskluwer.com,Director Human Resources,Wolters Kluwer ELM Solutions,-
+,549.0,Kavya K,kavya.k@mygoconsulting.com,Director - Global HR,Mygo Consulting,-
+,550.0,Keerthi Kamasamudra,keerthi.kamasamudra@stellapps.com,Head Of Human Resources,Stellapps Technologies,-
+,551.0,Keerthi Vinodh,keerthi.v@rlabsglobal.com,Director Human Resources,RLabs Enterprise Services,-
+,552.0,Ketan Shetty,ketan.shetty@writerinformation.com,Head HR,Writer Information,$120M (ARR)
+,553.0,Kevin Marbaniang,kevin@xeno.in,Head of Talent Acquisition,Xeno,-
+,554.0,Kevin Parker,kparker@integrass.com,Practice Head- IT Staffing,Integrass,-
+,555.0,Khandoba K,khandoba.k@techtreeit.com,Assistant Vice President HR,TechTree IT Systems,-
+,556.0,Khushboo Jain,khushboo@techspian.com,Human Resources Director,Techspian,-
+,557.0,Khushboo Rathore,khushboo@techaheadcorp.com,Associate Director of Human Capital Management,TechAhead,-
+,558.0,Khushi Mishra,khushi@5ire.org,Head of Human Resources,5ireChain,-
+,559.0,Khyati Sagar,khyatisagar@appitsimple.com,Talent Head,Appitsimple Infotek,-
+,560.0,Kinjal Shah,kinjal@biztechconsultancy.com,Human Resource Director,BiztechCS,-
+,561.0,Kiran Bala,kiran.bala@blueconchtech.com,Director Human Resources,UST BlueConch Technologies,-
+,562.0,Kiran Kumar,kkumar@adea.com,Head -HR,Adea Solutions,-
+,563.0,Kiran Lal,kiran.lal@tomiaglobal.com,Director & Head Human Resources,TOMIA,-
+,564.0,Kiran Punjabi,kiran@manektech.com,Head Of Human Resources,ManekTech,-
+,565.0,Kiran Singh,kirans@mindfiresolutions.com,"VP, Talent Development",Mindfire Solutions,$7M (ARR)
+,566.0,Kiran Somanath,kiran.s@zerone-consulting.com,Chief People Officer,Zerone Consulting,-
+,567.0,Kirti Manucha,kirti.manucha@healthfore.com,SVP - HR,HealthFore Technologies,-
+,568.0,Kirti Manucha,kirti.manucha@religare.com,President - HR,Religare Technova,-
+,569.0,Kishor Pinninti,kishor.p@feuji.com,Vice President Talent Acquisition,Feuji Inc,-
+,570.0,Komal Hazra,komal@balajidatasolutions.net,Head of HR and Finance,BDS Services,-
+,571.0,Komala Tummala,komala.t@acropetal.com,Head Talent Management,Acropetal Technologies,-
+,572.0,Korak Saha,korak.saha@mjunction.in,Chief People Officer,mjunction services,$42M (ARR)
+,573.0,Koundinya Adiraju,koundinya.adiraju@testingxperts.com,Vice President Talent Acquisition,TestingXperts,-
+,574.0,Koustav Chatterjee,koustav@nasscom.in,Head - Digital Health Ecosystem,NASSCOM,-
+,575.0,Kranthi Kumar,kkumar@polarismanagement.com,Director Human Resources,Polaris,-
+,576.0,Krishan Kumar,krishan_kumar@taaltech.com,Talent Management Head,TAAL Tech,-
+,577.0,Krishna Kumar,krishna_kumar@actis.co.in,Head HR,Actis Technologies,-
+,578.0,Krishnachand Nair,knair@ixiacom.com,Director- Human Resources,Keysight Network Visibility Test & Security,-
+,579.0,Krishnan Ramachandran,kramachandran@hitachi-solutions.com,Senior Director Human Resources,Hitachi Solutions Asia Pacific,-
+,580.0,Krishnan Vr,krishnanvr@savvy-it.com,Director HR,Savvysoft Technologies,-
+,581.0,Krishnanand Joshi,krishnanand.joshi@teknorix.com,Head - HR & Operations,Teknorix,-
+,582.0,Kriti A,kriti@consummatetechnologies.com,Head HR,Consummate Technologies,-
+,583.0,Kritika Khanduri,kritika.khanduri@loginradius.com,Head of Global Recruitment,LoginRadius,-
+,584.0,Kshama Patel,kshama.patel@intech-systems.com,Head Of Human Resources,Intech Systems,-
+,585.0,Kuldeep Chobey,kuldeep.chobey@satincorp.com,Director-HR & Operations,SA Technologies,$98.4M (ARR)
+,586.0,Kuldeep Gupta,kuldeepg@porteck.com,Head Of Human Resources,Porteck Corporation,-
+,587.0,Kulvir Kaur,kulvir.kaur@cloudeq.com,HOD Human Resource,cloudEQ,-
+,588.0,Kumar Anchan,kumara@aditiconsulting.com,Director - Recruitment,Aditi Consulting,-
+,589.0,Kumuda Panda,kumuda.panda@evonsys.com,Director HR,EvonSys,-
+,590.0,Kunal,kunal@elsner.com,Head - HR,Elsner Technologies,$1.8M (ARR)
+,591.0,Kunal Acharyaa,kunal.acharya@impelsys.com,Global Head Talent Acquisition & TA COE,Impelsys,-
+,592.0,Kunal Wadhwani,kunal.wadhwani@pocketfm.com,Director - Human Resources,Pocket FM,-
+,593.0,Kushagra,kushagra.pande@jungleegames.com,Director Talent Acquisition,Junglee Games,-
+,594.0,Lakshmi Eyyunni,lakshmi.eyyunni@narvar.com,Director of People Operations,Narvar,-
+,595.0,Lakshmi Radhakrishnan,lakshmipriya.radhakrishnan@bwdesigngroup.com,Director - HR,Barry-Wehmiller International,-
+,596.0,Lakshmi Vishwanatth,lakshmi@triconinfotech.com,Director - People Operations,Tricon Infotech,-
+,597.0,Lakshmipriya Babu,lakshmi.p@qis.co.in,Head-Human Resources & Placements,Quest Innovative Solutions,-
+,598.0,Lata Chemudupati,lata.c@netconnectglobal.com,AVP- HR,NetConnectGlobal,-
+,599.0,Lata Kohli,lata.kohli@cogentinfo.com,Director - US HR Operations,COGENT Infotech,$65M (ARR)
+,600.0,Latchoumanan Tirounavoucarassou,ltirounavoucarassou@yodlee.com,Director Operations - Performance,Envestnet,$3.49B (valuation)
+,601.0,Latha Shankar,lshankar@liventus.com,Director - HR,"Liventus,",-
+,602.0,Lavita Nathani,lavita.n@endurance.com,Senior Director Human Resources,Newfold Digital,-
+,603.0,Laxman Reddy,laxman.reddy@lorhanit.com,"Vice President - Finance, HR & IT Support Systems",Lorhan IT,-
+,604.0,Leela Madhuri,leela.madhuri@cashapona.com,Head Of Recruitment,Cashapona Technologies,-
+,605.0,Leena Arora,leena@getcerta.com,Head Of Human Resources,Certa,-
+,606.0,Leena Xavier,leena.xavier@solitontech.com,"Head of Leadership, Talent",Soliton Technologies,-
+,607.0,Linju Varughese,lvarughese@suyati.com,Associate Director - Talent Attraction,Suyati Technologies,-
+,608.0,Lipika Mohanty,lipika.mohanty@crmnext.com,Global HR Director,CRMNEXT,-
+,609.0,Lisa Crage,lisacrage@insolutionsglobal.com,Vice President Human Resources,In-Solutions Global,-
+,610.0,Liton Saha,litons@innov.in,Head - Human Resources,Innovsource,-
+,611.0,Lituja Mishra,lituja.mishra@apmosys.in,Sr. VP - HR,ApMoSys Technologies,-
+,612.0,Livin Varghese,livin.varghese@teqfocus.com,Chief People Officer,Teqfocus,-
+,613.0,Logesh Chandramoorthy,logesh@clumio.com,Head of Talent Acquisition,Clumio,-
+,614.0,Lokesh Gurgela,lokesh@nexgeniots.com,Sr. Manager/Head - Talent Acquisition,Nexgen IOT Solutions,-
+,615.0,Luisa Mohanty,luisa.mohanty@rategain.com,Associate Vice President - Human Resources,RateGain,$1.2B (valuation)
+,616.0,Lydia Dsouza,lydia.dsouza@progility.com.au,Head Human Resources,Progility Technologies,-
+,617.0,Lydia D'Souza,lydia.dsouza@progilitytech.com,Head - Human Resources,Progility Technologies,-
+,618.0,Lyndon Saldanha,lyndon.saldanha@manthan.com,Vice President - Human Resources,Manthan,-
+,619.0,Maanoj Mishra,maanoj@betterplace.co.in,Group Head HR,BetterPlace,$250M (valuation)
+,620.0,Maclean Raphael,maclean.raphael@wepindia.com,VP - HR,WeP Peripherals,-
+,621.0,Madhan Kumar,madhan.kumar@aditiconsulting.com,Director of Talent Management & Operations,Aditi Consulting,-
+,622.0,Madhav Mallela,madhava.mallela@microexcel.com,Director-HR,Microexcel Inc,-
+,623.0,Madhavee Singh,madhavee.singh@blucognition.com,Human Resource Manager- Head,bluCognition,-
+,624.0,Madhavi G,madhavig@operative.com,"Senior Head of HR, India (R&D)",Operative,-
+,625.0,Madhu Kapu,madhu.kapu@allyis.com,Head HR & Operations,Allyis,-
+,626.0,Madhu Nakkala,madhu.n@qualizeal.com,Head of Talent Acquisition,QualiZeal,-
+,627.0,Madhura Lanjekar,madhura.lanjekar@clariontechnologies.co.in,Vice President Human Resources,Clarion Technologies,-
+,628.0,Madhuri Mhamankar,mmhamankar@yotta.com,General Manager & Head Human Resources,Yotta Infrastructure Solutions,-
+,629.0,Madhuri Nandgaonkar,madhuri@gupshup.io,Senior Director HR,Gupshup,$278M (valuation)
+,630.0,Madhuri Palaji,mpalaji@randomtrees.com,Head - Talent Acquisition Group,RandomTrees,-
+,631.0,Madhuri Rajath,madhuri.rajath@goodera.com,Associate Director Human Resources,Goodera,-
+,632.0,Madhushree Kumra,madhuk@lentra.ai,Head - People Operations,Lentra,-
+,633.0,Madhusudhanan,madhusudhanan@imarque.co.in,Head of HR,iMarque Solutions,-
+,634.0,Madhvi Arora,madhvi.arora@yodlee.com,Vice President & Head HR,Envestnet,$3.49B (valuation)
+,635.0,Mahalakshmi,mahalakshmi@unilogcorp.com,Vice President Human Resources,Unilog,$10M (ARR)
+,636.0,Mahasweta Paul,mahasweta.paul@atyati.com,VP - Chief People Officer,atyati Technologies,-
+,637.0,Mahendra Singh,mahendra.singh@excelra.com,Vice President - HR,Excelra,-
+,638.0,Mahendra Thiyagarajan,mahendra@vysystems.com,Head - Global HR & Operations,VySystems,-
+,639.0,Mahendran Subramaniam,mahendran.s@kovaion.com,Head HR & RPO Delivery,Kovaion Consulting,-
+,640.0,Mahesh Bandaru,mahesh.bandaru@neewee.ai,Director - HR India,Neewee,-
+,641.0,Mahesh Hyam,mahesh.h@zelitesolutions.com,Head - HR,Zelite Solutions,-
+,642.0,Mainka Sharma,mainka.s@geeklurn.com,Head of Talent Acquisition &HR,GeekLurn,-
+,643.0,Malathi Premkumar,malathip@boston-technology.com,Vice President - Human Resources,Boston Technology Corporation,-
+,644.0,Malini Venugopal,malini.venugopal@people10.com,Director Human Resources,People10 Technologies,-
+,645.0,Mallika Poojari,mallika.poojari@featsystems.com,Recruitment Head,Feat Systems,-
+,646.0,Mamatha Nagesh,mamatha.n@modefin.com,Head - Human Resources,Modefin,-
+,647.0,Mamta,mamta@cognustechnology.com,Chief Human Resources Officer,Cognus Technology,-
+,648.0,Mamta Nath,mamta.nath@e-pspl.com,Head - HR,PC Solutions,-
+,649.0,Mamta Yadav,mamta.yadav@amantyatech.com,Head of Talent Acquisition,Amantya Technologies,-
+,650.0,Mamtha,mamtha@sigmoidanalytics.com,Director Talent Acquisition - Leadership Hiring,Sigmoid,-
+,651.0,Mamtha Akula,mamtha.akula@netradyne.com,Talent Head at Netradyne,Netradyne,-
+,652.0,Manashi Chakraborty,mchakraborty@phdata.io,"Director Of People Operations, India",phData,-
+,653.0,Manasi Kelkar,manasi.kelkar@cropin.com,VP - Human Resources,CropIn Technology,-
+,654.0,Manav Jain,manav.jain@loconav.com,Chief Human Resources Officer,LocoNav,$47M (funding)
+,655.0,Manda Kishore,manda.kishore@evolutyz.com,Head - Recruitments,Evolutyz Corp,-
+,656.0,Mandeep Singh,mandeep.singh@tulip.co,Head of HR,Tulip Interfaces,-
+,657.0,Mandeep Virdi,mandeep.virdi@esri.in,Head of Human Resources,Esri India,$35M (ARR)
+,658.0,Mani Narayanan,manin@karyatech.com,Vice President - Human Resources,KARYA Technologies,-
+,659.0,Manian Chennai,manian@callezee.com,head talent resourcing,Info Network Management Company,-
+,660.0,Manik Mahajan,manikmahajan@qainfotech.com,"Director, Performance Engineering",QA InfoTech,-
+,661.0,Manik Mondal,manik.mondal@qbadvisory.com,Director Talent Acquisition (India),QBA Worldwide,-
+,662.0,Manikandan Balasubramanian,manikandan.b@itech-india.com,Head Of Human Resources,iTech India,-
+,663.0,Manish,mtripathi@phdata.io,Director Talent Acquisition,phData,-
+,664.0,Manish Sitania,msitania@egain.com,Worldwide Head of HR,eGain Corporation,-
+,665.0,Manisha,manisha@dreamsoft4u.com,VP - HR Department,DreamSoft4u,-
+,666.0,Manisha Dash,manisha.dash@celigo.com,"Director India, Human Resources",Celigo,-
+,667.0,Manisha Dixit,mdixit@netrixllc.com,HR Director - Asia Pacific,Netrix,-
+,668.0,Manjeet Walia,manjeet.walia@harbingergroup.com,Head of Talent Acquisition,Harbinger Group,-
+,669.0,Manjiri Patel-Shinde,manjiri.shinde@cloudmoyo.com,Vice President Global HR,CloudMoyo,-
+,670.0,Manju Jacob,manju.jacob@sarvatra.in,AVP -Human Resources,Sarvatra Technologies,-
+,671.0,Manjunath P,manju@nichi.com,"Head - Finance, HR & Administration",Nichi-In Software Solutions,-
+,672.0,Manoj K,manoj@ampl.app,Head People & Culture,Ampl,-
+,673.0,Manoj Madhavan,manoj@techversantinfotech.com,Vice President - HR,Techversant,-
+,674.0,Manoj Parikatil,manoj.parikatil@goodera.com,Human Resources Director,Goodera,-
+,675.0,Manoj Prasad,mxp@amitysoftware.com,Head of IT / HR & Admin,Amity Software Systems,-
+,676.0,Manoj Sahoo,asta_onboarding@astacrs.com,Recruiter and Head of Onboarding,Asta Crs Inc,-
+,677.0,Manoj Sehgal,manoj.sehgal@rvu.in,Head of People Services/ HR ( India),RVU India,-
+,678.0,Manuel Fernandes,manuel.fernandes@antheliohealth.com,HR Head - India,Anthelio Healthcare Solutions,-
+,679.0,Manu's Jobs,jobs@skyonn.com,IT RECRUITING HEAD,SkyOnn Technologies,-
+,680.0,Maria Fernandes,maria.fernandes@draup.com,Associate Director - HR,Draup,-
+,681.0,Mary Basu,mary.basu@fivesdigital.com,HR Head,FiveS Digital,-
+,682.0,Mary Naidu,mary@software.com,Head HR,Software,-
+,683.0,Maximus J,maximus.j@infoplusltd.co.uk,Head of HR,Infoplus Technologies UK,-
+,684.0,Maya John,maya.john@verse.in,Chief People Officer,VerSe Innovation,$5B (valuation)
+,685.0,Maya Nagpal,maya.nagpal@verolt.com,Director Human Capital Management,Verolt,-
+,686.0,Mayank Agarwal,mayank.agarwal@gaana.com,Head - HRBP,Gaana,-
+,687.0,Mayank Ahuja,mayank.ahuja@nickelfox.com,Head - Human Resources,Nickelfox Technologies,-
+,688.0,Mayank Sharma,mayank@tripoto.com,Head of Talent Acquisition,Tripoto,-
+,689.0,Mayukh Mitra,mmitra@adaequare.com,Director & Head of HR,Adaequare,-
+,690.0,Mayur Pabari,mayur.pabari@smartsensesolutions.com,CEO & CHRO,smartSense Consulting Solutions,-
+,691.0,Mayur Sisodiya,mayur.sisodiya@collabera.com,Associate Delivery Director - Talent Acquisition,Collabera India,-
+,692.0,Medha Sharma,medha.sharma@kiwitech.com,Director - Human Resources (Global HR),KiwiTech,-
+,693.0,Medhika Sood,medhika@uniphore.com,Associate Director : TM | L&D,Uniphore,$2.5B (valuation)
+,694.0,Meena R,meena@airmeet.com,Senior Director Human Resources,Airmeet,-
+,695.0,Meenakshi Banerjee,meenakshi.banerjee@crmnext.in,Vice President Human Resources,CRMNEXT,-
+,696.0,Meenakshi Jha,meenakshi.jha@talentica.com,Head of Talent Acquisition,Talentica Software,-
+,697.0,Meenakshi Kogje,meenakshi.kogje@newvisionsoftware.in,Global Director - Talent Acquisition,NewVision Software,-
+,698.0,Megh Makwana,megh@inheritx.com,Head of Human Resources Operations,InheritX Solutions,-
+,699.0,Megh Risaldar,megh.risaldar@sms-magic.com,Director and Head of Human Resources,SMS-Magic,-
+,700.0,Meghana Sarwate,megh@godrej.com,Head - Human Resource Information Systems,Godrej Infotech,-
+,701.0,Meghana V,meghana@idrive.com,"Head HR, Operations & Finance",IDrive Software India,-
+,702.0,Meghna Mahajan,meghnam@smartek21.com,Human Resources Director,SmarTek21,$75.7M (ARR)
+,703.0,Mehak Fath,mehak@startupnation.com,Head HR,StartUP,-
+,704.0,Meher Gaurav,gaurav@mphrx.com,Vice President Global HR,mphrX,-
+,705.0,Michelle Joseph,michelle.joseph@gupshup.io,Associate Director - HR,Gupshup,$278M (valuation)
+,706.0,Mili Panicker,mili.panicker@webengage.com,AVP - HR & People Operations,WebEngage,-
+,707.0,Minal Vilekar,minal.vilekar@theimperative.in,Vice President Human Resources,Imperative Business Ventures,$4.7M (ARR)
+,708.0,Minal Wadlawala,minal@protechmanize.com,Chief Human Resources Officer,ProTechmanize Solutions,-
+,709.0,Miriam Shaju,miriam.shaju@avanzegroup.com,"Director, Human Resources",Avanze,-
+,710.0,Mirunalini Mothilal,mirunalini@volantetech.com,Director - India & Global HR,Volante Technologies,-
+,711.0,Mithun Jose,mithun.jose@savantis.com,Head- Staffing,Savantis Solutions LLC,-
+,712.0,Mittal Patel,m.patel@easternenterprise.com,Head - Talent Acquisition,Eastern Enterprise,-
+,713.0,Mohamed Hussain,mhussain@trimaxamericas.com,HEAD TALENT ACQUISITION - INDIA,Data Glove,$90.5M (valuation)
+,714.0,Mohammad Siddique,msiddique@quessgts.com,Head of Talent Acquisition,Quess GTS,-
+,715.0,Mohammed Hussain,mohammed@uniphore.com,Director - Talent Acquisition,Uniphore,$2.5B (valuation)
+,716.0,Mohammed Rizwan,mohammed.rizwan@reverieinc.com,Head Of Human Resources,Reverie Language Technologies,-
+,717.0,Mohammed Samiullah,samiullah.mohammed@antheliohealth.com,Head Of Human Resources,Anthelio Healthcare Solutions,-
+,718.0,Mohammed Yaseen,tariq.yaseen@panzertechnologies.net,Director Talent Acquisition,Panzer Technologies,-
+,719.0,Mohan Joshi,mohan.joshi@myglamm.com,"Head- C&B, HR Automation & HR Operations",MyGlamm,-
+,720.0,Mohini Bansal,mbansal@deqode.com,Head Of Recruitment,Deqode,-
+,721.0,Monica Bajaj,monica.bajaj@soft-corner.com,Head-HR,Benchmark IT Solutions,-
+,722.0,Monica Kamal,monica@pingasolutions.com,Director & HR Head,Pinga Solution,-
+,723.0,Monika Jasrotia,monika@precisiontechcorp.com,HR- Manager/Admin Head,Precision Technologies,-
+,724.0,Monika Koul,monika@embitel.com,Head l Sr. Director- HR,Embitel Technologies,-
+,725.0,Monika Miglani,monika.miglani@zigram.tech,Associate Director - HR,ZIGRAM,-
+,726.0,Monika Save,monika@bridgelabz.com,Head of Talent Acquisition and HR Operations,BridgeLabz,-
+,727.0,Monika Soutiyal,monika@techretail.in,Head - HR & Admin,Tech Connect Services,-
+,728.0,Monila Gupta,mgupta@helm360.com,Regional HR Head - India,HELM360,-
+,729.0,Moumi Chatterjee,moumi@spartanpoker.com,Assistant Vice President Human Resources,QUADRIFIC MEDIA,-
+,730.0,Mrudhula Guda,mrudhula.g@feuji.com,HR Head - India,Feuji Inc,-
+,731.0,Mrudul Godavarthi,mrudul.k@fssglobal.in,Chief Talent Officer,Federal Soft Systems,-
+,732.0,Mruga Dave,mruga.dave@vagaro.com,Human Resources Director,Vagaro Inc,-
+,733.0,Mrugesh Maisuriya,mrugesh.maisuriya@procuretiger.com,Head Of HR- Talent Acquisition and Management,eProcurement Technologies,-
+,734.0,Mrugesh Raval,mrugesh.raval@nascentinfo.com,Head of Human Resources,Nascent Info Technologies,-
+,735.0,Mugdha Wagh,mugdha.wagh@ellicium.com,Head Of Talent Management,Ellicium Solutions,-
+,736.0,Muhammed Rafi,payable@awign.com,HR Head,Awign,-
+,737.0,Mujeeb Khan,mujeeb@panzertechnologies.net,Head - Talent Acquisition,Panzer Technologies,-
+,738.0,Mukesh Tiwary,mukesh.t@lrsservices.in,Head of HR,LRS Services (P),-
+,739.0,Mukta Dar,mukta.dar@absolutdata.com,Head HR,Absolutdata Analytics,$40M (ARR)
+,740.0,Mukta Dewan,mukta.dewan@caeliusconsulting.com,Chief People Officer at Caelius Consulting,Caelius Consulting,-
+,741.0,Murali Krishnamoorthy,murali.k@excelacom.in,Head - Human Resources,Excelacom Technologies,-
+,742.0,Murali Nagarajan,murali@softlogicsys.in,HR and Operations Head,Softlogic Systems,-
+,743.0,Murugessan Panchatcharam,pmurugesan@corenttech.com,Director - Human Resources & Facilities,Corent Technology,-
+,744.0,Muthukumar K,muthukumar.k@technogeninc.com,Head of Human Resources Operations,"TechnoGen,",-
+,745.0,Muthyala Manasa,muthyala.manasa@absyz.com,Director - Human Resources,ABSYZ Inc,-
+,746.0,Naga Siddharth,n.siddharth@urbanpiper.com,Chief Human Resources Officer,UrbanPiper,-
+,747.0,Nagamani Yerneni,nagamani.yerneni@softsol.com,Head - HR & Operations,SoftSol,-
+,748.0,Naganagouda J,naganagouda.sj@globaledgesoft.com,Associate Vice President & Head - Human Resources,GlobalEdge,-
+,749.0,Naindeep Kaur,naindeep.kaur@bpktechmail.com,Recruitment/Talent Acquisition Head,BPK Technologies,-
+,750.0,Nalini Panwar,nalini@amresearch.in,Director of Human Resources & Research,AM Research,-
+,751.0,Namita Sinha,namita.sinha@sunlife.com,Head of Talent Acquisition (Asia Services Centre India),Sun Life,$29B (valuation)
+,752.0,Namrata Kamrushi,namrata.k@inspiredgeit.com,Head - People & Culture,Inspiredge IT Solutions,-
+,753.0,Nancy Andrews,nancy.andrews@ideas2it.com,Head - Workforce Management,Ideas2IT Technologies,-
+,754.0,Nancy Varghese,nancy.varghese@inflowtechnologies.com,Head- HR & Admin,Inflow Technologies,-
+,755.0,Nandakishore Padmanabhan,nandakishore.padmanabhan@crmnext.com,Vice President - People & Culture,CRMNEXT,-
+,756.0,Nandini Aggarwal,nandini.aggarwal@enhancesys.com,Chief Human Resources Officer,Enhancesys Innovations,-
+,757.0,Nandini Tandon,nandini.tandon@indusface.com,Chief People Officer,Indusface,-
+,758.0,Nandita Singh,nandita.singh@selp.in,Manager - HR (Plant HR Head),SELP,-
+,759.0,Nandni Bhatnagar,nbhatnagar@e-emphasys.com,Associate Director Human Resources,e-Emphasys Technologies,-
+,760.0,Narasimhan,narasimhan@opsera.io,Director - HR,Opsera,-
+,761.0,Narayana Bvs,narayana@smartedgesolutions.co.uk,Head - HR & Operations,Smartedge Solutions,-
+,762.0,Narayana Pawar,narayana.pawar@privafy.com,"Director, Human Resources & Biz. Ops.",Privafy,-
+,763.0,Narender Thatipalli,narender@lsarecruit.co.uk,"Head of Talent Acquisition (UK, Europe & India)",LSA Recruit,-
+,764.0,Narendra S,narendra.s@netenrich.com,Director Talent Acquisition,"Netenrich,",-
+,765.0,Naresh Kumar,naresh@ncsus.net,Recruiting Director,National Computer Systems,-
+,766.0,Naresh Nuthulapati,naresh.nuthulapati@atmecs.com,Associate Director - Talent Acquisition,ATMECS Inc,-
+,767.0,Natarajan Perumal,natarajan@uniquehire.in,VP - Staffing,UniqueHire Consulting LLP,-
+,768.0,Naveen Kumar,naveen@primusglobal.com,Associate Director Talent Acquisition,PRIMUS Global Technologies,-
+,769.0,Naveen Pillai,naveen@crayondata.com,Vice President - Human Resources,Crayon Data,-
+,770.0,Naveen Shankar,naveen.shankar@estuate.com,Associate Director - Talent Acquisition,"Estuate,",$75.9M (ARR)
+,771.0,Naveen Sounderrajan,naveen.s@bourntec.com,"Head of Talent Acquisition - India , EMEA & US",Bourntec Solutions Inc,-
+,772.0,Naveen Wadhawan,naveen@dynpro.com,Director - Talent Acquisition,"DynPro,",-
+,773.0,Navleen Bhatia,navleen.bhatia@tcs.com,Director - Human Resources,Tata Digital,-
+,774.0,Navneet Murthy,navneet@inventechinfo.com,Global Head - Recruitment,Inventech Info Solutions,-
+,775.0,Nawaaz Hafeez,nawaaz.hafeez@ivlglobal.com,Director Talent Acquisition,InfoVision Labs,-
+,776.0,Nayaki Naidu,nayaki@numerictech.com,Head Of Human Resources,Numeric Technologies,-
+,777.0,Nayana Martin,nayanam@aditiconsulting.com,Associate Director L&D,Aditi Consulting,-
+,778.0,Nayazuddin Meer,nayazuddin.meer@slkgroup.com,Head of Talent Acquisition,VFI SLK,$600M (valuation)
+,779.0,Neelakanteshwar Rao,neel.rao@serole.com,Head HR,Serole Technologies,-
+,780.0,Neelam Sharma,neelam.sharma@provartesting.com,"Head of People and Culture, India",Provar Testing,-
+,781.0,Neelima Vaka,neelima.vaka@minfytech.com,Head Of Human Resources,Minfy,-
+,782.0,Neena Nagle,nagle@valethi.com,Chief Human Resources Officer,Valethi Technologies,-
+,783.0,Neena Rajdev,neena@fintinc.com,"Director of HR, L&D & Administration.",Fint Solutions,-
+,784.0,Neeraj Sharma,neerajsharma@cavistatech.com,"Director People Operations, India",Cavista,-
+,785.0,Neeraj Sharma,neeraj@fourkites.com,Senior Director of Human Resources,"FourKites,",-
+,786.0,Neetu Choudhary,neetu.choudhary@idsnext.com,Associate Vice President Human Resources,IDS NEXT Business Solutions,-
+,787.0,Neha Bhandari,neha.bhandari@vmock.com,Director of Human Resources,VMock,-
+,788.0,Neha Bhise,nbhise@tracelink.com,Head Of Human Resources - India & APAC,TraceLink,-
+,789.0,Neha Bhushan,neha@thinkbridge.com,Director - Talent & Branding,thinkbridge,$65.6M (ARR)
+,790.0,Neha Chaudhary,neha.c@greyorange.com,Associate Director-HRBP,GreyOrange,-
+,791.0,Neha Chaughule,neha@aistechnolabs.com,Head- Talent Acquisition,AIS Technolabs,-
+,792.0,Neha Choudhary,nchoudhary@tractionondemand.com,Director - People (HR),Trineo,-
+,793.0,Neha Kohli,neha.kohli@benq.com,Associate Director Human Resources,BenQ India,-
+,794.0,Neha Mishra,neha@i2k2.com,Head - Human Resource,i2k2 Networks,-
+,795.0,Neha Sahi,neha@trell.in,Director - HR,Trell,$120M (valuation)
+,796.0,Neha Sharma,nehasharma@freeskout.com,Head of Human Resources,freeskout,-
+,797.0,Neha Sharma,neha.sharma@infodartmail.com,Head HR & TAG,Infodart Technologies,-
+,798.0,Neha Sharna,neha.sharma@cavisson.com,HR Head,"Cavisson Systems,",-
+,799.0,Neha Thakker,neha@multiqos.com,Head Of Human Resources,MultiQoS Technologies,-
+,800.0,Neha Velankar,neha@dynalogindia.com,Head Of Human Resources & Administration,Dynalog India,-
+,801.0,Neville Postwalla,neville.postwalla@harbingergroup.com,Associate Vice President - Talent Management,Harbinger Group,-
+,802.0,Nevy George,nevyg@norwintechnologies.com,Director Talent Acquisition,Norwin Technologies,-
+,803.0,Nibedita Dutta,nibedita.dutta@natureglobal.com,Vice President - HR & Operations,Nature Technologies,-
+,804.0,Nidhi,nidhi.vishnoi@2isolutions.com,Head-HR,2iSolutions,-
+,805.0,Nidhi,nidhi@empirix.com,Director of Human Resources Americas,Hammer,-
+,806.0,Nidhi Khulbe,nidhi@indusnet.co.in,Head Of Recruitment,Indus Net Technologies,-
+,807.0,Nidhi Ruparel,nidhi@cystemslogic.com,Recruitment & Operations Head,Cystems Logic Inc,-
+,808.0,Nidhi Singh,nidhi.singh@iapcorp.com,Head HR,IAP Company,-
+,809.0,Nidhi Srivastava,nidhi.srivastava@trangile.com,Head Of Human Resources,Trangile Services,-
+,810.0,Nidhuraj Prasannarajan,nidhuraj@everest.engineering,Recruitment Head/Operations,EverestEngineering,-
+,811.0,Nigel Crisanto,nigel@recruitnxt.com,Head Of Human Resources,RecruitNXT,-
+,812.0,Niharika Patel,niharika.patel@jetsynthesys.com,CHRO,JetSynthesys,-
+,813.0,Nikhil Bhat,nikhil.bhat@lipi.in,Assitant Vice President Human Resources,Lipi Data Systems,-
+,814.0,Nikhil Jangir,nikhil.jangir@saviance.com,Director - Global Staffing & Recruitment,Saviance Technologies,-
+,815.0,Nikhil Kadu,nikhil.kadu@verinite.com,Head HR & Operations,Verinite,-
+,816.0,Nikhil Kulkarni,nikhil.kulkarni@ncircletech.com,Head Of Human Resources,nCircle Tech,-
+,817.0,Nikhil Mooley,nikhil.m@purplle.com,"Head Of Human Resources, L&D",Purplle.com,-
+,818.0,Nikita Trivedi,nikita@goleadingit.com,Head Of Human Resources,Leading IT,-
+,819.0,Nilangini Gupta,nilangini.gupta@panamaxil.com,VP People Management and Talent Growth,Panamax,-
+,820.0,Nilesh Indulkar,nilesh.indulkar@trantorinc.com,Director & Head of Recruitment,Trantor,-
+,821.0,Nimesh Mathur,nimesh@haptik.ai,"Director - People, Culture & Talent",Haptik,-
+,822.0,Nimesh Shah,nimesh@jeavio.com,"VP, HR & Operations",Jeavio,-
+,823.0,Nimmy Chowalloor,nimmy.c@v2solutions.com,Recruitment Head,V2Solutions,-
+,824.0,Nipsy Jhamb,nipsy.jhamb@altudo.co,Director - HR,Altudo,$75M (ARR)
+,825.0,Nirmal Nimodiya,nirmaln@scorgconsult.com,Head of Staffing & Alliances,SCORG International Consulting,-
+,826.0,Nirmala Nayak,nirmala@technobind.com,Head of HR,TechnoBind Solutions,-
+,827.0,Nirmiti Choudhari,nirmiti.hr@eventbeep.com,Head Of Human Resources,EventBeep,-
+,828.0,Nirupa Leeladhar,nirupa.l@smaartt.com,SVP - HR & Talents,Smaartt Digital Consulting,-
+,829.0,Nirupama Sridhar,sridhar.n@qwikcilver.com,Head HR,Qwikcilver Solutions,-
+,830.0,Nirzari Sen,nirzari.sen@benisontech.com,Head of HR,Benison Technologies,-
+,831.0,Nisha Motwani,nisha.motwani@pratititech.com,Head of Human Resources,Pratiti Technologies,-
+,832.0,Nisha Nair,nisha.nair@sagarsoft.in,Head - Human Resources & TAG,Sagarsoft,-
+,833.0,Nisha Nayar,nisha.n@technovert.com,Head of HR,Technovert,-
+,834.0,Nisha Roy,nisharoy@aabasoft.com,Head of Human Resources Operations,Aabasoft,-
+,835.0,Nisha Saini,nisha.saini@aurigait.com,Head Of Recruitment,Auriga IT Consulting,-
+,836.0,Nisha Singh,nisha.s@seanergydigital.com,Director Human Resources,Seanergy Digital,-
+,837.0,Nishant Gawand,nishant@smartkargo.com,Vice President Human Resources,SmartKargo,-
+,838.0,Nishant Shukla,nishant.shukla@hoonartek.com,Vice President Human Resources,Hoonartek,-
+,839.0,Nishita Algubelli,nishita@fissionlabs.com,HR & TA Director,Fission Labs,-
+,840.0,Nishith Parikh,nishith.parikh@krishtechnolabs.com,Global Head HR,Krish TechnoLabs,-
+,841.0,Nishtha Sareen,nishtha.sareen@dionglobal.com,VP - Human Resources,Dion Global Solutions,-
+,842.0,Nishu Mittal,nishu.nits@ongraph.com,Human Resources Director,OnGraph Technologies,-
+,843.0,Nita Aryasomayajula,naryasomayajula@rrootshell.com,Global Human Resources Director,Rrootshell Technologiiss,-
+,844.0,Nitasha Dusi,nitasha.dusi@atidiv.com,Director - HR,Atidiv,$7M (ARR)
+,845.0,Nitesh Karir,nitesh.karir@moksatechnologies.com,Head HR,mokSa Technologies,-
+,846.0,Nithyanandham Ravi,nithyanandham@facilio.com,Human Resources Director,Facilio,-
+,847.0,Nitika Bhandari,nitika.bhandari@mavenwave.com,Head HR,Maven Wave,-
+,848.0,Nitin Gawli,nitin.g@intellectbizware.com,Head HR,Intellect Bizware Services,-
+,849.0,Nitin Marwah,nitin.m@totalitglobal.com,Human Resources Director,Total IT Global,$25M (ARR)
+,850.0,Nitin Nahata,nitin.nahata@gameskraft.com,CHRO,Gameskraft,-
+,851.0,Nitin Padharia,nitin.padharia@indianic.com,Head - HR / ILDC and L&D,IndiaNIC Infotech,-
+,852.0,Nitin Pandey,nitin@itlize.com,Director Talent Acquisition,Itlize Global,-
+,853.0,Nitin Sharma,nitin.sharma@altudo.co,Director Talent Acquisition,Altudo,$75M (ARR)
+,854.0,Nitin Suri,nitin.suri@webomaze.com,Vice President Human Resources,Webomaze Technologies,-
+,855.0,Nitin Verma,nitin.verma@xicom.biz,Head HR,Xicom Technologies,-
+,856.0,Nitish Kumar,nitish.k@sphinxworldbiz.com,Head- Talent Acquisition,Sphinx Worldbiz,-
+,857.0,Nitisha Baalay,nitisha.baalay@innovapptive.com,Director Global Talent Acquisition,Innovapptive Inc,-
+,858.0,Nitya K,nk@ezesoft.com,"Director, Human Resources",Eze Software,-
+,859.0,Nivedita Kaushal,nivedita.kaushal@idmworks.com,Head of Human Resource,IDMWORKS,-
+,860.0,Nivrutha Sampath,nivrutha.s@appviewx.com,VP of HR,AppViewX,$52M (funding)
+,861.0,Niyati Parmar,niyati@teksun.us,Head of HR,Teksun Inc,-
+,862.0,Nupur Jain,nupur@ixigo.com,VP of Human Resources,ixigo,-
+,863.0,Nupur Phatak,nphatak@potomactpl.com,Vice President Human Resources,Potomac Technologies,-
+,864.0,Nusrat Supediwala,nusrat.supediwala@panamaxil.com,AVP Talent Acquisition,Panamax Infotech,-
+,865.0,O2f Info,info@o2finfo.com,Head of HR,O2F INFO SOLUTIONS,-
+,866.0,Oindrila Das,oindrila.das@rteservices.com,Group Head-HR,RT Outsourcing Services,-
+,867.0,Omesh Makhija,omeshmakhija@appitsimple.com,Head of People Operations,Appitsimple Infotek,-
+,868.0,Omkar Patwardhan,omkarp@coreflexsolutions.com,HR Head,CoreFlex Solutions,-
+,869.0,Padmaja Arya,padmajasingh.arya@cogencis.com,Head - Human Resources,Cogencis Information Services,-
+,870.0,Padmanav Kundu,padmanavk@nsdl.co.in,Head of Rewards & HR Operations,Protean eGov Technologies,-
+,871.0,Padmashree Alva,padmashree.alva@mresult.com,Director - Talent & Initiatives,MResult,-
+,872.0,Pallavi Mishra,pmishra@bhavnacorp.com,Senior Director Human Resources,Bhavna Corp.,-
+,873.0,Pallavi Sharma,pallavi.sharma@digimantra.com,Head of Human Resources Operations,DigiMantra Labs,-
+,874.0,Pallavi Singh,pallavi.singh@paycraftsol.com,Associate Vice President - Human Resources,Paycraft Solutions,-
+,875.0,Pallavi Singh,pallavi@techmatrixconsulting.com,Assistant Vice President Human Resources,TechMatrix Consulting,-
+,876.0,Panchali Das,panchalid@zenoti.com,Head Of Human Resources,Zenoti,-
+,877.0,Pandey,pandey@fsltechnologies.com,VP HR,FSL Software Technologies,-
+,878.0,Pankaj Chopra,pankaj.chopra@corecard.com,Head of Talent Acquisition,CoreCard India,-
+,879.0,Pankaj Singh,psingh@everquote.com,Associate Director - People Operations,EverQuote,-
+,880.0,Paramananda Chabungbam,paramananda.c@itelligencegroup.com,Director - HRBP & Engagement,NTT DATA,$42.2B (ARR)
+,881.0,Parameswar Reddy,parameswar.p@recykal.com,Vice President Talent Management,Team Recykal,-
+,882.0,Pardeep Pahal,pardeepp@damcogroup.com,VP Global HR,Damco Solutions,-
+,883.0,Parinita Kaur,parinita.kaur@intellolabs.com,Vice President Human Resources,Intello Labs,-
+,884.0,Parma Dutta,pdutta@diabsolut.com,Chief People Officer,Diabsolut Inc,$18M (ARR)
+,885.0,Parneet Waraich,parneet.waraich@myrealdata.in,Vice President Human Resources (Head HR),Real Time Data Services,-
+,886.0,Paromita Areng,paromita.areng@zaggle.in,Chief Human Resources Officer,Zaggle Prepaid Ocean Services,-
+,887.0,Parool Duggal,parool.duggal@bijnis.com,Director | Talent Acquisition,bijnis,-
+,888.0,Parthasarathy Paravasthu,pparavasthu@vitechinc.com,"Director, Human Resources",Vitech Systems Asia,-
+,889.0,Parthiban Santhanakrishnan,parthiban.santhanakrishnan@volantetech.com,Associate Director- Performance Testing,Volante Technologies,-
+,890.0,Parul Gala,parul.gala@smarteinc.com,VP of Products and HR,SMARTe,-
+,891.0,Parvathy Therembil,parvathy.therembil@sourcebits.com,Vice President and Head HR,Sourcebits Digital,-
+,892.0,Pasha Amjad,amjad.pasha@fiorano.com,Head - HR & Operations.,Fiorano Software,-
+,893.0,Patel Kavita,patel.kavita@jeksonvision.com,Head HR,Jekson Vision,-
+,894.0,Pathanjali Bhat,pathanjali.bhat@relevancelab.com,Director - HR,Relevance Lab,-
+,895.0,Patricia Natalia,patricia.natalia@learnquest.com,"Head of HR, India",LearnQuest,-
+,896.0,Paul,paul.jacob@pramati.com,Director- Human Resources,Pramati Technologies,$10M (ARR)
+,897.0,Paul Daniel,paul.daniel@tanla.com,Head of Talent Acquisition,Tanla Platforms,-
+,898.0,Paul Thomas,paul@salesken.ai,Head Human Resources,Salesken,-
+,899.0,Pavan Bodapati,pavan.b@fluentgrid.com,Assistant Vice President Human Resources,Fluentgrid,-
+,900.0,Pavan K,pk@eightfold.ai,Director - Talent Acquisition,Eightfold,-
+,901.0,Pavan Kadumuri,pavankumar.k@winwire.com,Associate Director-HR,WinWire Technologies,-
+,902.0,Pavan Kumar,pkumar@appstekcorp.com,Eastern Regional Human Resources Director,AppsTek,$12M (ARR)
+,903.0,Pavan Kumar,pavank@eximiusdesign.com,Associate Director- Talent Acquisition,Eximius Design,-
+,904.0,Pavan Reddy,pavan.r@amplelogic.com,Head Of Human Resources,AmpleLogic,-
+,905.0,Pavan Vangala,pavanv@sidgs.com,Director Talent Acquisition,SID Global Solutions,-
+,906.0,Pavan Vemuri,pavan.vemuri@m3bi.com,Head - HR,M3BI,-
+,907.0,Pavan Vooribindi,pavan.vooribindi@mckinleyrice.co,HR Generalist/ Community Head,McKinley Rice,-
+,908.0,Pavithra Bopanna,pavithra.bopanna@entropiktech.com,Director Human Resources,Entropik Tech,-
+,909.0,Pavithradesai Pd,pavithra.desai@infracloud.io,Chief People Officer,InfraCloud Technologies,-
+,910.0,Payal Bhowmick,payal@highpeaksw.com,Head - Human Resource & Operations,High Peak Software,-
+,911.0,Payal Parmar,payal@safe.security,"Senior Director, Global Talent Acquisition",Safe Security,-
+,912.0,Payyalore Sainath,payyalore.sainath@larvol.com,Global Head of Talent Acquisition,LARVOL,-
+,913.0,Pearl Dsouza,pdsouza@cartesianconsulting.com,Head - Human Resources,Cartesian Consulting,-
+,914.0,Peeyush Singhal,peeyush.singhal@monsterindia.com,Product Head - Talent Search Platform,Monster India,-
+,915.0,Peterson Pereira,peterson.pereira@cignex.com,Associate Vice President Human Resources,CIGNEX Datamatics,-
+,916.0,Phani Kalyan,phani@eminds.ai,Director of Talent Engineering,Enterprise Minds,-
+,917.0,Phani Kumar,phani.kumar@soroco.com,Director Talent Acquisition,Soroco,-
+,918.0,Phanidhar Sangam,phanidhars@dextara.com,Director HR,Dextara Digital,-
+,919.0,Philip Manikya,philip.manikya@posidex.com,Chief People Officer,Posidex,-
+,920.0,Piali Goswami,piali.goswami@optimusinfo.com,HR Head,Optimus Information,-
+,921.0,Piyali Basu,piyalib@digitalaptech.com,Head - Human Resource,Digital Aptech,-
+,922.0,Piyush Naik,piyush.naik@digivalet.com,AVP-Talent Acquisition,DigiValet,-
+,923.0,Piyush Raghuvanshi,piyush.r@apna.co,Head - Talent & Culture,apna,-
+,924.0,Pooja,pooja@agri10x.com,VP-MarComm & Head-HR,Agri10x,-
+,925.0,Pooja,pooja@zentekinfosoft.com,Head of Human Resources,Zentek Infosoft,-
+,926.0,Pooja Arora,pooja.arora@minosha.in,Head HR,Minosha India,-
+,927.0,Pooja M,pooja.m@aress.com,Director HR,Aress Software,-
+,928.0,Pooja Madappa,pooja.madappa@netradyne.com,Vice President Human Resources,Netradyne,-
+,929.0,Pooja Malawade,pooja.malawade@nanostuffs.com,Head of HR,Nanostuffs,-
+,930.0,Pooja Mishra,pooja@avestacs.com,Vice President - HR & Strategic Accounts,Avesta Computer Services,-
+,931.0,Pooja Misra,pooja@incnut.com,Head - Human Resources,IncNut Digital,-
+,932.0,Pooja Pareek,pooja.pareek@myglamm.com,Head of Talent Acquisition,MyGlamm,-
+,933.0,Poonam Dobriyal,poonam@nuvento.com,AVP -Human Resources,Nuvento Inc,-
+,934.0,Poonam Sharma,poonam.b@cynetsystems.com,Director Human Resources,Cynet Systems Inc,-
+,935.0,Poonam Yadav,poonam.yadav@webmobril.com,Group Head Human Resources,WebMobril Technologies,-
+,936.0,Poornima Gowda,poornima.gowda@fortanix.com,Head Of Human Resources,Fortanix,-
+,937.0,Poornima Narayanappa,poornima.narayanappa@symphonysummit.com,Head- Human Resources,Symphony SummitAI,-
+,938.0,Poornima P,pp@yodlee.com,HR Director,Envestnet,$3.49B (valuation)
+,939.0,Poornima Srinivasan,poornima@testvagrant.com,"Head of Human Resources, People Head & Culture",TestVagrant Technologies,-
+,940.0,Poornima Subramanian,poornima.s@d4insight.com,Associate Director - Human Resources,NielsenIQ,-
+,941.0,Poulo Mathew,poulo@goleadingit.com,VP of Human Resource,Leading IT,-
+,942.0,Prabha Giri,prabha.giri@acropolisinfotech.com,AVP - People Operations,Acropolis Infotech,-
+,943.0,Prabha Masilamani,prabha.masilamani@plivo.com,Director - Human Resources,Plivo,-
+,944.0,Prabhu,prabhu@atmecs.com,Director Human Resources Development,ATMECS Inc,-
+,945.0,Prachi Singh,prachi.singh@vinculumgroup.com,Head - Global Resourcing & Talent Management,Vinculum Group,-
+,946.0,Pradeep Boiri,pradeep.boiri@otsi.co.in,Senior Director - HR,Object Technology Solutions India,-
+,947.0,Pradeep Chigurupati,pradeep.chigurupati@mindtickle.com,"Head, Talent Acquisition",Mindtickle,-
+,948.0,Pradeep K,pradeep.k@mindteck.com,Vice President Human Resources,Mindteck India,-
+,949.0,Pradeep Krishnan,krishnanp@kaizentek.com,Recruitment Head - Technology Consulting Services,Kaizen Technologies,-
+,950.0,Pradeep Kumar,pradeep.kumar@andortech.com,Director - HR,Andor Tech,-
+,951.0,Pradeep Kumar,pradeepkumar@newtglobalcorp.com,Director - Talent Management,Newt Global Consulting,$68.5M (ARR)
+,952.0,Pradeep Pg,pradeep@bidgely.com,"Director, Human Resources",Bidgely,-
+,953.0,Pradeep R,pradeep_r@3dplmsoftware.com,Head of HR (India),Dassault Systems,$31.7B (valuation)
+,954.0,Pradeep Raju,pradeep@digiryte.com,Vice President - People Operations,Digiryte,-
+,955.0,Pradeep Sinha,pradeep@servosys.com,Head HR & Quality,Servosys Solutions,-
+,956.0,Pradep Sakthi,pradep.s@zuper.co,Head Of Human Resources,Zuper,-
+,957.0,Pradnya Kulkarni,pradnya.kulkarni@afourtech.com,Head-HR & Admin,AFour Technologies,-
+,958.0,Prafull,pjaiswal@xento.com,Head - HR Strategy & Talent Management,Xento Systems,-
+,959.0,Pragati Dey,pragati@aryacma.co.in,Head - Human Resources,Arya.ag,-
+,960.0,Pragati Kumar,pkumar@aienterprise.com,Director Human Resources and Administration,AIEnterprise Inc,-
+,961.0,Pragati S,pragati@onamagroup.com,Head Of Human Resources,Onama Consultants,-
+,962.0,Pragati Tilve,pragati.tilve@creativecapsule.com,Director of Human Resources,Creative Capsule,-
+,963.0,Pragatii Choudhary,hr.orbit@orbitindia.net,Head of HR,Orbit Techsol,-
+,964.0,Pragya,pragya.khanna@lirik.io,Vice President Human Resources,Lirik,-
+,965.0,Pragya Parashar,pragya.parashar@claritusconsulting.com,Head of HR,Claritus Management Consulting,$8M (ARR)
+,966.0,Prajeeth Gobi,prajeeth.g@winwire.com,Associate Director - Recruitment,WinWire Technologies,-
+,967.0,Prajeetha Prasad,prajeetha.prasad@thoughtspot.com,Director People Operations,ThoughtSpot,$4.2B (valuation)
+,968.0,Prakash Balasubramanian,prakash.b@payoda.com,Head Of Human Resources,Payoda Technology,-
+,969.0,Prakash Kumaran,prakashk@newtglobalcorp.com,Associate Director Human Resources,Newt Global Consulting,$68.5M (ARR)
+,970.0,Prakash Nair,prakashpn@suntecgroup.com,Vice President & Global Head - HR & KMTD,SunTec Business Solutions,$96.3M (ARR)
+,971.0,Prakash Rc,prakash.rc@kriyanxw.com,Head Of Human Resources,Kriya IT,-
+,972.0,Prakyath Krishnappa,prakyath.k@verifaya.com,Head of HR,Verifaya Corporation,-
+,973.0,Pramodh Karumbaiah,pramodh.karumbaiah@trell.co,Head Of Human Resources,Trell,$120M (valuation)
+,974.0,Pranab Mishra,pranab.mishra@criticalriver.com,Human Resources Director,CriticalRiver,-
+,975.0,Pranali Shinde,pranali.shinde@featsystems.com,Head of Human Resources Operations,Feat Systems,-
+,976.0,Pranay Mahadik,pranay@precisiontechcorp.com,AVP - Talent Acquisition,Precision Technologies,-
+,977.0,Pranitha Penmetsa,pranitha@tyfone.com,VP - Human Resources and Operations,"tyfone,",-
+,978.0,Prasaanth Subbiah,prasaanth.s@ivymobility.com,Head Of Human Resources,Ivy Mobility,$15M (funding)
+,979.0,Prasad Bagawade,prasad.bagawade@infrasofttech.com,Global Head - Human Resources,Infrasoft Technologies,$45M (ARR)
+,980.0,Prasad Kelkar,prasad_k@abmindia.com,Head HR & Admin,ABM Knowledgeware,-
+,981.0,Prasad Narayan,prasad_narayan@neovasolutions.in,Head of Talent Acquisition & Special Projects,Neova Solutions,-
+,982.0,Prasad Reddy,prasad_r@preludesys.com,Associate Vice President - IT & HR,PreludeSys,-
+,983.0,Prasanna Soparkar,prasanna.soparkar@steeplap.com,Vice President - Human Resources,Shell Transource,-
+,984.0,Prashant Dubey,prashant.dubey@techilaservices.com,Head of Talent Acquisition,Techila Global Services,-
+,985.0,Prashant Kesharwani,prashant@kljindia.com,HEAD- LEGAL & HR,IKF Technologies,-
+,986.0,Prashant Parashar,prashant.parashar@clevertap.com,Chief Human Resources Officer,CleverTap,-
+,987.0,Prashant Saxena,prashant@diverselynx.com,India Recruitment Head,Diverse Lynx,-
+,988.0,Prashanth Kulkarni,prashanth.kulkarni@v2solutions.com,Director - Talent Acquisition,V2Solutions,-
+,989.0,Prashasti Pritiprada,prashasti@muvi.com,Director of HR,Muvi.com,-
+,990.0,Prasheel Pardhe,prasheel.pardhe@trantorinc.com,Chief People Officer,Trantor,-
+,991.0,Prastily Kp,prastily@vaisesika.in,"Director -HR, Operations, Finance, Immigration",Vaisesika Consulting,-
+,992.0,Pratheek Machaya,pratheek.machaya@valentabpo.com,Head - Franchise Recruitment,Valenta,-
+,993.0,Prathyusha Mannar,prathyusha@5cnetwork.com,Head - HR,5C Network,-
+,994.0,Pratik M,pratik.m@baazigames.com,Chief People Officer,Baazi Games,-
+,995.0,Pratim Purkait,pratim.purkait@rtns.in,Head of HR,RT Network Solutions,-
+,996.0,Pratyush Sinha,pratyush.sinha@catalystone.com,Head Of Human Resources India,CatalystOne Solutions,-
+,997.0,Praveen Gupta,praveen.gupta@amantyatech.com,Vice President - Global HR,Amantya Technologies,-
+,998.0,Praveen Joseph,pjoseph@suyati.com,Director - Human Resources,Suyati Technologies,-
+,999.0,Praveen Kummar,praveen@maxval.com,Director Talent Management,"MaxVal Group,",-
+,1000.0,Praveen Kunta,praveen.kunta@incture.com,Human Resources Director,Incture,$25M (ARR)
+,1001.0,Praveen Nambiar,praveen.nambiar@rigvedtech.com,Head Of Human Resources,Rigved Technologies,-
+,1002.0,Praveen Rao,praveen.r@softpath.net,Associate Director - HR,Softpath System,-
+,1003.0,Praveen Singh,praveen.singh@xduce.com,Senior Director - HR and Head of India Operations,XDuce,-
+,1004.0,Praveen Zore,praveen.zore@agiliad.com,Director Human Resources,Agiliad,-
+,1005.0,Pravin Kankane,pravin.kankane@flo-group.com,Director Human Resources Administration,Flo Group,-
+,1006.0,Pravin Subba,pravin.subba@tanla.com,Chief People Experience Officer,Tanla Platforms,-
+,1007.0,Preeth Joseph,preeth.joseph@bridgei2i.com,Director - Talent Strategy & Operations,BRIDGEi2i Analytics Solutions,-
+,1008.0,Preetha Somashekar,preetha@frontier.in,Head of Human Resources,Frontier Business systems,-
+,1009.0,Preetham Singh,preetham.singh@tanla.com,Chief Human Resources Officer,Tanla Platforms,-
+,1010.0,Preethy Paul,preethy.paul@insemitech.com,Associate Vice President Human Resources,Insemi Technology Services,-
+,1011.0,Preeti Das,preeti.das@tripstack.com,Human Resources Director - India,TripStack,-
+,1012.0,Preeti Kalyankar,preeti.kalyankar@mosambee.com,Head of Human Resources,Mosambee,-
+,1013.0,Preeti Mani,pmani@verisys.com,Head of HR,Verisys Corporation,-
+,1014.0,Preeti Mathur,preeti.mathur@eproductivitysoftware.com,Director HR for APAC,eProductivity Software,-
+,1015.0,Preeti Msw,preeti.msw@wundermanthompson.com,Head Strategic HR & Leadership,Wunderman Thompson Commerce,-
+,1016.0,Preeti Phansalkar,preeti.phansalkar@clariontech.com,Head Of Human Resources,Clarion Technologies,-
+,1017.0,Preety Mehra,preety@cozentus.com,Head - Talent Acquisition,Cozentus,-
+,1018.0,Prem Nair,prem.nair@toshiba-tsip.com,Senior Director Human Resources,Toshiba Software (India),-
+,1019.0,Prerna Kohli,prerna.kohli@cyware.com,Director Human Resources (India),Cyware,-
+,1020.0,Prince Kumar,prince.kumar@innohubtechnologies.com,Human Resources Director,Innohub Technologies Pte,-
+,1021.0,Priscilla Francis,priscilla.f@mantralabsglobal.com,Head of HR,Mantra Labs,-
+,1022.0,Pritha Das,pritha@near.com,Director - People and Culture,Near,-
+,1023.0,Priti Mhatre,priti.mhatre@zaggle.in,Senior Manager (Head- Human Resources),Zaggle Prepaid Ocean Services,-
+,1024.0,Priya Bagla,priya.bagla@fullestop.com,HR Director,Fullestop,-
+,1025.0,Priya Bhogineni,priya.bhogineni@yexle.com,Head of Human Resources,Yexle,-
+,1026.0,Priya Malhotra,priya.malhotra@daffodilsw.com,AVP Human Resources,Daffodil Software,-
+,1027.0,Priya Malhotra,priya@flexasoft.com,VP-Staffing,Flexasoft,-
+,1028.0,Priya Nair,priya@congruentindia.com,Director - Human Resources,Congruent Info-Tech,-
+,1029.0,Priya Subramanian,priya.subramanian@talview.com,Head of HR,Talview,-
+,1030.0,Priya Surana,priya@jungleegames.com,Head Employee Experience & Talent Acquisition,Junglee Games,-
+,1031.0,Priya Tyagi,priya@quartic.ai,Head Of Human Resources,Quartic.ai,-
+,1032.0,Priyadarshini Kachroo,priyadarshini@tatacliq.com,Head of Corporate Planning and Strategy,Tata CLiQ,-
+,1033.0,Priyadarshini Torke,priyadarshini.torke@jobsforher.com,AVP - HRBP,JobsForHer,-
+,1034.0,Priyanka Basak,priyanka.basak@cbnits.com,Head of Recruitment,CBNITS,-
+,1035.0,Priyanka Grover,priyanka.grover@fifthnote.co,Function Head - Culture Building,fifthnote,-
+,1036.0,Priyanka Jaiswal,pjaiswal@paktolus.com,Head Of Human Resources,Paktolus Solutions,-
+,1037.0,Priyanka Madhala,priyankam@chimeratechnologies.com,Head of Talent Acquisition,Chimera Technologies,-
+,1038.0,Priyanka Priyadarshini,priyanka.priyadarshini@hcl.com,Head - HR (APAC & Gulf),Monster India,-
+,1039.0,Priyanka Roy,priyanka@freshersworld.com,Head - HR & Operations,Freshersworld.com,-
+,1040.0,Priyanka Sharma,priyanka.s@decimaltech.com,AVP HR (Talent and Culture),Decimal Technologies,-
+,1041.0,Priyanka Shukla,priyankashu@flock.com,Head - Total Rewards and HR Analytics,Flock,-
+,1042.0,Priyom Barooah,priyom.barooah@kritikalvision.ai,Associate Vice President Human Resources,KritiKal Solutions,-
+,1043.0,Prof Chro,prof.dutt@onebcg.com,Head - People & Culture,ONE BCG,-
+,1044.0,Pronami Borah,pronami.borah@travclan.com,People Operations Head,TravClan,-
+,1045.0,Puja Gupta,puja@affle.com,Associate Director Human Resources,Affle,-
+,1046.0,Punitha Nagarajan,punitha.n@zucisystems.com,Head - Talent Acquisition,Zuci Systems,-
+,1047.0,Purva Pandit,purvap@zenoti.com,Vice President - Talent Management,Zenoti,-
+,1048.0,Pushpendra Yadav,pushpendra.y@cynetsystems.com,Director - Recruiting Operations (RecOps),Cynet Systems Inc,-
+,1049.0,Pushpinder Singh,pushpinder.singh@se2.com,Global Head - Talent Acquisition,SE2,-
+,1050.0,Rabi Agrawal,rabi@flobiz.in,Head of HR,FloBiz,-
+,1051.0,Radhakrishna K,radhakrishnak@spanidea.com,Associate Director - HR,SpanIdea Systems,-
+,1052.0,Radhakrishnan Nair,r.nair@suntecgroup.com,Sr.Vice President and Head of HR,SunTec Business Solutions,$96.3M (ARR)
+,1053.0,Radhika Boppana,radhika.boppana@blackstraw.ai,Chro,Blackstraw.ai,-
+,1054.0,Radhika Khurana,radhika.khurana@impactanalytics.co,Chief People Officer,Impact Analytics,-
+,1055.0,Raghava Krishna,raghava.krishna@nslhub.com,Senior Group Solutions Leader (CHRO),Brane Enterprises,$25M (ARR)
+,1056.0,Raghavendra,raghavendra@syscloud.com,Sr. Director Recruitment,SysCloud,-
+,1057.0,Raghavendra Mesta,raghavendra@fidelisgroup.in,Vice President - HR,Fidelis Corporate Solutions,-
+,1058.0,Raghunath Gawde,rgawde@softcell.com,Corporate Head- Finance & HR,Softcell Technologies Global,-
+,1059.0,Ragini Mahapatra,ragini.m@seanergydigital.com,Human Resources Director,Seanergy Digital,-
+,1060.0,Rahul Agrawal,rahul.a@softpath.net,Director & BU Head - Talent Acquisition,Softpath System,-
+,1061.0,Rahul Bansode,rahul.bansode@digitalf5.com,Head - Performance & Solutions E-commerce,Digital Refresh Networks,-
+,1062.0,Rahul Choudhury,rahul@netmagicsolutions.com,Associate Vice President Human Resources,NTT DATA,$42.2B (ARR)
+,1063.0,Rahul Inamdar,rahul.inamdar@infracloud.io,Head of Talent Acquisition,InfraCloud Technologies,-
+,1064.0,Rahul Vishwanatham,rahul.vishawantham@vaave.com,Head Of Human Resources,Vaave,$766K (funding)
+,1065.0,Raj Abubakkar,rabubakkar@amrepinspect.com,Global Head Human Resources,AMREP SUPPLIER MANAGEMENT SERVICES,-
+,1066.0,Raj Agarwal,raj.agarwal@360degreecloud.in,Chief Recruitment Officer,360 Degree Cloud Technologies,-
+,1067.0,Raj Bose,rajbose@avataar.me,Head of Talent Acquisition,Avataar.Me,-
+,1068.0,Raj Kish,r.kish@selectsys.com,Head of Human Resources,Selectsys India,-
+,1069.0,Raja Pamidi,raja.pamidi@nttdata.com,Delivery Head- Talent Acquisition,NTT DATA,$42.2B (ARR)
+,1070.0,Rajagopal,rajagopal@antra.com,Vice President - TA & IT Staffing,"Antra,",-
+,1071.0,Rajani Patel,rajanip@resilienceitusa.com,Chief People Officer,Resilience InfoTech,-
+,1072.0,Rajani Siddhartha,rajani.siddhartha@dreamorbit.com,Vice President - Human Resource,DreamOrbit,-
+,1073.0,Rajashree Mahajan,m.rajashree@xangars.com,Talent Acquisition Recruiter Head,Xangars Solutions,-
+,1074.0,Rajat Bansal,rajatb@damcogroup.com,Associate Vice President- HR,Damco Solutions,-
+,1075.0,Rajat Das,rajat.das@ondemandagility.com,Talent Acquisition Head,OnDemand Agility Solutions,-
+,1076.0,Rajat Mehra,rajat.mehra@nxtgen.com,Head - Human Resources,NxtGen Infinite Datacenter,-
+,1077.0,Rajeeb Biswas,rajeeb@q3tech.com,Director-HR & Admin,Q3 Technologies,-
+,1078.0,Rajeev Bhardwaj,rajeev.bhardwaj@sunlife.com,Chief Human Resources Officer,Sun Life,$29B (valuation)
+,1079.0,Rajeev S,rajeev.s@algonomy.com,Associate Director - Talent Acquisition,Algonomy,-
+,1080.0,Rajeev Sen,rsen@medline.com,Director Human Resources,Medline India,-
+,1081.0,Rajendra Bn,rajendra.bn@exilant.com,Head HR,EXILANT Technologies,-
+,1082.0,Rajesh,rajeshn@techaffinity.com,Director - HR,TechAffinity,-
+,1083.0,Rajesh A,rajesh@dremio.com,Director HR - India,Dremio,-
+,1084.0,Rajesh Babu,rajesh.babu@softobiz.com,Head of Talent Acquisition,Softobiz Technologies,-
+,1085.0,Rajesh Balasubramanian,rajeshb@coffeebeans.io,Head of Talent Acquisition,CoffeeBeans Consulting,-
+,1086.0,Rajesh Kethepalle,rajesh.kethepalle@electrifai.net,Director Talent Acquisition,ElectrifAi,-
+,1087.0,Rajesh Malhotra,rajeshm@damcogroup.com,AVP Staffing and Fixed Bid Projects,Damco Solutions,-
+,1088.0,Rajesh Vadakevetil,rajesh@fissionlabs.com,Head of Talent Acquisition,Fission Labs,-
+,1089.0,Rajesh Yadav,rajesh.yadav@gstn.org.in,Vice President & Head Human Resources,Goods And Services Tax Network,-
+,1090.0,Rajitha Jaffer,rajitha.jaffer@jmrinfotech.com,DIRECTOR - HR and OPERATIONS,JMR Infotech,-
+,1091.0,Rajiv Kumar,rkumar@cendyn.com,Director - Talent Acquisition,Cendyn,-
+,1092.0,Rajneesh Malik,rajneesh.malik@mindtickle.com,Sr. Director Global - Talent Acquisition,Mindtickle,-
+,1093.0,Rajni Bansal,rajni@growexx.com,Head Of Human Resources,Growexx,-
+,1094.0,Rajni Noronha,rajni.noronha@cignex.com,AVP Talent Acquisition,CIGNEX Datamatics,-
+,1095.0,Rajni Singh,rajni.singh@indinnovation.com,Head HR Manager at Ind Innovation Private Limited,Ind Innovation,-
+,1096.0,Rajsekhar Dangeti,rajsekhar.dangeti@zensark.com,"Director, Global Talent Acquisition",Zensark,-
+,1097.0,Raju Vatsavayi,raju.vatsavayi@nsight-inc.com,Director - Human Resource,"Nsight,",-
+,1098.0,Rajyashree Rao,rajyashree@technodysis.com,HR and Operations Head,Technodysis,-
+,1099.0,Rakesh Arora,rakesh.arora@skilrock.com,Group CHRO,Skilrock Technologies,-
+,1100.0,Rakesh Arora,rakesh.arora@sugaldamani.com,Group CHRO,Sugal & Damani,-
+,1101.0,Rakesh Arora,rakesh@taazaa.com,Head HR & Talent Acquisition,Taazaa Inc,-
+,1102.0,Rakesh Badam,rakesh.badam@tomiaglobal.com,Human Resources Director,TOMIA,-
+,1103.0,Rakesh Ebrahimpurkar,rakesh.e@63moons.com,Deputy Vice President - Human Resources,IFTAS,-
+,1104.0,Rakesh Kumar,rakesh.kumar@anetcorp.com,Head of Recruitment Operations,Alpha Net,-
+,1105.0,Rakesh Raj,rakesh@mergenit.com,"Vice President, IT - Staffing & Solutions",Mergen IT LLC,-
+,1106.0,Rakesh Vishwakarma,rakesh.vishwakarma@tejora.com,AVP - STAFFING,Tejora,-
+,1107.0,Rakshita Shharma,rakshita@easyeat.ai,CHRO,Easy Eat AI,-
+,1108.0,Ram R,ram.r@kairostech.com,Talent Acquisition Head,Kairos Technologies,-
+,1109.0,Ram Varadamoorthy,ram.varadamoorthy@ducenit.com,Director Talent Acquisition,Ducen,$63M (ARR)
+,1110.0,Rama C,rama.c@soroco.com,Head of People Operations,Soroco,-
+,1111.0,Ramakrishna Chanduri,ramakrishnac@msrcosmos.com,Head HR,MSRcosmos LLC,-
+,1112.0,Ramakrishna Jampala,ramakrishna.jampala@paradigmit.com,Head - HR,ParadigmIT,-
+,1113.0,Raman Tsk,rtsk@seec.com,HR-Director,SEEC,-
+,1114.0,Ramani Ganesh,ramani@hirect.in,Senior Vice President -Human Resources,Hirect India,-
+,1115.0,Ramanjit Goswami,ramanjit.goswami@inadev.com,Director - Human Resources,Optimize IT Systems,-
+,1116.0,Ramanujam Cs,ramanujam.cs@ifocussystec.com,Head - HR & Finance,iFocus Systec,-
+,1117.0,Ramaprasad Baleguli,ramaprasad.baleguli@v2solutions.com,Head of Talent Acquisition-Digital Engineering,V2Solutions,-
+,1118.0,Ramchandra Patil,head.hr@abmindia.com,Head of HR,ABM Knowledgeware,-
+,1119.0,Ramesh Mantana,rmantana@evoketechnologies.com,Vice President - HR & Ops,Evoke Technologies,-
+,1120.0,Ramesh Parepalli,ramesh.parepalli@purviewservices.com,Global Recruitment Director,PURVIEW,-
+,1121.0,Ramesh Talwar,ramesh.talwar@crmnext.com,VP Admin & HR,CRMNEXT,-
+,1122.0,Ramkrishna Sahu,ramkrishna.sahu@ceptes.com,Head of Talent Acquisition,CEPTES Software,-
+,1123.0,Ramya Eradi,eradi.ramya@aujas.com,Head - Talent Management,Aujas Cybersecurity,-
+,1124.0,Ramya Hv,ramya.hv@profinch.com,Head Of Human Resources,Profinch,-
+,1125.0,Ramya Menon,ramya.menon@edifecs.com,"Head - People& Culture, India",Edifecs,$1.4B (valuation)
+,1126.0,Ramya Ramachandran,ramya.ramachandran@cloudsek.com,Associate Vice President - Talent Acquisition,CloudSEK,-
+,1127.0,Ramya Sharma,ramya.s@greyorange.com,Chief People Officer,GreyOrange,-
+,1128.0,Ramya Venkatesh,ramya.venkatesh@profinch.com,Head Of Human Resources,Profinch,-
+,1129.0,Rana Bose,rana.bose@emds.com,Human Resources Director,eMDs,-
+,1130.0,Ranjan Hooda,ranjan.hooda@rpsconsulting.in,Head - Client Management & Talent Acquisition,RPS Consulting,-
+,1131.0,Ranjana Anand,ranjana@finessedirect.com,Vice President Human Resources,Finesse Global,-
+,1132.0,Ranjani Sunkara,ranjani.sunkara@incture.com,Associate Director Human Resources,Incture,$25M (ARR)
+,1133.0,Ranjeeta Das,ranjeeta.d@iksula.com,Head Human Resources,Iksula,-
+,1134.0,Ranjit Dhillon,ranjitd@spancobpo.com,"SITE HEAD, HUMAN RESOURCES",Spanco BPO,-
+,1135.0,Ranjith Vp,ranjith.vp@aujas.com,Head- Talent Acquisition,Aujas Cybersecurity,-
+,1136.0,Ranjitha Sathyanarayan,ranjitha.s@healthasyst.com,Head - Talent Acquisition,HealthAsyst,-
+,1137.0,Ranju Nair,ranju@eateam.com,Director Of Recruiting,EA Team Inc,-
+,1138.0,Rashmi Chauhan,rashmi.chauhan@rategain.com,Global Head - Talent Acquisition,RateGain,$1.2B (valuation)
+,1139.0,Rashmi George,rashmi.george@niveussolutions.com,Chief Talent Officer,Niveus Solutions,-
+,1140.0,Rashmi Gupte,rashmi.gupte@wisdmlabs.com,Head Human Resources,WisdmLabs,-
+,1141.0,Rashmi Taksande,rashmi.taksande@softdel.com,HR Director,Softdel,-
+,1142.0,Rashmita Pradhan,rashmita.pradhan@teklink.com,Associate Director Human Resources,TekLink International,-
+,1143.0,Rashmme Eshwar,rashmme.eshwar@datacore.com,Senior Director - APAC Human Resources,DataCore Software,-
+,1144.0,Ratan Dalal,ratan.dalal@global-csg.com,"Head Of Digital Recruitment - US, Europe",Creative Synergies Group,-
+,1145.0,Ratika Mirji,ratika.mirji@neviton.com,Head Of Human Resources,Neviton Softech.,-
+,1146.0,Ratish Kurle,ratish@maintec.com,Delivery Head - IT Technical Staffing,Maintec Technologies,-
+,1147.0,Ratish Ravindran,ratish.r@iantindia.com,Head - Talent Management,IANT,-
+,1148.0,Ravdeep Singh,ravdeep.singh@sourcefuse.com,Chief People Officer,SourceFuse Technologies,$93.9M (ARR)
+,1149.0,Raveendra Datla,raveendra.datla@smartims.com,Head of Talent Acquisition,Smart IMS,$94.6M (ARR)
+,1150.0,Ravi Bhushan,ravi.bhushan@techilaservices.com,Head Of Human Resources,Techila Global Services,-
+,1151.0,Ravi Devara,ravi.devara@tammina.com,Head Of Recruitment,TechTammina LLC,-
+,1152.0,Ravi Gurunathan,ravi.gurunathan@ivalue.co.in,Chief Human Resources Officer,iValue InfoSolutions,$290M (ARR)
+,1153.0,Ravi K,ravi.k@crmit.com,Global Recruitment Head,CRMIT Solutions,-
+,1154.0,Ravi Kasinadhuni,ravi.kasinadhuni@crmit.com,Head HR,CRMIT Solutions,-
+,1155.0,Ravi Kuchampudi,ravi.kuchampudi@zenq.com,Head - Human Resources,ZenQ,-
+,1156.0,Ravi Kumar,ravi.kumar@ample.co.in,Director - Recruitment,Ample Technologies,$195M (ARR)
+,1157.0,Ravi Kumar,rkumar@saiconinc.com,Recruitment Operations-Director,Saicon,-
+,1158.0,Ravi Mourya,ravi.mourya@waisl.in,Sr. Associate HR & Chief Security Officer,WAISL,-
+,1159.0,Ravi Shankar,ravi.shankar@crmit.com,Global Recruitment Head,CRMIT Solutions,-
+,1160.0,Ravi Surathu,ravi@olivetech.com,Human Resources Director,Olive Technology,-
+,1161.0,Ravi Vattikota,ravi.vattikota@itelligencegroup.com,"VP, SAP Staffing & Delivery",itelligence India Software Solutions,-
+,1162.0,Ravichandran Perumal,ravichandran@spantechnologyservices.com,VP - Excise & Payroll Tax,Span Technology Services,-
+,1163.0,Ravikumar M,ravikumarm@aditiconsulting.com,Director - Recruitment,Aditi Consulting,-
+,1164.0,Ravindra Dandekar,ravindra.dandekar@myglamm.com,Head of HR,MyGlamm,-
+,1165.0,Ravindra Musunuru,ravindra.musunuru@prowesssoft.com,Vice President Human Resources,Prowess Software Services,-
+,1166.0,Ravisankar Velidi,ravisankar.velidi@increff.com,Chief Culture Officer & VP Engineering,Increff,$73M (valuation)
+,1167.0,Ravish Chadha,ravish.chadha@niyuj.com,Director & Head of Talent Acquisition,Niyuj,-
+,1168.0,Ravishanker Kannan,ravishanker.kannan@solverminds.com,Head-Talent Acquisition,Solverminds Solutions & Technologies,-
+,1169.0,Ravitha Devasenapathy,ravitha.devasenapathy@epikindifi.com,Chief Human Resources Officer,EPIKInDiFi,-
+,1170.0,Ravneet Kaur,rkaur@primusglobal.com,Delivery Head (UK and Europe recruitment),PRIMUS Global Technologies,-
+,1171.0,Ray Albro,ralbro@stand8.io,Human Resources Director,STAND 8 Technology Services,-
+,1172.0,Reddy,reddy@mantratechno.com,Senior Director HR & Operations,Mantra,-
+,1173.0,Reena Bajaj,reena.bajaj@solverminds.com,Head Of Transformation - Human Resources,Solverminds Solutions & Technologies,-
+,1174.0,Reena Bhansali,reena@matellio.com,Vice President Human Resources,Matellio,-
+,1175.0,Reena Vijayanand,reena.v@adani.com,Head HR - Data Center,AdaniConneX,-
+,1176.0,Reenaa S,reenaa.s@63moons.com,Assistant Vice President - Human Resources,63 moons Technologies,-
+,1177.0,Rehan Abdi,rehan.abdi@kiwitech.com,Head of Talent Acquisition,KiwiTech,-
+,1178.0,Rehana Inamdar,rehana.inamdar@smarteinc.com,Head of Talent Acquisition,SMARTe,-
+,1179.0,Rekha Nair,rekha.nair@navis.com,Global Director People & Culture,Navis,-
+,1180.0,Rekha Poonacha,rekhap@codeforce.com,Head of Human Resources,CodeForce 360,-
+,1181.0,Remi Vaz,remi.vaz@sureprep.com,Associate Director-HR,SurePrep LLC,-
+,1182.0,Remisa Dhar,remisa.dhar@percipere.co,Head Of Human Resources,Percipere,-
+,1183.0,Rena Soans,rena.so@endurance.com,Associate Director - HR Operations,Newfold Digital,-
+,1184.0,Rency Hakani,rency.hakani@manektech.com,Head of HR (Mobile Team),ManekTech,-
+,1185.0,Renju Nithin,renju.nithin@bridge-global.com,Talent Acquisition Head,Bridge Global,-
+,1186.0,Renu Srivastava,renu.srivastava@agdata.com,India HR Head,"AGDATA, LP",-
+,1187.0,Reshma Bopanna,reshma.bopanna@girmiti.com,AVP-Human Resources,Girmiti Software,-
+,1188.0,Reshma Mohan,reshma.mohan@gemini-us.com,Director - People & Culture,Gemini Consulting & Services,-
+,1189.0,Revathi Venkatesh,revathi.venkatesh@ibridgellc.com,Head of HR,iBridge,-
+,1190.0,Revathy Reddy,revathy.reddy@glu.com,HR Director People and Workplace,Glu Mobile,-
+,1191.0,Richa Pande,richa.pande@inatech.com,Chief People Officer,Inatech,-
+,1192.0,Richie Joseph,joseph@purpletalk.com,Director - Talent Development,PurpleTalk,-
+,1193.0,Ridhima Gera,ridhimag@pharmarack.com,Associate Director HR,Pharmarack,$10.5M (funding)
+,1194.0,Rijil Kannoth,rijil.kannoth@infobelt.com,"VP, HR & Operations",Infobelt,-
+,1195.0,Rima Das,rima@maropost.com,Global Head & Director of People and Culture,Maropost,-
+,1196.0,Rimpee Kukreja,rkukreja@pelican.ai,Global HR Head,Pelican.ai,-
+,1197.0,Rinki Goel,rinki.goel@hevodata.com,Director - HR,Hevo Data,-
+,1198.0,Rinku Chauhan,rinkuc@lumel.com,Director - Talent Acquisition,Lumel,-
+,1199.0,Rishabh,rishabhkalra@cetpainfotech.com,Recruitments Delivery Head,CETPA Infotech,-
+,1200.0,Rishabh Jain,rishabh.jain@angara.com,Head - Human Resource,Angara E-Commerce,-
+,1201.0,Ritesh Advani,radvani@thegoldensource.com,Vice President Human Resources,GoldenSource,-
+,1202.0,Ritika Jatana,rjatana@docmation.com,Director of HR,Docmation,-
+,1203.0,Ritika Jha,ritika.jha@codelogicx.com,Head Of Human Resources,Codelogicx,-
+,1204.0,Ritika Malhotra,ritika.malhotra@dotpe.in,Associate Director Human Resources,DotPe,-
+,1205.0,Ritika Naithani,ritika.naithani@infollion.com,Chief Human Resources Officer,Infollion Research Services,-
+,1206.0,Ritu Malhotra,ritu.malhotra@zemosolabs.com,Head of Talent Acquisition,Zemoso Technologies,-
+,1207.0,Robin B,robin@burgeonits.net,Director Of Recruiting,BURGEON IT SERVICES,-
+,1208.0,Robin Massey,robin.massey@fivesdigital.com,Associate Director Talent Acquisition,FiveS Digital,-
+,1209.0,Robin Thomas,robin.thomas@ecsfin.com,Global Human Resources Director,ECS Fin,-
+,1210.0,Rohini G,rohini@innobox.com,HR Head,Innobox,-
+,1211.0,Rohini Radhakrishnan,rohini.radhakrishnan@ideas2it.com,Head - Human Resources,Ideas2IT Technologies,-
+,1212.0,Rohini Rai,rohini.rai@taazaa.com,Director Employee Relations,Taazaa Inc,-
+,1213.0,Rohini Wwagh,rohiniw@nitorinfotech.com,Vice President & Head HR,Nitor Infotech,$30M (ARR)
+,1214.0,Rohit Jain,rohit.jain@kalelogistics.com,AVP HR,Kale Logistics Solutions,-
+,1215.0,Rohit Kalamkar,rohit@mindpooltech.com,Associate Director Human Resources,Mindpool Technologies Inc,-
+,1216.0,Rohit Minton,rohit.minton@hpiinc.com,Group Vice President - Human Resources,Health Prime,-
+,1217.0,Rohit Singh,rohit.singh@blucognition.ai,Head of Talent Acquisition,bluCognition,-
+,1218.0,Rohit Singh,rsingh@issquaredinc.com,Senior Director Talent Acquisition and Management,"ISSQUARED,",-
+,1219.0,Roli Singh,roli.singh@vfislk.com,Head of HR,VFI SLK,$600M (valuation)
+,1220.0,Roohi,roohi.syeda@forecastera.com,Global Head of Human Resources,ForecastEra,-
+,1221.0,Roopa Gangadharan,roopa.g@aujas.com,Associate Director HRBP,Aujas Cybersecurity,-
+,1222.0,Roopa Rajesh,roopa.rajesh@bobcares.com,Head HR,Bobcares,-
+,1223.0,Roopali Srivastava,roopali@aitglobalinc.com,Head - Human Resource,AIT Global India,-
+,1224.0,Roshan Nair,nair.roshan@tcs.com,Associate Director HR,Tata Digital,-
+,1225.0,Roshan Thomas,roshan.thomas@ivldsp.com,Head - Human Resources,Innoval Digital Solutions,-
+,1226.0,Roshni J,roshni.j@netenrich.com,Director HR,"Netenric,",-
+,1227.0,Roshni S,roshni.s@apty.io,Head of People and Culture,Apty,-
+,1228.0,Rosy Mitra,rosy.mitra@altiusdata.com,Head Recruiter,Altius,-
+,1229.0,Roy Mathew,roy.mathew@aqmtechnologies.com,AQM Group Talent Head,AQM Technologies,-
+,1230.0,Roystone Fernandez,roystone@accubits.com,Chief Human Resources Officer,Accubits Technologies,-
+,1231.0,Ruby Baksi,ruby.baksi@harbingergroup.com,Head Talent Engagement,Harbinger Group,-
+,1232.0,Ruchi Banerjee,ruchi@clearbit.com,Head of People Engagement and Inclusion,Clearbit,-
+,1233.0,Ruchi Batra,ruchi.batra@beetel.in,Head - Human Resources,Beetel,-
+,1234.0,Ruchi Bhayani,ruchi.bhayani@neutrinotechsystems.com,Director - HR & Strategic Alliances,Neutrino Tech Systems,-
+,1235.0,Ruchi Hr,ruchi@prodexnet.com,Head - HR & Talent Acquisition,ProdEx Technologies,-
+,1236.0,Ruchi Jain,ruchi.jain@lighthouseindia.com,Head Of Human Resources,Lighthouse Info Systems,-
+,1237.0,Ruchi Mago,ruchi.mago@orange.com,Head HR Shared Services International,Orange Business Services,-
+,1238.0,Ruchi Sharma,ruchi@headspin.io,"Director, People & Culture",HeadSpin,-
+,1239.0,Ruchika Chawla,ruchika@rooter.io,Head HR,Rooter App,-
+,1240.0,Ruchika Kohli,rkohli@tata.com,Director HR (Technology and Product),Tata Digital,-
+,1241.0,Ruchika Sawhney,ruchika.sawhney@cometchat.com,Senior Director Human Resources,CometChat,-
+,1242.0,Ruchira Garg,ruchira.g@greyorange.com,Vice President -People Operations,GreyOrange,-
+,1243.0,Rupa Bang,rupab@zenoti.com,"Senior Director, Talent Acquisition",Zenoti,-
+,1244.0,Rupali Bagaddeo,rbagaddeo@microproindia.com,Head - HR & Admin,Micropro Software Solutions,-
+,1245.0,Rupali Veerkar,rupali.veerkar@bitwiseglobal.com,Vice President / Head-HR,Bitwise India,-
+,1246.0,Rushikesh Rajendra,rushikesh.rajendra@thegatewaycorp.com,CHRO,Gateway Group of Companies,$203M (ARR)
+,1247.0,Rustom Taraporevala,rustom@1eq.com,Director Talent Management,eQ Technologic,-
+,1248.0,Sabina Juvekar,sabina.juvekar@cloudaction.com,Chief People Officer,Cloudaction,-
+,1249.0,Sacchin Kalkal,sacchin.kalkal@vertexglobalservices.com,VP- Talent Acquisition,Vertex Global Services,-
+,1250.0,Sachin Girolla,sachin.girolla@triarqhealth.com,Chief People Officer,TRIARQ Health India,-
+,1251.0,Sadi Hussain,sadi.hussain@simpplr.com,Senior Manager Talent Acquisition (TA Head),Simpplr,-
+,1252.0,Sagar Arondekar,sagar.arondekar@joshsoftware.com,Head HR,"Josh Software,",-
+,1253.0,Sagorika Sanyal,sagorika.s@insync.co.in,Vice President Talent Acquisition & Management,InSync Solutions,-
+,1254.0,Sahana Ps,sahana@tecplix.com,Vice President - HR,Tecplix Technologies,-
+,1255.0,Sahil Sharma,sahil.sharma@rategain.com,Global Head - Human Resources,RateGain,$1.2B (valuation)
+,1256.0,Sai Banerjee,sai.b@terasoftware.com,Head HR,Tera Software,-
+,1257.0,Sai Teja,sai.t@saranshinc.com,Head HR,Saransh Inc,-
+,1258.0,Sailaja Saranu,ssaranu@dataeconomy.io,Head Of Human Resources,DATAECONOMY,-
+,1259.0,Saily Vyas,sailyv@futurismtechnologies.com,Head - Human Resources,"Futurism Technologies,",-
+,1260.0,Sajani Sodadasi,sajani@i95dev.com,Head HR,i95Dev,-
+,1261.0,Sajitha Nair,sajitha.nair@antra.com,Associate Vice President Human Resources,"Antra,",-
+,1262.0,Sakshi Agarwal,sakshia@winjit.com,AVP - Global Talent Acquisition,Winjit Technologies,-
+,1263.0,Sakshi Agrawal,sakshi.agrawal@solacetechnologies.co.in,Head Of Human Resources,Solace Infotech,-
+,1264.0,Sakshi Goyal,sakshi.goyal@mtxb2b.com,"Director, People Operations & Growth",MTX Group,$50M (ARR)
+,1265.0,Sakshi Themaskar,sakshi.themaskar@ceinsys.com,Head of HR,Ceinsys Tech,-
+,1266.0,Sam Manohar,smanohar@cdcsoftware.com,"Director, Human Resources",CDC Software,-
+,1267.0,Samatha R,samathar@ideyalabs.com,Head Of Human Resources,ideyaLabs,-
+,1268.0,Sameer Deo,sameer.deo@riaadvisory.com,Head of HR and Operations,RIA Advisory,-
+,1269.0,Sameer Jadhav,sameer.jadhav@tavisca.com,Head & Vice President Recruitment,Tavisca,-
+,1270.0,Sameer Kumar,sameer.kumar@equifax.com,AVP - Talent Acquisition,Equifax India,-
+,1271.0,Sameer Samant,ssamant@omnicogroup.com,AVP - Compensation Control and Payroll Processing,Looking for Opportunities,-
+,1272.0,Sameera Chowdry,sameera.chowdry@brainly.com,"Director, People & Culture - India",Brainly,-
+,1273.0,Samidha Varadkar,samidha.varadkar@63moons.com,Asst. Vice President - Human Resources,63 moons Technologies,-
+,1274.0,Samir Dhond,samir.dhond@ittiam.com,Chief PeopleOfficer,Ittiam Systems,-
+,1275.0,Samir Mehta,samir.mehta@skill-mine.com,Director Talent Acquisition,Skillmine Technology Consulting,-
+,1276.0,Sanchari,sanchari@polygon.technology,Vice President - HR Finance,Polygon,$451M (funding)
+,1277.0,Sanchi Saxena,sanchis@fiftyfivetech.io,Head of HR,FiftyFive Technologies,-
+,1278.0,Sanchita Chakraborty,sanchita.chakraborty@assetanalytix.com,Head HR,Asset Analytix,-
+,1279.0,Sandeep Jaiswal,adops@phoenixsoftwares.in,Head - Performance Delivery,Phoenix Advanced Softwares,-
+,1280.0,Sandhya Nair,snair@catchpoint.com,Director - HR,Catchpoint,-
+,1281.0,Sandhya Tripathi,sandhya@singsys.com,Director(HR and Administration),Singsys Pte,-
+,1282.0,Sandip Bhise,sandipb@prdxn.com,Head of People Operations and Human Resources,Axioned,$5M (ARR)
+,1283.0,Sandip Raj,sandip.raj@cheersin.com,AVP - Talent Acquisition & Engagement,Cheers Interactive,$100M (ARR)
+,1284.0,Sandipan Kar,sandipan.kar@thegatewaycorp.com,Director Operations & Director Human Resources,Gateway Group of Companies,$203M (ARR)
+,1285.0,Sangeeta Tandon,sangeeta.tandon@ionidea.com,Director HR,IonIdea,-
+,1286.0,Sangeetha Bodduna,sangeethab@sidgs.com,Engineering Recruiter & Head of Recruitments,SID Global Solutions,-
+,1287.0,Sangeetha Jalkam,sangeetha@focussoftnet.com,Head HR,Focus Softnet,-
+,1288.0,Sanghamitra Roy,sroy@aapnainfotech.com,Head HR Admin,AAPNA Infotech,-
+,1289.0,Sangita Nair,sangita.nair@buyerforesight.com,Director - HR,BuyerForesight,-
+,1290.0,Sanika Arora,sanika.arora@piri.ai,Vice President Human Resources,Secomind.AI,-
+,1291.0,Sanitha Singh,ssingh@in.rm.com,Chief People Officer,RM Education Solutions India.,-
+,1292.0,Sanjay Chandel,sanjay.chandel@joveo.com,Head Of Human Resources,Joveo,-
+,1293.0,Sanjay Jengiti,sanjayj@zenoti.com,Director - Finance & HR,Zenoti,-
+,1294.0,Sanjay Mashere,sanjay.mashere@neml.in,Asst. Vice President - Human Resource,NCDEX e Markets,-
+,1295.0,Sanjay Mirchandani,sanjay.mirchandani@sttelemediagdc.in,Associate Director Human Resources,ST Telemedia Global Data Centres,-
+,1296.0,Sanjay Shanmugaum,sshanmugaum@controlcase.com,Vice President - Global Head - HR & Admin,ControlCase,-
+,1297.0,Sanjay V,sanjayv@zenithsoft.com,Head-Human Resource,Zenith Software,-
+,1298.0,Sanjeeta Mohta,sanjeeta@learningspiral.co.in,Head of Talent & Finance,Learning Spiral,-
+,1299.0,Sanjeev Dhokte,sanjeev.dhokte@accops.com,Senior Director Human Resources,Accops Systems,-
+,1300.0,Sanjeev Kumar,sanjeev.kumar@drishinfo.com,Director(HR and Special Projects),Drish Infotech,-
+,1301.0,Sanjeev Rana,sanjeev.rana@crestechsoftware.com,AVP HR,Crestech Software,-
+,1302.0,Sanjeev Verma,sanjeev.verma@sttelemediagdc.in,"Sr. Vice President - HR, CS & EHS",ST Telemedia Global Data Centres,-
+,1303.0,Sanjukta Biswas,sanjukta.biswas@algoworks.com,HR Head,Algoworks,-
+,1304.0,Sankar Nath,snath@macrosoftinc.com,Director - US Recruitment,Macrosoft,-
+,1305.0,Sanketh Ramkrishnamurthy,sanketh.r@autorabit.com,Head HR,AutoRABIT,-
+,1306.0,Santosh Badarinath,santosh@hexagonglobal.in,Head - HR,Hexagon Global,-
+,1307.0,Santosh Gopineni,santosh@agilecrm.com,Director Human Resources Information Technology,Agile CRM,-
+,1308.0,Santosh Kamble,santosh.kamble@clariontechnologies.co.in,Head of Talent Acquisition,Clarion Technologies,-
+,1309.0,Santosh Prajapati,santosh.prajapati@saggezza.com,Talent Acquisition Head,Saggezza,-
+,1310.0,Santosh Sakhare,santosh.s@telematics4u.com,Head Of Human Resources,Rane t4u,-
+,1311.0,Santosh Singh,santosh.singh@scikey.ai,Director - Talent Solutions,SCIKEY,$5M (funding)
+,1312.0,Sanya Nagpal,sanya.nagpal@leena.ai,Head Of Human Resources,Leena AI,-
+,1313.0,Sapana Suresh,sapana.suresh@trizetto.com,Director - Human Resources,AST LLC,-
+,1314.0,Sapna Soni,sapna@codingmart.com,Head of Human Resources,Codingmart Technologies,-
+,1315.0,Sapna Sukhrani,sapna.sukhrani@milessoft.com,Head HR,EbixCash Financial Technologies,-
+,1316.0,Sapna Verma,sapna.verma@mtxb2b.com,Director - Talent Engagement and Growth,MTX Group,$50M (ARR)
+,1317.0,Sarabjeet Gill,sarabjeet.gill@cloudmoyo.com,Associate Director - HR and Talent Acquisition,CloudMoyo,-
+,1318.0,Sarada Kandanur,sarada.kandanur@kore.com,Senior Director - HR & Recruitment,Kore.ai,-
+,1319.0,Sarah John,sarah.john@onearchwell.com,Associate Director Human Resources,Archwell,-
+,1320.0,Saraswathi Rajasekhar,saraswathi@vasudhaika.net,Director-People Operations,Vasudhaika Software,-
+,1321.0,Sarath V,sarath.v@insemitech.com,Associate Director-HR,Insemi Technology Services,-
+,1322.0,Saravana Kumar,saravanakumar@coresolutionsinc.com,Head - Human Resource and Administration,"Core Solutions,",-
+,1323.0,Saravana Padmanabhan,spadmanabhan@coresolutionsinc.com,Head - Human Resource and Administration,"Core Solutions,",-
+,1324.0,Saravanan Muralidharan,saravanan.muralidharan@janes.com,Director HR,Janes,-
+,1325.0,Saravanan Thinagarasamy,saravanan.thinagarasamy@impigertech.com,President HR l CHRO,Impiger Technologies,-
+,1326.0,Sarieka Vaze,svaze@montran.com,Head - Human Resources & Administration,Montran Corporation,-
+,1327.0,Sarita Chaudhary,sarita@nasscom.in,Deputy Director-HR,NASSCOM,-
+,1328.0,Sarita Singh,sarita.singh@games24x7.com,Associate Director- Talent Acquisition,Games24x7,-
+,1329.0,Saroj Tripathy,saroj.tripathy@muvi.com,Head Of Recruitment,Muvi.com,-
+,1330.0,Sasank Pandey,sasank.pandey@hevodata.com,Associate Director - Talent Acquisition,Hevo Data,-
+,1331.0,Sasikala Vedam,sasikala.vedam@prowesssoft.com,Head of Talent Acquisition & Resource Management,Prowess Software Services,-
+,1332.0,Sathish Chinnaiah,schinnaiah@yodlee.com,Human Resources Director,Envestnet,$3.49B (valuation)
+,1333.0,Sathish Kumar,sathish.kumar@valgenesis.com,Human Resources Director,ValGenesis,-
+,1334.0,Sathya Sekaran,sathyaprakash.sekaran@amnet-systems.com,Head - Human Resources,Amnet Systems,-
+,1335.0,Sathyanarayanan Reddipalli,sathyanarayanan@c1exchange.com,Head HR & Talent Acquisition,C1X,-
+,1336.0,Satishh Kumar,skumar@liquidhub.com,Associate Director-Talent Acquisition,LiquidHub,-
+,1337.0,Satya Kundurthi,satyak@wilcosource.com,Director/Head HR,Wilco Source,-
+,1338.0,Satyanrayana S,satyanrayana.s@bbm.com,Group Head Human Resources- BBM Group,BBM,-
+,1339.0,Satyendu Naik,satyendu.naik@kcsitglobal.com,AVP - People & Culture,Krish Compusoft Services,-
+,1340.0,Satyodai Krovi,satyodai.krovi@eka1.com,"Director, Global Talent Acquisition",Eka Software Solutions,$450M (valuation)
+,1341.0,Saud Zafar,saud.zafar@raydeninteractive.com,Vice President Human Resources,Rayden Interactive,-
+,1342.0,Saumya Singh,saumya.singh@akalinfosys.com,Head Of Recruitment,Akal Information Systems,$25M (ARR)
+,1343.0,Saurabh Jadhav,saurabh.jadhav@sumerusolutions.com,"Head - India HR, IT, InfoSec & Administration",SUMERU SOFTWARE SOLUTIONS,-
+,1344.0,Saurabh Lion,slion@curologic.com,Director - Talent Management,iauro Systems,-
+,1345.0,Saurabh Mittal,saurabhm@tatainteractive.com,Head - E-Performance Support Systems,MPS Interactive Systems,-
+,1346.0,Saurabh Srivastavaa,saurabh.srivastavaa@stellarinfo.com,Head Of Human Resources,Stellar Information Technology,-
+,1347.0,Saurav Sanyal,saurav.sanyal@sunlife.com,Director Total Rewards & People Services,Sun Life,$29B (valuation)
+,1348.0,Savitha Karanth,skaranth@ipass.com,Head HR,iPass,-
+,1349.0,Savitha R,savitha.r@colortokens.com,Director - Talent Acquisition,ColorTokens,$31.1M (ARR)
+,1350.0,Sayanti S,sayanti.s@nitorinfotech.com,Associate Director - Talent Acquisition,Nitor Infotech,$30M (ARR)
+,1351.0,Sayeram Balakumar,sayeram.balakumar@reflectionsinfos.com,Head of Talent Acquisition & Sourcing,Reflections Info Systems,-
+,1352.0,Sayyed Hameed,hameed@juntrantech.com,VP - Operations & HR,Juntran Technologies,-
+,1353.0,Sebastian Rodriguez,sebastian.rodriguez@netcore.co.in,Vice President & Global Head - Talent,Netcore Cloud,$136.5M (ARR)
+,1354.0,Seema Natarajan,seema@heptagon.in,Assistant Vice President - HR,Heptagon Technologies,-
+,1355.0,Seema Singh,seema.singh@sigtuple.com,Head of HR,SigTuple,-
+,1356.0,Selvi Ganapathi,selvi.ganapathi@talentica.com,Head HRBP and HR Ops,Talentica Software,-
+,1357.0,Shagun Bhunchal,shagun.bhunchal@magicedtech.com,Director - Human Resources,Magic EdTech,-
+,1358.0,Shah Shoaib,shoaib.shah@blazeclan.com,Associate Director - Talent Acquisition,Blazeclan Technologies,-
+,1359.0,Shahed Akhter,shahed@quadrantresource.com,Director - Human Resources,Quadrant Resource,-
+,1360.0,Shaheen Malim,shaheen@prodevans.com,VP – HR & Operations,Prodevans Technologies,-
+,1361.0,Shail Parashar,shail.parashar@testingxperts.com,Director HR,TestingXperts,-
+,1362.0,Shailender Nr,shailender@buddi.ai,Director Of Operations and HR,BUDDI AI,-
+,1363.0,Shailesh Banaeet,shailesh.banaeet@nitorinfotech.com,Associate Director - People Function,Nitor Infotech,$30M (ARR)
+,1364.0,Shailesh Jadhav,shailesh@mirafra.com,Vice President and Global Head - HR,Mirafra Technologies,-
+,1365.0,Shaili Trivedi,shaili.trivedi@volansys.com,Head - Talent Management and RMG,VOLANSYS,-
+,1366.0,Shakeel Yalgod,shakeel@matchpointsolutions.com,Head Of Recruitment,MatchPoint Solutions,-
+,1367.0,Shalaka Kothawle,shalaka.kothawale@bizom.com,Head - HR,Bizom,-
+,1368.0,Shalini,singh.shalini@rxlogix.com,Associate Director Human Resources,RxLogix,-
+,1369.0,Shalini Bhasin,shalinib@sixsails.com,Head Of Human Resources,SixSails,-
+,1370.0,Shalini Chopra,shalini@intelegain.com,Director - Human Resources,Intelegain Technologies,-
+,1371.0,Shalini Director,shalini.director@accelalpha.com,Head Of Human Resources - Asia Pacific,Accelalpha,-
+,1372.0,Shalini Garlapally,shalini.garlapally@dataintensity.com,Director - HR,Data Intensity,$45M (ARR)
+,1373.0,Shalini James,shalini.james@deque.com,Associate Director Human Resources & Operations,Deque Systems,-
+,1374.0,Shalini Lal,shalini@erelego.com,Head Of Human Resources,eReleGo Technologies,-
+,1375.0,Shalini Pathak,shalini.pathak@arkinfo.in,Head- People Services,ARK Infosolutions,-
+,1376.0,Shalu Chinai,shalu.chinai@indianic.com,Head Of Human Resources,IndiaNIC Infotech,-
+,1377.0,Shambhavi Sharma,shambhavi.sharma@nexval.com,Chief Human Resources Officer,Nexval Group,-
+,1378.0,Shamika Kulkarni,shamika.kulkarni@infrabeat.com,HR & Operations Head,InfraBeat Technologies,-
+,1379.0,Shamita Nandi,shamita.nandi@mjunction.in,Head of HR,mjunction services,$42M (ARR)
+,1380.0,Shamli Krishnan,shamli.krishnan@cloudmoyo.com,Associate Director - Talent Acquisition,CloudMoyo,-
+,1381.0,Shamna Libu,shamna.libu@naicoits.com,Vice President Human Resources,Naico ITS,-
+,1382.0,Shams Tabrez,shams.tabrez@editorialistyx.com,Director People & Culture,Editorialist,-
+,1383.0,Shani Ramakrishnan,shani.ramakrishnan@ritesoftware.com,Vice President - Global Talent Acquisition,Rite Software,-
+,1384.0,Shankar Darna,shankar.d@ritesoftware.com,AVP-Talent Acquisition,Rite Software,-
+,1385.0,Shanthi Abayam,shanthi.abayam@solverminds.com,HR Head,Solverminds Solutions & Technologies,-
+,1386.0,Sharad Srivastava,sharad.srivastava@blumeglobal.com,Senior Director-HR,Blume Global,-
+,1387.0,Sharanya Govind,sharanya.g@concord.net,Director - Human Resources (India),Concord Technologies,-
+,1388.0,Sharat M,sharat.m@fivesdigital.com,Associate Director HR,FiveS Digital,-
+,1389.0,Sharika Bhatte,sharika.bhatte@spiceworks.com,"Associate Practice Director, Human Resources",Spiceworks Ziff Davis,-
+,1390.0,Sharma Rohit,sharmar@codeforce.com,Head of Client & Talent Acquisition,CodeForce 360,-
+,1391.0,Sharmila Yadav,sharmila@talentployer.com,Head Of Human Resources,TALENTPLOYER,-
+,1392.0,Sharmilaa Kannan,sharmilaa.k@evolgence.com,Vice President- HR & Customer Success,Evolgence Telecom Systems,-
+,1393.0,Sharon Manaloor,sharon.manaloor@litmus7.com,Head of Strategic Talent Acquisition,Litmus7,-
+,1394.0,Sharon Narang,sharon.narang@wibmo.com,Head of HR,Wibmo,-
+,1395.0,Sharon Nijhawan,sharon.nijhawan@dltlabs.io,Head of HR,DLT Labs,-
+,1396.0,Sharvari Lingayat,sharvari.lingayat@milessoft.com,Vice President Human Resources,EbixCash Financial Technologies,-
+,1397.0,Sharwari Shah,sharwari.shah@revgurus.com,Director Human Resources,RevGurus Inc,-
+,1398.0,Shashank Shekher,shashank.s@replicon.com,Head Of Talent Acquisition,Replicon,$20M (funding)
+,1399.0,Shashi Dhar,shashi.dhar@smartims.com,Head of Talent Acquisition,Smart IMS,$94.6M (ARR)
+,1400.0,Shashikant Acharya,shashikanta@celcomsolutions.com,Director Talent Acquisition,Celcom Solutions Global,-
+,1401.0,Shashikanth Jayaraman,shashi@multicorewareinc.com,Vice President - Global Human Resources,MulticoreWare Inc,-
+,1402.0,Shashwat Mittra,shashwat.mittra@urbanladder.com,Head - Talent,Urban Ladder,$115M (funding)
+,1403.0,Shavee Sehajpal,shavee.s@algonomy.com,Vice President Human Resources,Algonomy,-
+,1404.0,Sheena Malhotra,sheena.malhotra@netsmartz.com,Head Human Resources,Netsmartz,-
+,1405.0,Sheetal Biswas,sbiswas@cognitusconsulting.com,HR - Global Head (CHRO),Cognitus,-
+,1406.0,Sheetal Deshmukh,sheetal.deshmukh@contractpodai.com,Associate Director Human Resources,ContractPodAi,-
+,1407.0,Sheetal Katari,sheetal@gameopedia.com,Director Human Resources,Gameopedia,-
+,1408.0,Sheetal Pote,sheetal.pote@saviantconsulting.com,VP of Human Resources,Saviant Consulting,-
+,1409.0,Sheetal Sawant,sheetal.sawant@aeriestechnology.com,Head Of Human Resources,Aeries Technology Group,-
+,1410.0,Shefali Lall,shefali@dynproindia.com,Vice President Human Resources,"DynPro,",-
+,1411.0,Shelton Banerjee,shelton.b@cynetsystems.com,Director - Staffing Services,Cynet Systems Inc,-
+,1412.0,Shenoj Balaraman,shenoj.balaraman@rebit.org.in,Vice President Human Resources,ReBIT,-
+,1413.0,Shhweta Joshi,shhweta@cashkaro.com,Head : Talent Acquisition & Employer Branding,CashKaro.com,-
+,1414.0,Shikha Dhillon,shikha.dhillon@decimaltech.com,Head of HR,Decimal Technologies,-
+,1415.0,Shikha Gupta,shikha@rahinfotech.com,HR Head,RAH Infotech,-
+,1416.0,Shikha Gupta,shikha.gupta@tatacommunications.com,Executive Secretary to Global HR head,Tata Communications,-
+,1417.0,Shikha Gupta,shikha.gupta@winwire.com,Director Of Recruiting,WinWire Technologies,-
+,1418.0,Shikha Kothari,shikha.kothari@klearnow.com,HR Head,KlearNow,-
+,1419.0,Shikha Soni,shikha.soni@franconnect.com,"Director, Human Resources",FranConnect,-
+,1420.0,Shilpa Mahajan,shilpam@codeforce.com,Director Talent Acquisition,CodeForce 360,-
+,1421.0,Shilpa Malhotra,shilpa.malhotra@mindtickle.com,Head of Talent Acquisition,Mindtickle,-
+,1422.0,Shilpa Reddy,shilpa.reddy@aeriestechnology.com,Director HR,Aeries Technology Group,-
+,1423.0,Shilpa Shukla,sshukla@anaqua.com,Associate Director - HR,Anaqua,-
+,1424.0,Shilpa Tungikar,shilpa.tungikar@infrasofttech.com,Assistant Vice President -Talent Acquisition,Kiya.ai,-
+,1425.0,Shilpi Saklani,shilpi.saklani@metro-gsc.in,DIRECTOR HR,METRO SERVICES,-
+,1426.0,Shilpi Sardana,shilpi@netomi.com,Head of Talent Acquisition & People Operations,Netomi,-
+,1427.0,Shilpika Raheja,shilpikar@petroit.com,Global Head Human Resources,Petro IT,-
+,1428.0,Shipra Lavania,shipra.lavania@wundermanthompson.com,Head- Human Resources,Wunderman Thompson Commerce,-
+,1429.0,Shipra Pandit,shipra.pandit@juspay.in,Director - HR,JUSPAY,-
+,1430.0,Shipra Rai,shipra.rai@niveussolutions.com,Vice President People Operations,Niveus Solutions,-
+,1431.0,Shirin Varghese,shirin.varghese@sugarboxnetworks.com,Head - L&D and Corporate HR,SugarBox Networks,$70M (funding)
+,1432.0,Shirish Bavdekar,shirish.bavdekar@3ds.com,Head of Talent Acquisition (India),Dassault Systems,$31.7B (valuation)
+,1433.0,Shishir Singh,shishir.singh@milkbasket.com,Head Of HR Operations,Milkbasket,-
+,1434.0,Shiva,shiva@winwire.com,Associate Director Human Resources,WinWire Technologies,-
+,1435.0,Shiva Prasad,shiva@comakeit.com,Director - Human Resources,coMakeIT,-
+,1436.0,Shivam Shukla,sshukla@tanishasystems.com,Director- Talent Acquisition,Tanisha Systems,-
+,1437.0,Shivangi Chauhan,shivangi@sensehq.com,Head of Talent Acquisition,Sense,-
+,1438.0,Shivangi Vakil,shivangi@gatewaytechnolabs.com,"VP - Finance, Legal, Compliance & Head - HR",Gateway Group of Companies,$203M (ARR)
+,1439.0,Shivani Chaturvedi,shivani.chaturvedi@mjunction.in,Chief People Officer,mjunction services,$42M (ARR)
+,1440.0,Shivani Jaiswal,shivani@virtualheight.com,Chief People Officer,Virtual Height IT Services,-
+,1441.0,Shivani Khanna,khanna.shivani@digitate.com,Head HR,Digitate,-
+,1442.0,Shivani Naidu,shivani@eminds.ai,Director of Talent Acquisition,Enterprise Minds,-
+,1443.0,Shivani Singh,shivani@acpl.com,Head of HR,ACPL Systems,-
+,1444.0,Shoaib Ahmed,shoaib.ahmed@nuware.com,Associate Vice President- Human Resources,NuWare,-
+,1445.0,Shobana Kailash,shobana@hubilo.com,Chief People Officer,Hubilo,$153M (funding)
+,1446.0,Shraddha Adarkar,first@softenger.com,AVP & Head - Human Resources,Softenger,-
+,1447.0,Shraddha Patil,shraddha@digite.com,Vice President- People Operations,"Digite,",-
+,1448.0,Shradha Sule,shradha.sule@northgateps.com,Head of Talent Acquisition,NEC Software Solutions,$323M (ARR)
+,1449.0,Shravan Kumar,shravan@sigmoid.com,Director Talent Acquisition,Sigmoid,-
+,1450.0,Shreeja Santosh,shreeja.santosh@lrn.com,"Director, People & Culture",LRN,-
+,1451.0,Shreelipta Mishra,shreelipta.mishra@blujaysolutions.com,Director-Human Resources,Four Soft,-
+,1452.0,Shreesh Katti,shreesh_katti@bluerose-tech.com,Senior Vice President - Staffing,BlueRose Technologies,-
+,1453.0,Shreyasi Sen,shreyasi@valuepitch.com,Head of HR and Administration,Valuepitch E Technologies,-
+,1454.0,Shrikant Joshi,shrikant@agileglobalsolutions.com,Vice President Talent Acquisition,Agile Global Solutions,-
+,1455.0,Shruti,shruti.bhargava@netcomlearning.com,Head HR,NetCom Learning,-
+,1456.0,Shruti Gandhi,shruti.gandhi@moolya.com,Head of Human Resources Operations,Moolya,$7.6M (ARR)
+,1457.0,Shruti Malhotra,shruti.malhotra@orange.com,Head HR Projects - APAC,Orange Business Services,-
+,1458.0,Shubha Menon,shubham@kastechssg.com,Chief Human Resources Officer,Kastech Software Solutions Group,-
+,1459.0,Shubha Menon,shubha.menon@soltius.co.id,Head HR,Soltius Indonesia,-
+,1460.0,Shubhada Kale,shubhada.kale@atyeti.com,Head of HR - India,Atyeti Inc,-
+,1461.0,Shubham Katiyar,shubhamkatiyar@ameyo.com,Vice President & Head - Human Resources,Ameyo,-
+,1462.0,Shubhendu Bose,bose@precisiontechcorp.com,Sr. Vice President - HR & Operations,Precision Technologies,-
+,1463.0,Shubhra Narang,shubhra.narang@c-zentrix.com,Head of HR,C-Zentrix,-
+,1464.0,Shuchi Nijhawan,shuchi.nijhawan@ekaplus.com,Sr Vice President- Global Human Resources,Eka Software Solutions,$450M (valuation)
+,1465.0,Shweta Aggarwal,shweta@valuecoders.com,Head Of Recruitment,ValueCoders,-
+,1466.0,Shweta Dugad,shweta@desteksolutions.com,Head - HR & Operations,Destek Infosolutions,-
+,1467.0,Shweta Murthy,smurthy@aurusinc.com,Vice President HR,Aurus Inc,-
+,1468.0,Shweta Setia,shwetasetia@ayoconnect.id,Head Of Human Resources,Ayoconnect,-
+,1469.0,Shweta Sharma,shweta@signitysolutions.com,Head of HR,Signity Software Solutions,-
+,1470.0,Shwetha Sethuraman,shwetha@rudderstack.com,Head Of Human Resources,RudderStack,-
+,1471.0,Shyam Warrier,shyam.warrier@neudesic.com,Vice President Global Talent & Culture,Neudesic Technologies,-
+,1472.0,Shyama Nair,shyama@lesoft.com,Head HR Ops - LIG India,Leader Investment Group - LIG,-
+,1473.0,Shyamili Satyendran,shyamili.satyendran@tarento.com,Director - HR,Tarento Group,-
+,1474.0,Shyni K,shyni.k@netcon.in,Head of Human Resources,Netcon Technologies India,-
+,1475.0,Siddharth Balakrishnan,siddharth.balakrishnan@crmit.com,Director - Human Resources,CRMIT Solutions,-
+,1476.0,Siddharth Gaur,siddharth.gaur@credencys.com,Head HR,Credencys Solutions,-
+,1477.0,Siji John,sijimolj@aditiconsulting.com,Senior Director Talent Management,Aditi Consulting,-
+,1478.0,Simran Kalra,simran.kalra@avataar.me,Associate Director Human Resources,Avataar.Me,-
+,1479.0,Simran Nair,simran.nair@hexagon.com,Head Of Human Resources,Hexagon Geosystems,-
+,1480.0,Sindhu Prabakar,sprabakar@sciohealthanalytics.com,Senior Director HR & Admin,SCIO Health Analytics,-
+,1481.0,Sindhuja Parthasarathy,sindhuja.parthasarathy@mindtickle.com,Director- Global Talent Management,Mindtickle,-
+,1482.0,Sini Jerry,sini@ittdigital.com,Delivery Head - India Staffing,ITTDigital,-
+,1483.0,Sirisha P,sp@calliduscloud.com,"Director, HR & Talent - India",CallidusCloud,-
+,1484.0,Sirisree Dayanand,sirisree.dayanand@aggne.com,Director HR,Aggne,-
+,1485.0,Sitaram Kuruganti,sitaram.kuruganti@quadrantresource.com,Director Human Resources & TA,Quadrant Resource,-
+,1486.0,Sivasankar R,sivasankar.r@provintl.com,Global HR Head,ProV International,-
+,1487.0,Smita Narkar,smita.narkar@infinite-uptime.com,Head of HR,Infinite Uptime,-
+,1488.0,Smitha Bijith,smitha@cybersecit.net,HR Manager & Operations Head,CyberSec Consulting,-
+,1489.0,Smitha Pradeep,smitha.pradeep@aptos.com,HR Head,Aptos Retail,-
+,1490.0,Smitha S,smitha.s@truglobal.com,Head of HR,TRUGlobal,-
+,1491.0,Smitha Sajo,smitha.sajo@applexus.com,VP & Global Head- HR & Operations,Applexus Technologies,-
+,1492.0,Smitha T,smitha@alchemysolutions.asia,Head - HR,Alchemy Techsol India,-
+,1493.0,Sneha Hegde,sneha@merklescience.com,"Head of Talent Acquisition - APAC, UK & USA",Merkle Science,-
+,1494.0,Sneha Sharma,sneha@virinchi.com,Head of HR,Virinchi,-
+,1495.0,Sneha Tope,sneha@tavisca.com,Head Of Human Resources,Tenerity India,-
+,1496.0,Snehdeep Ambarkar,snehdeep.ambarkar@cientra.com,Vice President - Talent Acquisition,Cientra,-
+,1497.0,Snigdha Prashar,snigdha@saavn.com,Director Human Resources,JioSaavn,-
+,1498.0,Solution Head,solution.head@solutionanalysts.com,Head Of Human Resources,Solution Analysts,-
+,1499.0,Somdatta Gupta,sgupta@encoress.com,Head Human Resources,"Encore Software Services,",-
+,1500.0,Somesh Sharma,somesh.sharma@infostride.com,Vertical Head - US Staffing,InfoStride,-
+,1501.0,Somya Babu,somya.babu@gramtarang.in,Head HR,Gram Tarang Employability Training Services,-
+,1502.0,Sonal Srivastava,sonal.srivastava@mobilecoderz.com,Head Of Human Resources,MobileCoderz,-
+,1503.0,Sonal Upadhyay,sonal.upadhyay@thepsi.com,Head Human Resource,Pratham Software,-
+,1504.0,Sonali Bhave,sonali.bhave@infrasofttech.com,Global Head HR,Infrasoft Technologies,$45M (ARR)
+,1505.0,Sonali Patnaik,sonalip@selectsourceintl.com,Head HRBP,Select Source International,-
+,1506.0,Sonali Sharma,hr@cyntexa.com,HR Head,Cyntexa,-
+,1507.0,Sonali Titus,sonali.titus@intelegencia.com,VP Hr and Recruiting,Intelegencia,-
+,1508.0,Sonam Dwivedi,sonam.dwivedi@transunion.com,AVP Talent Acquisition,TransUnion CIBIL,-
+,1509.0,Soni Anand,soni@intellolabs.com,AVP - HR,Intello Labs,-
+,1510.0,Sonia Gahlot,sonia.gahlot@fivesdigital.com,Assistant Vice President Human Resources,FiveS Digital,-
+,1511.0,Sonia Lazar,sonia@klausit.com,Chief Human Resources Officer,Klaus IT Solutions,-
+,1512.0,Sophronia Kasab,sophronia@reshamandi.com,Chief Human Resources Officer,ReshaMandi,-
+,1513.0,Soumya Rajesh,soumya@zoondia.in,Head Of Human Resources,Zoondia,-
+,1514.0,Soumya Somanathan,soumya@impress.ai,Head of HR (India),impress.ai,-
+,1515.0,Soundarya Murugaiyan,soundarya.murugaiyan@cts.co,Human Resources Director,CTS,-
+,1516.0,Sourabh Jain,sourabh.jain@fiserv.com,hr head,Fiserv Insurance Solutions,-
+,1517.0,Sourabh Rai,s.rai@drishti.com,Head Of Performance Engineering,Drishti,-
+,1518.0,Sourabha Ravi,sourabha.ravi@valuepointsystems.com,Head Of Recruitment,Value Point Systems,-
+,1519.0,Sourik Syed,sourik.s@frontizo.in,Head-HRBP (Frontizo and Appario),Frontizo Business Services,-
+,1520.0,Sowmya Anish,sowmya@probeinformation.com,Head Human Resources,Probe42,-
+,1521.0,Sowmya Bezawada,sowmya@ibhubs.co,AVP - Human Resources,iB Hubs,$5M (funding)
+,1522.0,Sree T,sree@straviso.com,Director Human Resources Development,StraViso,-
+,1523.0,Sree Umamaheswari,sree.umamaheswari@impigertech.com,Director Talent Management,Impiger Technologies,-
+,1524.0,Sreeja Sreedharan,sreeja.sreedharan@skuad.io,Director - Global Payroll,Skuad,-
+,1525.0,Sreeparna Samanta,sreeparna.samanta@urbanladder.com,Head - HR,Urban Ladder,$115M (funding)
+,1526.0,Sreepriya,sreepriya@eagleview.co.in,Head HR,EagleView India,-
+,1527.0,Sreeram Kaviliga,sreeram@qualizeal.com,Head Of Human Resources,QualiZeal,-
+,1528.0,Sreetam Mohanty,smohanty@primusglobal.com,Head Of Recruitment,PRIMUS Global Technologies,-
+,1529.0,Sreevalli K,sreevalli.k@sstech.us,Director L&D,System Soft Technologies,-
+,1530.0,Sreevidhya Shashi,sreevidhya.shashi@itorizon.com,Senior Director - HR @ ITOrizon & UCBOS,ITOrizon,-
+,1531.0,Sridevi Putta,sputta@aztecsoftware.com,Head of HR,Aztecsoft,-
+,1532.0,Sridevi Ramoo,sridevi@sedintechnologies.com,Global Head Human Resources,Sedin Technologies,$20M (ARR)
+,1533.0,Sridevi Vinayagaraj,sridevi.v@jeevantechnologies.com,Head - HR,Jeevan Technologies,-
+,1534.0,Sridhar Barige,sridhar.barige@jsw.in,Head HR,JSoft Solutions,-
+,1535.0,Sridhar Kotha,sridhar.kotha@gupshup.io,Director - Performance QA Automation,Gupshup,$278M (valuation)
+,1536.0,Sridhar Marla,sridhar.m@fluentgrid.com,Vice President & Head of HR,Fluentgrid,-
+,1537.0,Sridhar Srinivasan,sridhar.srinivasan@boardex.com,Head - HR,BoardEx,-
+,1538.0,Srikanth Battu,srikanthb@techpointsolutions.com,Managing Director and Technical Recruitment Lead,Techpoint,-
+,1539.0,Srikanth Emula,srikanth.e@mergenit.com,Head Talent Acquisition,Mergen IT LLC,-
+,1540.0,Srikanth Sathyanarayana,srikanth.sathyanarayana@komprise.com,Head of Talent Acquisition,Komprise,-
+,1541.0,Srikrishna,srikrishna@fugoservices.com,"Head - HR, Compliance & Quality Control",FUGO Services,-
+,1542.0,Srinath Gururajarao,srinath.g@nexval.com,Vice President & CHRO,Nexval Group,-
+,1543.0,Srini Chakravarthy,srini@technogeninc.com,COO & Director - IT Workforce Solutions,"TechnoGen,",-
+,1544.0,Srinidhi Dasaka,srinidhi.d@keka.com,Head Of Human Resources,Keka HR,-
+,1545.0,Srinivas P,srinivas@collaboratesolutions.com,Head - Talent Aquisation,Collaborate Solutions,-
+,1546.0,Srinivas Polaris,srinivas.polaris@polarismanagement.com,Director HR,Polaris,-
+,1547.0,Srinivas Talampuranam,srinivas.talampuranam@inspirage.com,Director - Human Resources,Inspirage,-
+,1548.0,Sriram Sundaram,ssundaram@tetrasoft.us,Head Of Human Resources,Tetrasoft,-
+,1549.0,Srivathsan Mg,srivathsan.mg@kumaran.com,Head - Talent Acquisition,Kumaran Systems,-
+,1550.0,Srividhya Deshpande,srividhya.deshpande@springml.com,Senior Director Human Resources,"SpringML,",-
+,1551.0,Stephen Taylor,stephen@eoxvantage.com,Head Human Resources Department,EOX Vantage,-
+,1552.0,Subashini Sundaram,suba@geval6.com,Vice President Talent Acquisition,Geval6 Inc,-
+,1553.0,Subbarao Cvrk,subbarao.c@softpath.net,Vice President & Global Head HR,Softpath System,-
+,1554.0,Subhakant Das,sdas@edrinfo.com,Head Of Human Resources,EDR Continuous Information,-
+,1555.0,Subhash Bv,subhashbv@macomsolutions.com,Head HR,Manappuram Comptech & Consultants,-
+,1556.0,Subhash Chandra,subhash.chandra@silverlinecrm.com,Head of People Operations - India,Silverline,-
+,1557.0,Subramanian Adaikalam,subramanian.adaikalam@sumtotalsystems.com,"Director, Global Talent Management",SumTotal Systems,-
+,1558.0,Subramanian B,subramanian@logisofttechinc.com,Head Staffing and IT Services,Logisoft Technologies,-
+,1559.0,Subramanian Ponnusamy,sponnusamy@aequor.com,Director-India Staffing Services,Aequor Technologies,-
+,1560.0,Subramanya Srikant,subramanya@reshamandi.com,Head Of Human Resources,ReshaMandi,-
+,1561.0,Subrina Lepcha,subrina@flobiz.in,Associate Director - Talent Management,FloBiz,-
+,1562.0,Suby Mathew,mathew@techautocons.com,Director - Executive Search,TAC,-
+,1563.0,Sucheta Ukidve,sucheta.ukidve@mindstix.com,"Director, HR",Mindstix Software Labs,-
+,1564.0,Sudeep Chakkingal,sudeep.chakkingal@ssitsol.com,Head of Talent Acquisition,"SSIT,",-
+,1565.0,Sudeep Luthra,sudeep.luthra@orange.com,Head - Human Resources,Orange Business Services,-
+,1566.0,Sudhaa Veerappan,sudhaav@buddi.ai,Consulting HR Head,BUDDI AI,-
+,1567.0,Sudhakar,sudhakar@noblesoft.com,Head Hunter Recruitment,Noblesoft Technologies,-
+,1568.0,Sudhindra Sarnobat,sudhindra.sarnobat@isourceinfosystems.com,HR Chief at i-Source and Director,i-Source Infosystems,-
+,1569.0,Sudhir B,sudhir.b@aeriestechnology.com,Head - Talent Acquisition,Aeries Technology Group,-
+,1570.0,Sudhir Salve,sudhir.salve@searshc.com,Head - Talent Acquisition,Sears Holdings India,-
+,1571.0,Sudhir Shinde,sudhir.shinde@nielseniq.com,Associate Director - Talent Acquisition,NielsenIQ,-
+,1572.0,Suguna Rajaram,suguna.rajaram@ymedialabs.com,Human Resources Director,Y Media Labs,-
+,1573.0,Suhasini Ramakrishnan,suhasinir@amzetta.com,Vice President - Human Resources,AmZetta Technologies,-
+,1574.0,Sujatha G,sujathag@celcomsolutions.com,Director - HR,Celcom Solutions Global,-
+,1575.0,Sujatha Venkatesan,sujatha.v@oneglobesystems.com,Head - Talent Acquisition & People Management,OneGlobe,-
+,1576.0,Sujee Shalini,sujee@crayondata.com,Head of Talent Acquisition,Crayon Data,-
+,1577.0,Sujeet Rao,sujeet.rao@diverselynx.com,AVP-HR,Diverse Lynx,-
+,1578.0,Sujit Jiandani,sujit.jiandani@aethereus.com,Director Talent Acquisition - Leadership Hiring,Aethereus,-
+,1579.0,Sukeshni Tulasi,sukeshni.tulasi@napierhealthcare.com,Head Of Human Resources,Napier Healthcare,-
+,1580.0,Sukhpreet Sandhu,sukhpreet.sandhu@itilite.com,Head of Human Resources | Executive Team,ITILITE,-
+,1581.0,Sulabh Daigavhane,sulabh.daigavhane@truminds.com,Head of Talent Acquisition,Truminds Software Systems,-
+,1582.0,Sumalatha Duggu,sumalatha.d@ritesoftware.com,Head -Human Resources,Rite Software,-
+,1583.0,Suman Bhattacharjee,suman.bhattacharjee@webskitters.com,Corporate Account & Talent Acquisition Head,WEBSKITTERS TECHNOLOGY SOLUTIONS,$6.2M (ARR)
+,1584.0,Suman Kitawat,suman.kitawat@fivesplash.in,Associate Director Corporate HR Head,FiveS Digital,-
+,1585.0,Suman Mukherjee,suman.mukherjee@ultimatesolutions.in,Head of Human Resources,Ultimate Digital Solutions,-
+,1586.0,Sumarani Sarkar,sumarani.y@ekaplus.com,Director - Global Human Resources,Eka Software Solutions,$450M (valuation)
+,1587.0,Sumit Kathuria,sumit.k@nrconsultingservice.com,Chief Human Resources Officer (CHRO),NR Consulting,-
+,1588.0,Sumit Midha,sumit.midha@intellolabs.com,Head of Talent Acquisition,Intello Labs,-
+,1589.0,Sumukhi Jairam,sumukhi.jairam@nttdata.com,Sr. Director- Talent and Development,NTT DATA,$42.2B (ARR)
+,1590.0,Sunaina Sisodiya,sunaina@u3infotech.com,Head HR-APAC,U3 Infotech,-
+,1591.0,Sunandha Sakthiprassad,sunandha@telliant.net,Vice President - HR & Finance (India),Telliant Systems,-
+,1592.0,Sundeep Dasa,sundeep.dasa@valgenesis.com,Associate Director - HR,ValGenesis,-
+,1593.0,Sundeep Pandey,sundeep.pandey@puresoftware.com,Director Technology (US Health Care),PureSoftware,$94.5M (valuation)
+,1594.0,Sunder Rangarajan,sunder.rangarajan@businessintegra.com,Vice President - HR & Operations,Business Integra Inc,-
+,1595.0,Sunetra,sunetra@hiverhq.com,Head Of Human Resources,Hiver,-
+,1596.0,Sunil Kapoor,skapoor@milcorp.com,VICE PRESIDENT-HR,The MIL Corporation,-
+,1597.0,Sunil Sarangdhar,sunils2@innov.in,AVP - HR,Innovsource,-
+,1598.0,Sunila Jaikumar,sunila_jaikumar@edgeverve.com,Head HR - Finacle,Infosys Finacle,-
+,1599.0,Sunit Kanoi,sunit.kanoi@ag-technologies.com,Head - Talent Acquisition,AG Technologies,-
+,1600.0,Sunita Dave,sdave@relsci.com,Director of Human Resources,Relationship Science,-
+,1601.0,Sunitha Sriekumaar,sunithas@affluentgs.com,Sr Head HR Operations,Affluent Global Services,-
+,1602.0,Sunny Chavan,sunny.chavan@mediaagility.com,Head - Talent Acquisition & Management,MediaAgility,-
+,1603.0,Sunny Shroff,sunny.shroff@unitech-rio.com.br,Director - HR,Unitech,-
+,1604.0,Sunny Walia,sunny.walia@axeno.co,Assistant Vice President - Talent Acquisition,Axeno,$3.5M (ARR)
+,1605.0,Supraja Sekhar,ssekhar@utopiainc.com,Associate Director - HR,"Utopia Global,",-
+,1606.0,Supreeth Gudla,supreeth.gudla@euclidinnovations.com,Pan India Head - Staffing and Operations,Euclid Innovations,-
+,1607.0,Supriya A,supriya.a@ecolabdigitalcenter.in,Senior Director - HR,Ecolab Digital Center,-
+,1608.0,Supriya Dodia,hr.mumbai@konverge.co.in,Assistant Vice President -HR,Konverge Technologies,-
+,1609.0,Supriya Lulla,supriya.lulla@doyen.co.in,Head - Human Resources,Doyen Infosolutions,-
+,1610.0,Supriya Shonu,supriya.shonu@deeptek.ai,Human Resources Director,DeepTek,-
+,1611.0,Surabhi Sharma,surabhi.sharma@se2.com,Head Of Human Resources,SE2,-
+,1612.0,Suraj Shylaja,suraj.shylaja@g10x.com,Head Human Resources,_G10X,-
+,1613.0,Surajeet Sinha,surajeet@stockedge.com,Head Of Human Resources,StockEdge,-
+,1614.0,Surbhi Gupta,surbhi.gupta@enquero.com,Head- Talent Acquisition India,Enquero,-
+,1615.0,Surbhi Sinha,surbhi.sinha@kapture.cx,HR Head,Kapture CRM,-
+,1616.0,Suresh Aade,suresh.aade@foodhub.com,Head Of Human Resources - India,Foodhub,-
+,1617.0,Suresh C,sureshc@vuram.com,Director of People Operations,Vuram,-
+,1618.0,Suresh Divakaran,suresh@truetechsolutions.in,Associate Vice President - Talent Acquisition,TrueTech Solutions,-
+,1619.0,Suresh Menon,suresh@aspirenxt.com,Head Human Resources,AspireNXT,-
+,1620.0,Suresh Nair,suresh.n@wrenchsolutions.com,Head - HR and Admn,WRENCH Solutions,-
+,1621.0,Suresh Tedlapu,sureshkumar.tedlapu@criticalriver.com,Director of Recruiting Operations - India & APAC,CriticalRiver,-
+,1622.0,Suresh Thangaraj,tsuresh@kutirtech.com,Delivery Head - Talent Acquisition,Kutir Corporation,-
+,1623.0,Surinder Cheema,surinderc@damcogroup.com,Associate Director : Recruitments,Damco Solutions,-
+,1624.0,Suriya Kumar,suriya.kumar@kumaran.com,AVP - HR,Kumaran Systems,-
+,1625.0,Surojit Chowdhury,surojitc@interrait.com,Director - Recruitment,Interra Information Technologies,$63.1M (ARR)
+,1626.0,Suruchi Handa,suruchi.handa@azilen.com,Associate Vice President - Human Resources,Azilen Technologies,-
+,1627.0,Suruchi Khosla,skhosla@contecglobal.com,Head -HR(India),Contec Global,-
+,1628.0,Susan D'Silva,susan.dsilva@aujas.com,Head of HR and Recruitment,Aujas Cybersecurity,-
+,1629.0,Susan Leonard,susan@kissflow.com,Director Talent Acquisition,Kissflow,-
+,1630.0,Susheel Kumar,susheelk@ironsystems.com,Director Workforce Services EMEA & APAC,Iron Systems,-
+,1631.0,Sushil Kumar,sushil.kumar@expediteinc.com,Associate Director - Human Resources,Expedite Technology Solutions,-
+,1632.0,Sushmita Aduri,sushmita.aduri@teklink.com,Head of US HR / Manager - India Operations,TekLink International,-
+,1633.0,Susmita Kaushik,susmita.kaushik@blazeclan.com,Associate Director - People & Culture,Blazeclan Technologies,-
+,1634.0,Suva Dasgupta,suva.dasgupta@theblueflamelabs.com,Director Human Resources,Blue Flame Labs,-
+,1635.0,Suvarna Fuke,suvarna_f@sigma-byte.com,Head HR,Sigma-Byte Computers,-
+,1636.0,Suvro Karmakar,suvro.karmakar@ubique-systems.com,Global Human Resources - Platform Head,Ubique Systems,-
+,1637.0,Suzanna Tapala,suzanna.tapala@ankercloud.com,Head of Human Resources Operations,Ankercloud GmbH,-
+,1638.0,Sveta Shenoy,sveta.shenoy@technoidentity.com,Head of Talent Acquisition,TechnoIdentity,-
+,1639.0,Swagato Sengupta,swagato.sengupta@areteanstech.com,Associate Director - Human Resources,Areteans,$47M (ARR)
+,1640.0,Swaminathan Srinivasan,swaminathan.srinivasan@transactcampus.com,Senior Human Resources Manager (HR Head),Transact Campus Inc,-
+,1641.0,Swapna Jaladi,swapna.jaladi@savantis.com,Vice President - HR & Operations,Savantis Solutions LLC,-
+,1642.0,Swapna Krishna,swapna.krishna@theoptimum.net,AVP-Human Resources,Optimum Solutions,-
+,1643.0,Swapna Lamba,swapna@avestacs.com,"Head-People, Immigration & Talent",Avesta Computer Services,-
+,1644.0,Swapnika Nag,snag@tataunistore.com,Chief People Officer,Tata CLiQ,-
+,1645.0,Swapnil Bhoskar,swapnil.bhoskar@pragmasys.in,Head-HR,Pragmasys Consulting,-
+,1646.0,Swapnil Pilkhane,swapnil.pilkhane@aqmtechnologies.com,Head - HR Operations,AQM Technologies,-
+,1647.0,Swapnil Trikane,swapnil.trikane@irisbusiness.com,"Head - Nordic, Baltic & Eastern European Union",IRIS Business Services,-
+,1648.0,Swaroop Shrm-Scp,swaroop.gokhale@mediaagility.com,Head of People Operations,MediaAgility,-
+,1649.0,Swarup Chilumkuru,swarup@polygon.technology,Global Head - People Operations,Polygon,$451M (funding)
+,1650.0,Swarup Chowdhury,swarup.chowdhury@qtsolv.com,Director-HR & Finance,Quarks,-
+,1651.0,Swathi Narayan,snarayan@atsg.net,"Head of Human Resources, India",ATSG,-
+,1652.0,Swathi S,swathi.s@envoyglobal.com,Director Human Resources,Envoy Global,-
+,1653.0,Swati Dev,swati.d@safe.security,Senior Directo Talent Acquisition,Safe Security,-
+,1654.0,Swati M,swati_m@elsner.com,Head of HR,Elsner Technologies,$1.8M (ARR)
+,1655.0,Swati Patil,swatip@zimetrics.com,Head - HR,ZiMetrics Technologies,-
+,1656.0,Swati Sharma,swati.sharma@triotree.in,Head Of Human Resources,TrioTree Technologies,-
+,1657.0,Swati Suryavanshi,suryavanshi.swati@mantratec.com,Head - Strategic HR,Mantra Softech,-
+,1658.0,Sweety Nair,sweety.nair@puresoftware.com,Associate Director - HR,PureSoftware,$94.5M (valuation)
+,1659.0,Sweety Rath,sweety.rath@aspect.com,VP Global HR,"Alvaria,",-
+,1660.0,Sweta Bidwai,sbidwai@saltside.se,Director - People & Operations,Saltside,-
+,1661.0,Sweta Jain,sweta@rizzle.tv,HR Head & General Manager,Rizzle,-
+,1662.0,Sweta Mishra,smishra@ivp.in,Director HR,Indus Valley Partners,-
+,1663.0,Swetha Harikrishnan,swetha@hackerearth.com,HR Director,HackerEarth,-
+,1664.0,Swetha Monalisa,swetha@intonenetworks.com,Head - TAG / Human Resources Operations,Intone,-
+,1665.0,Syed Faizan,syed.faizan@rsrit.com,Director Talent Acquisition,Reliable Software,-
+,1666.0,Syed Husain,syed@dixitindia.com,Head HR,Dixit Infotech Services,$33M (ARR)
+,1667.0,Syed Ibrahim,syed@helpshift.com,Head Of Human Resources,Helpshift,-
+,1668.0,Syed Mehandi,syedmehandi@cedcoss.com,Head Of Human Resources,CEDCOSS Technologies,-
+,1669.0,Syed Quddus,syed@panzertechnologies.com,Director - Talent Acquisition,Panzer Technologies,-
+,1670.0,Syed Rizvi,syed.rizvi@megasoftsol.com,HEAD PAYROLL And Compliances,Megasoft Solutions India,-
+,1671.0,Tanisha T,tanisha@91social.com,Head of HR and Finance,91social,-
+,1672.0,Tanu Saxena,tsaxena@trimaxamericas.com,Talent Acquisition head,Data Glove,$90.5M (valuation)
+,1673.0,Tanuj,tanuj.sonawale@riomed.com,"Head - HR and Operations, India (Director)",RioMed,-
+,1674.0,Tanuj Uppal,tanuj@codersbrain.com,HR Head,CodersBrain,-
+,1675.0,Tanul Jain,tanul.jain@cyware.com,Head of Talent Acquisition,Cyware,-
+,1676.0,Tanvi,tanvi.s@commerceiq.ai,Principal - India Recruiting Head,CommerceIQ,-
+,1677.0,Tanvi Mittal,tanvi.mittal@vlinkinfo.com,HR Head- India,VLink Inc,-
+,1678.0,Tanvi Salpekar,tanvi.salpekar@maantic.com,Director- HR,Maantic Inc,-
+,1679.0,Tapas Chatterjee,tapas@spartanpoker.com,President - Human Resources,QUADRIFIC MEDIA,-
+,1680.0,Tara Cherian,tara.cherian@reflectionsinfos.com,HR Director,Reflections Info Systems,-
+,1681.0,Tariq Khan,tariq@pfinfotech.com,HR Head,Placement Services,-
+,1682.0,Tarit Bhaumik,tarit.bhaumik@nevaehtech.com,Head HR,Nevaeh Technology,-
+,1683.0,Tasneem Mujir,tasneem.mujir@ecolab.com,Associate Director Human Resources,Ecolab Digital Center,-
+,1684.0,Tej Kumar,krtk@suprasoft.com,Head -Talent Acquisition Operations (INDIA),SupraSoft,-
+,1685.0,Tejinder Bhullar,tejinder@truckx.com,Head Of Human Resources,TruckX Inc,-
+,1686.0,Terence Anthony,terencea@observe.ai,Director Talent Acquisition,Observe.AI,-
+,1687.0,Tess Burlow,tess.burlow@symbiosystech.com,Head of HR,Symbiosis Technologies,-
+,1688.0,Thangaraj Vinayagmoorthy,thangaraj@uniphore.com,Head of Talent Acquisition,Uniphore,$2.5B (valuation)
+,1689.0,Thejaswini Kulkarni,thejaswini.kulkarni@sakhatech.com,Head - HR & Admin,Sakhatech Information Systems,-
+,1690.0,Thierry Flury,thierry.flury@orange.com,Director International HR Shared Services,Orange Business Services,-
+,1691.0,Thomas Kuruvila,thomask@azuga.com,Director Human Resources,"Azuga,",-
+,1692.0,Thrishala Narule,thrishala.n@optit.in,Head - Finance & HR Operations,Opt IT Technologies,-
+,1693.0,Timcy Bansal,timcy@exlyapp.com,Head of Talent Acquisition,Exly,-
+,1694.0,Tisha Prasad,tisha@loconav.com,Vice President Human Resources,LocoNav,$47M (funding)
+,1695.0,Toshi Jain,t.jain@novelvox.com,Director - HR & Delivery Governance,NovelVox,-
+,1696.0,Trisha Chandra,trisha.chandra@nirvanasolutions.com,VP - Human Resource,Nirvana Solutions,-
+,1697.0,Trupti Pansare,trupti.pansare@inteliment.com,Director & CHRO,Inteliment,-
+,1698.0,Trupti Shukla,trupti.shukla@optym.com,Director HR,Optym,-
+,1699.0,Tulasi Pochampally,tpochampally@hostanalytics.com,"Senior Director, People Operations",Planful,-
+,1700.0,Uday Kumar,udaykumar@cadmaxx.com,Vice President Staffing,Cadmaxx Solutions,-
+,1701.0,Udit Gupta,udit@dataincindia.com,Delivery Head - Talent Acquisition,Software Data (India) - SDIL,-
+,1702.0,Ujjal Sarkar,usarkar@netwoven.com,"Head - HR, Operations & Finance",Netwoven,$25.4M (ARR)
+,1703.0,Ujjwaal D,ujjwaal.d@valentabpo.com,Head HR,Valenta,-
+,1704.0,Uma Maheshwari,uma_maheshwari@mindtree.com,Associate Director - Talent,MINDTREE,-
+,1705.0,Uma Revanasiddaiah,uma.hr@magnasoft.com,"AVP - Human Resources, Operations Enablement",Magnasoft,-
+,1706.0,Umar Kizhuvapat,umar.k@acuverconsulting.com,Director - HR & Operations,Acuver Consulting,-
+,1707.0,Umesh Kamath,umesh.kamath@maxval.com,Vice President Human Resources,"MaxVal Group,",-
+,1708.0,Umesh Yadav,umesh.yadav@dynpro.com,Director Talent Acquisition,"DynPro,",-
+,1709.0,Usha Chirayil,usha.chirayil@reflectionsinfos.com,Director Human Resources,Reflections Info Systems,-
+,1710.0,Usha Jaiswal,usha.jaiswal@systematixindia.com,Head Of Human Resources,Systematix Infotech,-
+,1711.0,Usha Nath,usha.nath@nathcorp.com,Director HR,NathCorp,-
+,1712.0,Usha Ns,usha@cube84.com,Human Resources Director,CUBE84,-
+,1713.0,Uthappa Kuppanda,uthappa.kuppanda@solugenix.com,Head of Talent Acquisition,Solugenix,$17M (ARR)
+,1714.0,Utkarsh Tomar,utkarsht@observe.ai,Human Resources Director,Observe.AI,-
+,1715.0,Utsav Kothari,utsav.kothari@embee.co.in,AVP- Human Resources,Embee Software,-
+,1716.0,Vaibhav,vaibhav.khanna@fci-ccm.com,Chief People Officer,FCI CCM,-
+,1717.0,Vaibhav Ghai,vaibhav@scienaptic.com,Head HR,Scienaptic AI,-
+,1718.0,Vaibhav Kumar,kumar.v@nrconsultingservice.com,National Recruiting Director,NR Consulting,-
+,1719.0,Vaibhav R,r.vaibhav@pixis.ai,Global Head of Talent Acquisition,Pyxis One,$209M (funding)
+,1720.0,Vaibhavi Joshi,vaibhavi.j@infogen-labs.com,Head - HR & Recruitments,Infogen Labs,-
+,1721.0,Vaidhyanathan C,vaidhyanathan@infinitysts.com,"Head, Delivery Talent Acquisition and Operation",Infinity,-
+,1722.0,Vaidyanathan P,vaidyanathan@calsof.com,Head - HR,California Software,-
+,1723.0,Vaishali Gandhi,vgandhi@vibrenthealth.com,"Vice President Finance, HR and Operations",Vibrent Health,-
+,1724.0,Vamshi Krishna,vamshi.krishna@ritesoftware.com,AVP Global Talent Acquisition,Rite Software,-
+,1725.0,Vamsi Krishna,vamsi.krishna@atmecs.com,Associate Director- Talent acquisition,ATMECS Inc,-
+,1726.0,Vandana Chawla,vandana.chawla@innefu.com,Head Of Human Resources,Innefu Labs,$30M (funding)
+,1727.0,Vandana Pandey,vandana.pandey@adapty.com,Head Of Human Resources,Adapty,-
+,1728.0,Vandana Roy,vandana.roy@vfirst.com,Vice President Human Resources,ValueFirst,-
+,1729.0,Vani Sathvik,vani.sathvik@ekaplus.com,Vice President - HR & Admin,Eka Software Solutions,$450M (valuation)
+,1730.0,Vanitha Nitin,vanitha.nitin@sunlife.com,"Director, Head HR- ASC India",Sun Life,$29B (valuation)
+,1731.0,Vara Manda,varaprasad.m@fluentgrid.com,Recruitment Head,Fluentgrid,-
+,1732.0,Vara Tupalli,vara.tupalli@amnetdigital.com,Director - Human Resources,Amnet Digital,-
+,1733.0,Vardhini Mani,vardhini.mani@agile-ft.com,Head HR,Agile Financial Technologies,-
+,1734.0,Varna Nair,varna.nair@nxtgen.com,Head of HR,NxtGen Infinite Datacenter,-
+,1735.0,Varsha Raghav,tyson@rapidinnovation.dev,Head of HR,Rapid Innovation,-
+,1736.0,Varsha Rathore,varsha@consystentinfo.com,Head of Talent Acquisition,Consystent Infotech,-
+,1737.0,Varsha Sethia,varsha.sethia@fintellix.com,Director - Human Resources,Fintellix Solutions,-
+,1738.0,Varsha Shekar,varsha.shekar@servicemax.com,Human Resources Director,ServiceMax,-
+,1739.0,Varun Hatmode,vhatmode@tavisca.com,Vice President Human Resources,Tavisca,-
+,1740.0,Varun Wadhwa,varun.wadhwa@birdeye.com,"Senior Director, People & Culture",Birdeye,-
+,1741.0,Vasanthi Naidu,vasanthi.n@greyorange.com,Vice President - Talent Acquisition & Operations,GreyOrange,-
+,1742.0,Vasu P,vasu.p@nbhcindia.com,Assistant Vice President - Human Resources,63 moons Technologies,-
+,1743.0,Vasudev Munji,vasudevm@kensium.com,AVP - HR,Kensium,-
+,1744.0,Vedha Bharathi,vedha@cloudthing.com,Chief People Officer,cloudThing,-
+,1745.0,Veena Bhagwat,veena.bhagwat@infrabeat.com,Head - Human Resource,InfraBeat Technologies,-
+,1746.0,Veena Rao,veena.rao@highstreetit.com,Director of India Human Resource,Highstreet IT Solutions,-
+,1747.0,Veena Satish,veena.satish@moengage.com,VP - People & Culture,MoEngage,-
+,1748.0,Veena Vishnu,veena.vishnu@plansource.com,"Senior Director, HR",PlanSource,-
+,1749.0,Vema Radha,vradha@v2soft.com,Director HR,V2Soft,-
+,1750.0,Venkat Challa,cvenkat@aditiconsulting.com,Sr. Director - Recruitment,Aditi Consulting,-
+,1751.0,Venkat Rengasamy,venkat.r@mresult.com,SVP & Head of HR,MResult,-
+,1752.0,Venkata Akella,ratnakar@corp.untd.com,Head - Human Resources,"United Online,",-
+,1753.0,Venkata Kuruhuri,venkata.kuruhuri@symphonycorp.com,Senior Head HR,Symphony Corporation,-
+,1754.0,Venkatesan Srinivasan,vs@changepond.com,Vice President Human Resources & HR Head,Changepond Technologies,-
+,1755.0,Venkatesh Bj,venkatesh.bj@vrize.com,Head of Talent Acquisition,VRIZE,-
+,1756.0,Venkatesh G,venkateshg@useready.com,Associate Director- Talent Acquisition,USEReady,-
+,1757.0,Vickky Sahoo,vickky.sahoo@lanetteam.com,Head Of Recruitment,La Net Team Software Solution.,-
+,1758.0,Vidhya Sam,vidhya.sam@superops.ai,Head Of Human Resources,SuperOps.ai,-
+,1759.0,Vidya Salve,vidya.salve@wovvtech.com,Group Head – Talent Acquisition,WovV Technologies,-
+,1760.0,Vidya Srikumar,vsrikumar@reputation.com,Human Resources Director,Reputation.com,-
+,1761.0,Vigil Thomas,vigilmthomas@tonetag.com,Head - Human Resources,ToneTag,-
+,1762.0,Vignesh Manickam,vignesh.m@myhealthchampion.com,HR Director - India,Calcium,-
+,1763.0,Vignesh Sanga,vignesh.sanga@savantis.com,Global HR Head,Savantis Solutions LLC,-
+,1764.0,Vignesh Uthandi,u.vignesh@introlligent.com,Delivery Head - Staffing Services & Solutions,Introlligent,$8M (ARR)
+,1765.0,Vijay Arcot,vijay.arcot@ymedialabs.com,Director Talent Acquisition,Y Media Labs,-
+,1766.0,Vijay Gupta,vijay.gupta@rahisystems.com,Director of Global Human Resources,Rahi,-
+,1767.0,Vijay Kumar,vijay.kumar@bukuwarung.com,Head of Global Talent Acquisition,BukuWarung,-
+,1768.0,Vijay Kumar,vijaykumar.r@contus.in,Director Human Resources Services,Contus,-
+,1769.0,Vijay Pundir,vijaypundir@dwao.in,Group Head - Human Resources,DWAO,-
+,1770.0,Vijay Rai,vijay.rai@apollo.engineer,Chief HR Officer,Apollo,-
+,1771.0,Vijay Rao,vijay.r@navasoftware.com,VP - HR & Operations,NAVA Software Solutions,-
+,1772.0,Vijay Sharma,vijay@leadiq.com,Head of Recruiting,LeadIQ,-
+,1773.0,Vijay T,vijay.t@ipsoft.com,"Head, Human Resources",Amelia,$80M (valuation)
+,1774.0,Vijay Tiwari,vijay.tiwari@hal-dz.com,Head of Plant Human Resources Operations,HAL,$37B (valuation)
+,1775.0,Vijay Unnikrishnan,vijay.unnikrishnan@acqueon.com,Global Head-Human Resources,Acqueon,-
+,1776.0,Vijaya R,vijayar@sightspectrum.com,Chief People Officer,SightSpectrum LLC,-
+,1777.0,Vijaya Talluri,vijaya.talluri@g10x.com,Head - Talent Acquisition,_G10X,-
+,1778.0,Vijayakrishna Tarikonda,vijayakrishna.t@lera.us,Director - Human Resources,Lera Technologies,-
+,1779.0,Vijayalakshmi Subramaniam,vijayalakshmi.s@payoda.com,Associate Vice President- Human Resources,Payoda Technology,-
+,1780.0,Vijayeta Rohilla,vijayeta@sellcraft.net,Delivery Head-Talent Acquisition,Sellcraft Global Solutions,-
+,1781.0,Vijil V,vijil@appinessworld.com,Chief People Officer,Appiness Interactive,$3.5M (ARR)
+,1782.0,Viju Gangadharan,viju@imocha.io,Director - Human Resources,iMocha,-
+,1783.0,Vikas Singh,vikass@interrait.com,Director Recruitment,Interra Information Technologies,$63.1M (ARR)
+,1784.0,Vikash Choudhary,vikas.kumar@altudo.co,Associate Director - Talent Acquisition,Altudo,$75M (ARR)
+,1785.0,Vikram Kallianpur,vkallianpur@cordys.com,"Head-HR & OD, Corporate Services",Cordys,-
+,1786.0,Vikram Kallianpur,vikram.kallianpur@innovapptive.com,Chief Human Resources Officer,Innovapptive Inc,-
+,1787.0,Vikram Vijan,vikram@gyftr.com,Head Of Human Resources,Vouchagram India,-
+,1788.0,Vikrant Bhalodia,vikrant@weblineindia.com,Head of HR & People Operations,WeblineIndia,-
+,1789.0,Vikrant Goyal,vikrant.goyal@games24x7.com,VP (Head) HR - Games24x7,Games24x7,-
+,1790.0,Vimal Balsara,vimal.balsara@cdpindia.com,Head Human Resource and Administration,CDP India,-
+,1791.0,Vinay Karrow,vinay.karrow@belwo.com,Head HR,BelWo Inc,-
+,1792.0,Vinay Kn,vinay.kn@cropin.com,Head of Talent Acquisition,CropIn Technology,-
+,1793.0,Vinay Mahajan,vinay.mahajan@techgenies.com,Head HR,TechGenies,-
+,1794.0,Vinay Singh,vinay.s@manthan.com,Global Talent Acquisition Head,Manthan,-
+,1795.0,Vineela Gopalajosyula,vineela.gopalajosyula@itelligencegroup.com,Associate Director Talent Acquisition,itelligence,-
+,1796.0,Vineet Singh,vineets@svam.com,Head - Domestic Staffing,SVAM International,$35M (ARR)
+,1797.0,Vinibha S,vinibha@dsrc.com,Head of HR,DSRC,-
+,1798.0,Vinita Jayapalan,vinita.jayapalan@provintl.com,Director - Global People & Culture,ProV International,-
+,1799.0,Vinny Sethi,vinny@tops-int.com,Head HR at TOPS Technologies Pvt Ltd,TOPS Technologies,-
+,1800.0,Vinny Singh,vinny@webguruz.in,Human Resources Director,Webguruz Technologies,-
+,1801.0,Vinod Ch,vinod.ch@neelblue.com,Human Resources Director,NeelBlue Technologies,-
+,1802.0,Vinod Malik,vinod.malik@a1technology.com,Head HR,A-1 Technology,$36.8M (ARR)
+,1803.0,Vinod Mankala,vinod@ally.io,Director of People & Culture,Ally.io,-
+,1804.0,Vinod Reddy,vinod.r@o2finfosolutions.com,Delivery Head - Recruitment,O2F INFO SOLUTIONS,-
+,1805.0,Vinok Sequeria,vinok.sequeria@jda.com,Director HR,i2 Technologies,-
+,1806.0,Vinutha Govindan,vinutha.govindan@resulticks.com,Head of Talent Experience,Resulticks,-
+,1807.0,Vipin Ravindranath,vipin.r@codilar.com,Head of Talent Acquisition,Codilar Technologies,-
+,1808.0,Vipin Sharma,vipin.sharma@vtnetzwelt.com,Head of HR,VT Netzwelt,-
+,1809.0,Viraaj Arora,viraaj@headout.com,Head - Culture and Talent,Headout,-
+,1810.0,Vishakha Saini,vishakha.saini@infostride.com,HR Head,InfoStride,-
+,1811.0,Vishakha Shinde,vishakha.s@mindgate.in,Assistant Vice President Human Resources,Mindgate Solutions,$200M (valuation)
+,1812.0,Vishal Kanade,vishal.kanade@zenart.com,Sr. Director Finance and HR,Zen & Art,-
+,1813.0,Vishal Naithani,vishal.naithani@mylofamily.com,Head of People & Culture,Mylo,-
+,1814.0,Vishal Verma,vishal@alumnux.com,Head Of Human Resources,Alumnus Software,-
+,1815.0,Vishma Vivek,vishma@litmus7.com,Global Head-Talent Acquisition,Litmus7,-
+,1816.0,Vishnu Ramesh,vishnu.vardhan@bitlasoft.com,Head of HR,Bitla Software,-
+,1817.0,Vishruti Arora,varora@unifocus.com,Vice President - People & Culture,UniFocus,-
+,1818.0,Vishva Paneri,vishva.paneri@lipi.in,Head HR,Lipi Data Systems,-
+,1819.0,Vishwa Kapadia,vishwa@platform9.com,Chief People Officer,Platform9 Systems,-
+,1820.0,Vishwajit Sakhare,vishwajit@shivaami.com,"Director - Renewals, HR and Admin",Shivaami Cloud Services,-
+,1821.0,Vishwanath Belliappa,vishwanath.belliappa@codecraft.co.in,Chief People Officer,CodeCraft Technologies,-
+,1822.0,Vithika Binjrajka,vithika@optimizeitsystems.com,Vice President Human Resources,Optimize IT Systems,-
+,1823.0,Vivek,vivekj@selectsourceintl.com,Director Of Operations (Recruitment & Delivery),Select Source International,-
+,1824.0,Vivek Gaur,vivek@pacificbpo.com,Chief Peoples Officer,Pacific Global,-
+,1825.0,Vivek Purc,vivek@helius-tech.com,Vice President - Staffing Services,Helius Technologies,-
+,1826.0,Vivek Saxena,vivek.saxena@newstechnologyservices.com,Head - HR Ops,News Technology Services,-
+,1827.0,Vivek Singh,viveksingh@jupitice.com,Director- HR & Operations,Jupitice Justice Technologies,-
+,1828.0,Vram V,vram.v@ducenit.com,Director Talent Acquisition,Ducen,$63M (ARR)
+,1829.0,Vyas Ramaraj,vyas.ramaraj@trustrace.com,Director HR,TrusTrace,-
+,1830.0,Yasar Arafath,yasar.j@techmango.net,Head Of Human Resources,Techmango Technology Services,-
+,1831.0,Yashika Gupta,yashika@mawaimail.com,Head of Recruitment,Mawai Infotech,-
+,1832.0,Yashika Thimmaiah,yashika@vrize.com,Chief Human Resources Officer,VRIZE,-
+,1833.0,Yashpal Yadav,yashpal.yadav@dynproindia.com,Head Of Talent Management,"DynPro,",-
+,1834.0,Yashwanth Salian,yashwanths@blubirch.com,Head Of Human Resources & Administration,Blubirch,-
+,1835.0,Yesha Brahmbhatt,yesha.brahmbhatt@contentstack.com,Associate Director Human Resources,Contentstack,-
+,1836.0,Yogesh Waran,yogesh.waran@sandhata.com,Director- Talent Acquisition,Sandhata Technologies,-
+,1837.0,Yogita Sharma,yogita.sharma@netsmartz.com,Head-HR(People and Culture),Netsmartz,-
+,1838.0,Zarna Trivedi,zarnatrivedi@versa-networks.com,Head - Human Resources,Versa Networks,-
+,1839.0,Zeeshan Khan,zeeshan.khan@luminescent.digital,Head Of Human Resources,Luminescent Digital,-
+,1840.0,Zia Alam,zia.alam@bluepineapple.io,Chief People Officer,bluepineapple,-
+,1841.0,Zubair Wani,zubair.wani@netmagicsolutions.com,Associate Director - Human Resources,NTT DATA,$42.2B (ARR)
+,1842.0,Zulfiqar Syed,zulfiqar.syed@netcore.co.in,Associate Vice President - HR,Netcore Cloud,$136.5M (ARR)
+Published by Google Sheets–Report Abuse–Updated automatically every 5 minutes,,,,,,-
