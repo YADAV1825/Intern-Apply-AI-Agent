@@ -35,8 +35,6 @@ Key highlights from my background:
 
 My institute permits a full-time 6-month internship, and I am keen to commit full-time with the objective of delivering immediate high-impact engineering work and converting to a full-time FTE role.
 
-I would welcome the opportunity to discuss how my skillset can add value to ${company}, or to complete a technical assessment at your convenience.
-
 Resume: https://rohit-portfolio-yadav1825.vercel.app/Resume_rohit_yadav.pdf
 Portfolio: https://rohit-portfolio-yadav1825.vercel.app/
 GitHub: https://github.com/YADAV1825
